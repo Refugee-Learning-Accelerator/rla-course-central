@@ -32,7 +32,7 @@ Look for your team in the file. If you can't find it, choose a name for your tea
   "members": [
     {
       "name": "person A name",
-      "username": "person B username"
+      "username": "person A username"
     }
   ]
 }
