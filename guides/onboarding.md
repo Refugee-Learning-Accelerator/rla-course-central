@@ -35,7 +35,8 @@ Look for your team in the file. If you can't find it, choose a name for your tea
       "username": "person B username"
     }
   ]
-}```
+}
+```
 
 If your team already exists, you just need to add yourself as a member.
 1. Find your team entry. Add a comma after the last `}` in your team's members.
@@ -54,5 +55,6 @@ If your team already exists, you just need to add yourself as a member.
       "username": "person B username"
     }
   ]
-}```
+}
+```
 
