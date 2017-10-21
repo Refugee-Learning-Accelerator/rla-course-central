@@ -1,6 +1,6 @@
 # Getting started with GitLab and Mattermost
 
-Follow these steps to set up your GitLab and Mattermost accounts. We will be using GitLab to host all our code and instructions. WE will be using Mattermost as our chat platform.
+Follow these steps to set up your GitLab and Mattermost accounts. We will be using GitLab to host all our code and instructions. We will be using Mattermost as our chat platform.
 1. Go [here](https://gitlab.refugeelearning.site) and register a new account.
 2. Click `Groups`, then `Explore public groups`, then `RLA`, then `Request Access`.
 3. Run the following in command line (replace `yourusername` with your actual username):
