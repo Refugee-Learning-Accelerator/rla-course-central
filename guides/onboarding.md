@@ -4,14 +4,14 @@ Follow these steps to set up your GitLab and Mattermost accounts. We will be usi
 1. Go [here](https://gitlab.refugeelearning.site) and register a new account.
 2. Click `Groups`, then `Explore public groups`, then `RLA`, then `Request Access`.
 3. Run the following in command line (replace `yourusername` with your actual username):
-  - `git clone https://gitlab.refugeelearning.site/rla/ideate-central`
-  - `cd ideate-central`
+  - `git clone https://gitlab.refugeelearning.site/rla/course-central`
+  - `cd course-central`
   - `git checkout -b register-yourusername`
   - Edit `participants.json` as described below.
   - `git add participants.json`
   - `git commit -m 'Register yourusername'`
   - `git push origin register-yourusername`
-4. Go [here](https://gitlab.refugeelearning.site/rla/ideate-central). In the project navigation bar, click `Branches`, then `Merge Request`.
+4. Go [here](https://gitlab.refugeelearning.site/rla/course-central). In the project navigation bar, click `Branches`, then `Merge Request`.
 5. Set `Assignee` to be ``@vahidfazelrezai`.
 6. Click `Submit merge request`.
 7. Go [here](https://mattermost.refugeelearning.site) and click GitLab.
