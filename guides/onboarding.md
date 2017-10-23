@@ -22,7 +22,7 @@ Follow these steps to set up your GitLab and Mattermost accounts. We will be usi
 ### Editing `participants.json`
 This file will be how we maintain a record of all participants and teams. It must follow a very specific format.
 
-Look for your team in the file. If you can't find it, choose a name for your team, then add yourself as follows:
+If you are the primary contact for your team, choose a name for your team, and add yourself as follows:
 1. Add a comma after the last `}`.
 2. Starting on the next line after the comma, add the following text (you'll have to enter your own team name, name, and GitLab username):
 
@@ -38,7 +38,7 @@ Look for your team in the file. If you can't find it, choose a name for your tea
 }
 ```
 
-If your team already exists, you just need to add yourself as a member.
+If you are not the primary contact for your team, you just need to add yourself as a member. 
 1. Find your team entry. Add a comma after the last `}` in your team's members.
 2. Starting on the next line after the comma, add your entry. For example, if you were to add to the team above, it would look like:
 
