@@ -1,3 +1,7 @@
+# Welcome
+
+In this online course, we will use Gitlab repositories to store all of the course materials and the work your team is doing. If you are new to git or Gitlab and some of this doesn't yet make sense, don't worry! We highly recommend working through some of the tutorials on Git and Gitlab (for example [this one](https://about.gitlab.com/2016/10/25/gitlab-workflow-an-overview/)) but we will continue to give you step by step instructions, so you should be able to follow along.
+
 # Getting started with GitLab and Mattermost
 
 Follow these steps to set up your GitLab and Mattermost accounts. We will be using GitLab to host all our code and instructions. We will be using Mattermost as our chat platform.
