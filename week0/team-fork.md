@@ -1,6 +1,8 @@
 # Setting up your team fork
 
-*Make sure you have completed [Getting started with GitLab and Mattermost](onboarding.md)!*
+##Important:
+* Make sure you have completed [Getting started with GitLab and Mattermost](onboarding.md)!
+* Only one member of each team needs to do this! (check with your team mates)
 
 In this online course, we will use Gitlab repositories to store all of the course materials and the work your team is doing. We went ahead and created a few groups and subgroups to make coordination easier, but you still need to set up your team environment. Just follow the steps below and ping us on Mattermost if you get stuck. 
 
