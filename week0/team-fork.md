@@ -1,6 +1,7 @@
 # Setting up your team fork
 
-##Important:
+## Important
+
 * Make sure you have completed [Getting started with GitLab and Mattermost](onboarding.md)!
 * Only one member of each team needs to do this! (check with your team mates)
 
