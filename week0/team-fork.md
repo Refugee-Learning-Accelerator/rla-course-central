@@ -15,6 +15,10 @@ You can use the sub-group to create a team work space. The work space is a fork 
 
 If you are new to git or Gitlab and some of this doesn't yet make sense, don't worry! We highly recommend working through some of the tutorials on Git and Gitlab (for example [this one](https://about.gitlab.com/2016/10/25/gitlab-workflow-an-overview/)) but we will continue to give you step by step instructions, so you should be able to follow along. 
 
+## Step-by-step Instructions
+
+*Reminder: each team only needs to do this once!*
+
 1. Go to the [team-template project](https://gitlab.refugeelearning.site/rla/team-template).
 2. Click `Fork` under the project name.
 3. Choose `RLA/[your team name]` as your fork destination. It will take a few moments to finish.
