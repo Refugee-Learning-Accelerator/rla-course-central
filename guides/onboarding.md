@@ -6,7 +6,7 @@ Follow these steps to set up your GitLab and Mattermost accounts. We will be usi
 3. Run the following in command line (replace `yourusername` with your actual username):
   - `git clone https://gitlab.refugeelearning.site/rla/course-central`
   - `cd course-central`
-  - `git checkout -b register-yourusername`
+  - `git checkout -b register-yourusername` (for example: git checkoug -b register-*vahidfazelrezai*)
   - Edit `participants.json` as described below.
   - `git add participants.json`
   - `git commit -m 'Register yourusername'`
