@@ -24,7 +24,7 @@ This file will be how we maintain a record of all participants and teams. It mus
 
 #### Adding a Team (for primary contacts)
 
-*If you are the primary contact for your team*, choose a name for your team, and add your team as follows:
+*If you are the primary contact for your team*, choose a name for your team (you may not change this later, so pick wisely!), and add your team as follows:
 
 1. Each team has a teamName followed by a number of team members. 
 2. Each team gets their own block.
