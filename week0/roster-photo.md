@@ -9,4 +9,5 @@ First, make sure someone on your team has [created your team's fork](team-fork.m
 4. Choose a photo of yourself to upload.
     - **Important:** Please name the file with your GitLab username, e.g. `vahidfazelrezai.jpg`. You must do this *before* you upload the file.
 5. Click `Upload`.
+
 After you finish these steps there should be a new commit on your project that adds a your photo file.
