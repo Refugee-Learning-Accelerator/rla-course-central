@@ -16,7 +16,7 @@ Follow these steps to set up your GitLab and Mattermost accounts. We will be usi
   - `git commit -m 'Register yourusername'`
   - `git push origin register-yourusername`
 4. Go [here](https://gitlab.refugeelearning.site/rla/course-central). In the project navigation bar, click `Branches`, then `Merge Request`.
-5. Set `Assignee` to be ``@vahidfazelrezai`.
+5. Set `Assignee` to be `@vahidfazelrezai`.
 6. Click `Submit merge request`.
 7. Go [here](https://mattermost.refugeelearning.site) and click GitLab.
 8. Join the RLA team.
