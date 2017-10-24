@@ -10,7 +10,7 @@ Follow these steps to set up your GitLab and Mattermost accounts. We will be usi
 3. Join the RLA team.
 4. Introduce yourself in the General channel!
 5. Go back to [GitLab](https://gitlab.refugeelearning.site). Click `Groups`, then `Explore public groups`, then `RLA`, then `Request Access`. Your request should be approved within a few seconds.
-6. Now you will need to add your information in [this file](https://gitlab.refugeelearning.site/rla/course-central/blob/master/participants.json). There are two options for how to do this--you may pick whichever you prefer.
+6. Now you will need to register by adding your information in [this file](https://gitlab.refugeelearning.site/rla/course-central/blob/master/participants.json). There are two options for how to do this--you may pick whichever you prefer below.
 
 #### Option 1: Registering through web interface
 
