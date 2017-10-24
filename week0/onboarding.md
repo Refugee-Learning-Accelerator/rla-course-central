@@ -12,6 +12,18 @@ Follow these steps to set up your GitLab and Mattermost accounts. We will be usi
 5. Go back to [GitLab](https://gitlab.refugeelearning.site). Click `Groups`, then `Explore public groups`, then `RLA`, then `Request Access`. Your request should be approved within a few seconds.
 6. Now you will need to add your information in [this file](https://gitlab.refugeelearning.site/rla/course-central/blob/master/participants.json). There are two options for how to do this--you may pick whichever you prefer.
 
+#### Option 2: Registering through web interface
+
+1. Go to the [here](https://gitlab.refugeelearning.site/rla/course-central) page.
+2. Under the project navigation bar, click the `+` button and choose `New branch` from the dropdown.
+3. Write `register-yourusername` (replacing `yourusername` with your actual username) for your branch name.
+4. Click `participants.json` to open the file.
+5. Click `Edit` in the top right and make your edits as described below.
+6. Click `Commit changes` at the bottom.
+7. Navigate back to [course-central](https://gitlab.refugeelearning.site/rla/course-central). In the project navigation bar, click `Branches`, then find your branch and click `Merge Request`.
+8. Set `Assignee` to be `@vahidfazelrezai`.
+9. Click `Submit merge request`. An instructor will review and merge your request. Once it is merged, you will be added to a subgroup for your team.
+
 #### Option 1: Registering with Git
 
 1. Run the following in your command line (Terminal on Mac and Command Prompt on Windows), replacing `yourusername` with your actual username:
@@ -26,19 +38,6 @@ Follow these steps to set up your GitLab and Mattermost accounts. We will be usi
 2. Go [here](https://gitlab.refugeelearning.site/rla/course-central). In the project navigation bar, click `Branches`, then find your branch and click `Merge Request`.
 3. Set `Assignee` to be `@vahidfazelrezai`.
 4. Click `Submit merge request`. An instructor will review and merge your request. Once it is merged, you will be added to a subgroup for your team.
-
-#### Option 2: Registering through web interface
-
-1. Go to the [here](https://gitlab.refugeelearning.site/rla/course-central) page.
-2. Under the project navigation bar, click the `+` button and choose `New branch` from the dropdown.
-3. Write `register-yourusername` (replacing `yourusername` with your actual username) for your branch name.
-4. Click `participants.json` to open the file.
-5. Click `Edit` in the top right and make your edits as described below.
-6. Click `Commit changes` at the bottom.
-7. Navigate back to [course-central](https://gitlab.refugeelearning.site/rla/course-central). In the project navigation bar, click `Branches`, then find your branch and click `Merge Request`.
-8. Set `Assignee` to be `@vahidfazelrezai`.
-9. Click `Submit merge request`. An instructor will review and merge your request. Once it is merged, you will be added to a subgroup for your team.
-
 
 ## Editing `participants.json`
 This file will be how we maintain a record of all participants and teams. It must follow a very specific format.
