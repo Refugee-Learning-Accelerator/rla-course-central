@@ -1,12 +1,12 @@
 ### Adding your photo
 
-We would like to create a roster of all accelerator participants with their names and photos. For this, you should add a photo of yourself in your team project as follows.
-1. Clone your project:
-  - Copy the URL of your team's project in your subgroup (e.g. https://gitlab.refugeelearning.site/rla/<TEAM NAME>/team-template).
-  - Go to your terminal and run `git clone [paste the project url]` (without the `[]`).
-2. Browse to the `photos` directory and add a photo of yourself. Name the file with your gitlab username, e.g. `vahidfazelrezai.jpg`.
-3. Add, commit, and push your changes:
-  - Go to the root directory of your project.
-  - Run `git add .`
-  - Run `git commit -m 'Add picture'`
-  - Run `git push -u origin master`
+We would like to create a roster of all accelerator participants with their names and photos. For this, you should add a photo of yourself in your team project following the steps below.
+
+First, make sure someone on your team has [created your team's fork](team-fork.md), which only needs to be done once per team. Once your team has your own project, each team member should add their photo as follows:
+1. Navigate to your team's project (e.g. https://gitlab.refugeelearning.site/rla/<TEAM NAME>/team-template).
+2. Click on the `photos` directory.
+3. Under the navigation bar, click the `+` button and choose `Upload file` from the dropdown.
+4. Choose a photo of yourself to upload.
+    - **Important:** Please name the file with your GitLab username, e.g. `vahidfazelrezai.jpg`. You must do this *before* you upload the file.
+5. Click `Upload`.
+After you finish these steps there should be a new commit on your project that adds a your photo file.
