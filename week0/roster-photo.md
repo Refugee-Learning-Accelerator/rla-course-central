@@ -1,6 +1,6 @@
 ### Adding your photo
 
-We would like to create a roster of all accelerator participants with their names and photos. For this, you should add a photo of yourself in your team project following the steps below.
+We would like to create a roster of all accelerator participants with their names and photos. For this, you should add a photo of yourself in your team workspace folder following the steps below.
 
 First, make sure someone on your team has [created your team's fork](team-fork.md), which only needs to be done once per team. Once your team has your own project, each team member should add their photo as follows:
 1. Navigate to your team's project (e.g. https://gitlab.refugeelearning.site/rla/<TEAM NAME>/team-template).
