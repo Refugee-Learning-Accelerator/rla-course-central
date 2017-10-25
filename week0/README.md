@@ -1,4 +1,4 @@
-## Using GitLab for Team Projects
+# Week 0 
 
 In this online course, we will use GitLab repositories to store all of the course materials and the work your team is doing.  Just follow the steps below and ping us on Mattermost if you get stuck.
 
