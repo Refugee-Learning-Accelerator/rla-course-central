@@ -71,7 +71,10 @@ This file will be how we maintain a record of all participants and teams. It mus
 
 ## Creating your team fork
 
-Once you've added your team in `participants.json`, you will have a subgroup under the RLA group just for your team. You now need to fork the `team-template` project into your subgroup:
+Once you've added your team in `participants.json`, you will have a subgroup under the RLA group just for your team. You can use the sub-group to create a team work space. The work space is a fork of the [team-template project](https://gitlab.refugeelearning.site/rla/team-template). You will commit all your work for the design challenges through this repository. You will also be able to receive materials for the new challenges by pulling from the upstream fork (more about that soon).
+
+
+You now need to fork the `team-template` project into your subgroup:
 1. Go to the [team-template project](https://gitlab.refugeelearning.site/rla/team-template).
 2. Click `Fork` under the project name.
 3. Choose `RLA/[your team name]` as your fork destination. It will take a few moments to finish.
