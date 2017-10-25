@@ -3,11 +3,11 @@
 ## Important
 
 * Make sure you have completed [Getting started with GitLab and Mattermost](onboarding.md)!
-* Only one member of each team needs to do this (check with your teammates)!
+* Only **one member of each team** needs to do this (check with your teammates)!
 
 ## Registering your team in course-central
 
-*If you are the primary contact for your team*, choose a name for your team (you may not change this later, so pick wisely!), and add your team to `participants.json`. There are two options for how to do this--you may pick whichever you prefer below.
+*If you are the designated team register*, work with your team to choose a name for your team (you may not change this later, so pick wisely!), and add your team to `participants.json`. There are two options for how to do this--you may pick whichever you prefer below.
 
 #### Option 1: Registering through web interface
 
