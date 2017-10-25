@@ -7,7 +7,7 @@
 
 ## Registering your team in course-central
 
-*If you are the designated person registering your team*, work with your team to choose a name for your team (you may not change this later, so pick wisely!), and add your team to `participants.json`. There are two options for how to do this--you may pick whichever you prefer below.
+*If you are the designated person registering your team*, work with your team to choose a team name (you may not change this later, so pick wisely!), and add your team to `participants.json`. There are two options for how to do this--you may pick whichever you prefer below.
 
 #### Option 1: Registering through web interface
 
