@@ -50,5 +50,19 @@
         "username": "JohnyElia"
       }
     ]
-  }
+  },
+  {
+  "teamName": "discovery",
+  "members": [
+    {
+      "name": "Ilmam Mourtada",
+      "username": "discovery"
+    },
+    {
+      "name": "Joe Abboud",
+      "username": ""
+    }
+  ]
+}
+
 ]
