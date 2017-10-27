@@ -50,8 +50,8 @@
         "username": "JohnyElia"
       },
       {
-          "name": "Edmond Riachy",
-          "username": "EdmondRiachy"
+        "name": "Edmond Riachy",
+        "username": "EdmondRiachy"
       }
     ]
   },
@@ -69,12 +69,54 @@
     ]
   },
   {
-     "teamName": "Team-Aden",
+    "teamName": "Team-Aden",
     "members": [
       {
         "name": "Abdalhmeed Osaiweran",
         "username": "Abdalhmeed"
       }
-     ]
+    ]
+  },
+  {
+    "teamName": "ARAM",
+    "members": [
+      {
+        "name": "Ahmed Rabid",
+        "username": "ahmedrobaid"
+      },
+      {
+        "name": "Ali Al-Obal",
+        "username": "alialobal"
+      },
+      {
+        "name": "Mohammed Al-Dhobai",
+        "username": "thelegendofyemen"
+      },
+      {
+        "name": "Raeed Al-Sabri",
+        "username": "raeedalsabri"
+      },
+      {
+        "name": "Rasheed Abdullah",
+        "username": "rasheedabdullah"
+      }
+    ]
+  },
+  {
+    "teamName": "CLAY",
+    "members": [
+      {
+        "name": "Mahmoud Abdelhadi",
+        "username": "mn171"
+      },
+      {
+        "name": "Bashar Hussam Abo Joub",
+        "username": "beshographix"
+      },
+      {
+        "name": "Ayoub Aref AbuAsbeh",
+        "username": "AyoubAref"
+      }
+    ]
   }
 ]
