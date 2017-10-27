@@ -50,8 +50,8 @@
         "username": "JohnyElia"
       },
       {
-          "name": "Edmond Riachy",
-          "username": "EdmondRiachy"
+        "name": "Edmond Riachy",
+        "username": "EdmondRiachy"
       }
     ]
   },
@@ -65,6 +65,31 @@
       {
         "name": "Joe Abboud",
         "username": "joeabboud"
+      }
+    ]
+  },
+  {
+    "teamName": "ARAM",
+    "members": [
+      {
+        "name": "Ahmed Rabid",
+        "username": "ahmedrobaid"
+      },
+      {
+        "name": "Ali Al-Obal",
+        "username": "alialobal"
+      },
+      {
+        "name": "Mohammed Al-Dhobai",
+        "username": "thelegendofyemen"
+      },
+      {
+        "name": "Raeed Al-Sabri",
+        "username": "raeedalsabri"
+      },
+      {
+        "name": "Rasheed Abdullah",
+        "username": "rasheedabdullah"
       }
     ]
   },
