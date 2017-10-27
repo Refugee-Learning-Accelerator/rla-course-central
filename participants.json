@@ -67,5 +67,22 @@
         "username": "joeabboud"
       }
     ]
+  },
+  {
+    "teamName": "CLAY",
+    "members": [
+      {
+        "name": "Mahmoud Abdelhadi",
+        "username": "mn171"
+      },
+      {
+        "name": "Bashar Hussam Abo Joub",
+        "username": "beshographix"
+      },
+      {
+        "name": "Ayoub Aref AbuAsbeh",
+        "username": "AyoubAref"
+      }
+    ]
   }
 ]
