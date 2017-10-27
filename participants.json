@@ -25,13 +25,13 @@
       }
     ]
   },
-    {
-      "teamName": "ArabCode",
-      "members": [
-        {
-          "name": "Hadi Aladdin",
-          "username": "hadialaddin"
-        }
-      ]
-    }
+  {
+    "teamName": "ArabCode",
+    "members": [
+      {
+        "name": "Hadi Aladdin",
+        "username": "hadialaddin"
+      }
+    ]
+  }
 ]
