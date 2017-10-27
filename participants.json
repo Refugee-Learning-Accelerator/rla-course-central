@@ -54,5 +54,18 @@
           "username": "EdmondRiachy"
       }
     ]
+  },
+  {
+    "teamName": "Discovery",
+    "members": [
+      {
+        "name": "Ilmam Mourtada",
+        "username": "discovery"
+      },
+      {
+        "name": "Joe Abboud",
+        "username": "joeabboud"
+      }
+    ]
   }
 ]
