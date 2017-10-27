@@ -1,5 +1,5 @@
-##MIT Media Lab Learning Initiative 
-#Refugee Learning Accelerator
+## MIT Media Lab Learning Initiative 
+# Refugee Learning Accelerator
 
 Design challenge 1| How might we build on existing messaging platforms using chatbots to support refugee learners either inside or outside of the classroom? 
 
