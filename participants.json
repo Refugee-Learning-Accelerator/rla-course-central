@@ -52,17 +52,17 @@
     ]
   },
   {
-  "teamName": "discovery",
-  "members": [
-    {
-      "name": "Ilmam Mourtada",
-      "username": "discovery"
-    },
-    {
-      "name": "Joe Abboud",
-      "username": ""
-    }
-  ]
-}
+    "teamName": "discovery",
+    "members": [
+      {
+        "name": "Ilmam Mourtada",
+        "username": "discovery"
+      },
+      {
+        "name": "Joe Abboud",
+        "username": ""
+      }
+    ]
+  }
 
 ]
