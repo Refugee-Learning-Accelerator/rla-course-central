@@ -24,5 +24,14 @@
         "username": "youssefchamoun"
       }
     ]
-  }
+  },
+    {
+      "teamName": "ArabCode",
+      "members": [
+        {
+          "name": "Hadi Aladdin",
+          "username": "hadialaddin"
+        }
+      ]
+    }
 ]
