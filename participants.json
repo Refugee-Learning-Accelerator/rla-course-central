@@ -17,6 +17,23 @@
     ]
   },
   {
+    "teamName": "InnoTeam",
+    "members": [
+      {
+        "name": "Baraa Shiboub",
+        "username": "BaraaShiboub"
+      },
+      {
+        "name": "Shadi Al Masri",
+        "username": "ShadiAlMasri"
+      },
+      {
+        "name": "Hassan Hussieni",
+        "username": "HassaHussieni"
+      }
+    ]
+  },
+  {
     "teamName": "PEDD",
     "members": [
       {
