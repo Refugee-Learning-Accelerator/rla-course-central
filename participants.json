@@ -1,18 +1,18 @@
 [
   {
-    "teamName": "Instructors",
+    "teamName": "InnoTeam",
     "members": [
       {
-        "name": "Vahid Fazel-Rezai",
-        "username": "vahidfazelrezai"
+        "name": "Baraa Shiboub",
+        "username": "BaraaShiboub"
       },
       {
-        "name": "Genevieve Barrons",
-        "username": "genevieve"
+        "name": "Shadi Al Masri",
+        "username": "ShadiAlMasri"
       },
       {
-        "name": "Philipp Schmidt",
-        "username": "1l2p"
+        "name": "Hassan Hussieni",
+        "username": "HassaHussieni"
       }
     ]
   },
