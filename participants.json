@@ -154,12 +154,12 @@
     ]
   },
   {
-  "teamName": "Brain Tank",
-  "members": [
-    {
-      "name": "Yazan Fanous",
-      "username": "yfanous"
-    }
-  ]
-
+    "teamName": "Brain-Tank",
+    "members": [
+      {
+        "name": "Yazan Fanous",
+        "username": "yfanous"
+      }
+    ]
+  }
 ]
