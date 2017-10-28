@@ -118,5 +118,19 @@
         "username": "AyoubAref"
       }
     ]
+  },
+  {
+     "teamName": "Coffee Beans",
+     "members": [
+      {
+        "name": "Shereen Messi",
+        "username": "shereen"
+      },
+      {
+        "name": "Noor Sulaiman",
+        "username": "NoorSulaiman"
+      }
+  ]
+
   }
 ]
