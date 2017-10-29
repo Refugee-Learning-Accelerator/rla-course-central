@@ -5,3 +5,4 @@ You can access the RLA Mattermost team on your phone as well as in a web browser
 2. For the server URL, enter `https://mattermost.refugeelearning.site` (not http).
 3. Tap on GitLab as your login method.
 4. Sign in with your RLA GitLab account.
+5. You can configure your notification settings by clicking on the three bars (☰) > Account Settings > Notifications, and choosing settings for mobile and email notifications.
