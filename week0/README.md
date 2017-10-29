@@ -11,7 +11,7 @@ If you are new to git or GitLab and some of this doesn't yet make sense, don't w
 3. Once you have set up both accounts, please **introduce yourself** in the general channel of [Mattermost](https://mattermost.refugeelearning.site/rla/channels/town-square)!
   - What's your name, where are you from, and what's your [Mexican wrestler](http://gangstaname.com/names/mexican_wrestler#.WfEMEROPIo8) title? 
 
-2. **One person from each team**  will need to set up your team and workspace following [these instructions](step-2a-register-team). Coordinate this with your team members!
+2. **One person from each team**  will need to set up your team and workspace following [these instructions](step-2a-register-team.md). Coordinate this with your team members!
 
 4. Once the team has been set up, **all other team members** need to register themselves following [these instructions](step-2b-register-member.md).
 
