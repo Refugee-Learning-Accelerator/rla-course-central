@@ -372,8 +372,26 @@
         "username": "balloush"
       }
     ]
+  },
+  {
+    "teamName": "Day1",
+    "members": [
+      {
+        "name": "Ahmad Ghizzawi",
+        "username": "ahmadghizzawi"
+      },
+      {
+        "name": "Mike Clarke",
+        "username": ""
+      },
+      {
+        "name": "Leen Naffaa",
+        "username": ""
+      },
+      {
+        "name": "Ali Moussawi",
+        "username": ""
+      },
+    ]
   }
-] 
-
-
-
+]
