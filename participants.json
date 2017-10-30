@@ -254,12 +254,8 @@
         "username": "Fawaz2050"
       }
     ]
-  }
-],
-    
-    
-    
-   {
+  },
+  {
     "teamName": "Martians-Codes",
     "members": [
       {
@@ -273,16 +269,15 @@
       {
         "name": "Mohammad Al Husein",
         "username": ""
-      }
-      ,
+      },
       {
         "name": "Mohammad Deeb",
         "username": ""
-      }
-      ,
+      },
       {
         "name": "Mohammad EL-Murdaa",
         "username": ""
       }
     ]
   }
+]
