@@ -288,5 +288,30 @@
         "username": "safi88"
       }
     ]
+  },
+  {
+    "teamName": "JUSTLearn",
+    "members": [
+      {
+        "name": "Mohammed Jaber",
+        "username": "justlearn"
+      },
+      {
+        "name": "Wafaa Musallam",
+        "username": "wafa"
+      },
+      {
+        "name": "Yara Kandah",
+        "username": "ynkandah"
+      },
+      {
+        "name": "Ala''A Al-Theinat",
+        "username": "ahtheinat"
+      },
+      {
+        "name": "Ebtesam Ababneh",
+        "username": "ebtesam"
+      }
+    ]
   }
 ]
