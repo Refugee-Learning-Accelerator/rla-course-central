@@ -1,5 +1,35 @@
 [
   {
+  "teamName": "JUSTLearn",
+  "members": [
+    {
+      "name": "Mohammed Jaber",
+      "username": "mohammadj81@just.edu.jo"
+    }
+  ,
+    {
+      "name": "Wafaa Musallam",
+      "username": "wafa@just.edu.jo"
+    }
+     ,
+    {
+      "name": "Yara Kandah",
+      "username": "ynkandah@just.edu.jo"
+    }
+    ,
+      {
+      "name": "Ala''A Al-Theinat",
+      "username": "ahtheinat@just.edu.jo"
+    }
+      ,
+      {
+      "name": "Ebtesam Ababneh",
+      "username": "ebtesam@just.edu.jo"
+    }
+  ]
+},
+
+  {
     "teamName": "Instructors",
     "members": [
       {
