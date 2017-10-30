@@ -1,7 +1,7 @@
 # Chatbots Challenge - Deliverables 
 
 ## Menu
-* [Chatbots challenge overview](https://gitlab.refugeelearning.site/rla-staging/Workspace/blob/master/challenge1/README.md)
+* [Chatbots challenge overview](https://gitlab.refugeelearning.site/rla/course-central/blob/master/challenge1/README.md)
 * [Mattermost channel](https://mattermost.refugeelearning.site/rla/channels/challenge-1) for questions and comments
 
 ## The Chatbot Challenge has **two deliverables** 
