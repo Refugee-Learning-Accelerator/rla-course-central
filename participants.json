@@ -423,5 +423,18 @@
         "username": ""
       }
     ]
+  },
+  {
+    "teamName":"BitCodes",
+    "members":[
+      {
+        "name": "Amneh Shaban",
+        "username": "amnehshaban"
+      },
+      {
+        "name": "Fadi Al-Masalha",
+        "username": ""
+      }
+    ]
   }
 ]
