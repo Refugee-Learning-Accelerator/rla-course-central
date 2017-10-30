@@ -402,5 +402,22 @@
         "username": ""
       }
     ]
+  },
+  {
+    "teamName": "GeoCode",
+    "members": [
+      {
+        "name": "Mohamad Bouzi",
+        "username": "Mohamad"
+      },
+      {
+        "name": "Safa Naasan",
+        "username": ""
+      },
+      {
+        "name": "Abdulkafi Abdul Samad",
+        "username": ""
+      }
+    ]
   }
 ]
