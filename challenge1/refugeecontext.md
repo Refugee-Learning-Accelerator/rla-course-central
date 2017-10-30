@@ -6,7 +6,7 @@
 
 ## Chat platforms and education
 
-Research suggests that the primary way most refugees engage with the internet is via messaging platforms (specifically Whatsapp and Facebook messenger) on Android smartphones. Many education programs for refugees already use these existing messaging platforms to:
+[Research suggests](https://gitlab.refugeelearning.site/rla/course-central/blob/master/challenge1/Other%20resources/ICT4Refugees%20Report.pdf) that the primary way most refugees engage with the internet is via messaging platforms (specifically Whatsapp and Facebook messenger) on Android smartphones. Many education programs for refugees already use these existing messaging platforms to:
 * extend learning time beyond the classroom;
 * offer psycho-social support;
 * communicate with parents; 
@@ -51,8 +51,8 @@ Keep in mind that education is not just about students: you may want to design a
 
 ## Other resources
  
-* [Transcript of Whatsapp conversation from InZone](https://gitlab.refugeelearning.site/rla/Workspace/blob/master/challenge1/Whatsapp%20Chat%20Log%20-%20RAFT-InZone%20Dadaab%20Basic%20Medical%20Training%20course.pdf): this should give you some insight into how an existing higher education for refugees program is using Whatsapp
-* [Transcript of Whatsapp conversation from Jamiya](https://gitlab.refugeelearning.site/rla/Workspace/blob/master/challenge1/Whatsapp%20transcripts%20from%20the%20Jamiya%20project.pdf): another example of how an existing higher education for refugees program is using WhatsApp  
-* [Tracing pathways to higher education for refugees: the role of virtual support networks and mobile phones for women in refugee camps](https://gitlab.refugeelearning.site/rla/Workspace/blob/master/challenge1/Tracing%20pathways%20to%20higher%20education%20for%20refugees%20the%20role%20of%20virtual%20support%20networks%20and%20mobile%20phones%20for%20women%20in%20refugee%20camps%202.pdf): research on the current role of online social networks in creating pathways to higher education for female Somali refugees  
+* [Transcript of Whatsapp conversation from InZone](https://gitlab.refugeelearning.site/rla/course-central/blob/master/challenge1/Other%20resources/Whatsapp%20Chat%20Log%20-%20RAFT-InZone%20Dadaab%20Basic%20Medical%20Training%20course.pdf): this should give you some insight into how an existing higher education for refugees program is using Whatsapp
+* [Transcript of Whatsapp conversation from Jamiya](https://gitlab.refugeelearning.site/rla/course-central/blob/master/challenge1/Other%20resources/Whatsapp%20transcripts%20from%20the%20Jamiya%20project.pdf): another example of how an existing higher education for refugees program is using WhatsApp  
+* [Tracing pathways to higher education for refugees: the role of virtual support networks and mobile phones for women in refugee camps](https://gitlab.refugeelearning.site/rla/course-central/blob/master/challenge1/Other%20resources/Tracing%20pathways%20to%20higher%20education%20for%20refugees%20the%20role%20of%20virtual%20support%20networks%20and%20mobile%20phones%20for%20women%20in%20refugee%20camps%202.pdf): research on the current role of online social networks in creating pathways to higher education for female Somali refugees  
 * [How teachers use mobile phones in refugee camps](https://www.brookings.edu/blog/education-plus-development/2017/03/14/how-teachers-use-mobile-phones-as-education-tools-in-refugee-camps/): overview of research on how teachers are already using mobile phones in refugee camps in Kenya. 
 * [How an Artificially Intelligent Virtual Assistant Helps Student Navigate the Road to College](https://poseidon01.ssrn.com/delivery.php?ID=231116021119094076027095112104068121018062034043090044011067088076100005106089116104029123096099014032005006112003119012080103037012043042080122113114079088069116102042013042094099026090098007086097007117027064085004073012100076031072100124085102008121&EXT=pdf): research from Georgia State University on how chatbots can be used to support university students during the university enrollment process  
