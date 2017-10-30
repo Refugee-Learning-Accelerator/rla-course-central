@@ -321,5 +321,22 @@
         "username": "ebtesam"
       }
     ]
+  },
+  {
+    "teamName": "BeirutByByte",
+    "members": [
+      {
+        "name": "Emad Yehya",
+        "username": "emady"
+      },
+      {
+        "name": "Salam El Bsat",
+        "username": "sebmachine"
+      },
+      {
+        "name": "Ebrahim Karam",
+        "username": "eek05"
+      }
+    ]
   }
 ]
