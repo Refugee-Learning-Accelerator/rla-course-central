@@ -286,6 +286,39 @@
       {
         "name": "Mustafa Shaban",
         "username": "safi"
+      },
+      {
+        "name": "Hazem Karbouj",
+        "username": "_Hazem_"
+      },
+      {
+        "name": "Hasan Abu Rasheed",
+        "username": "Hasan_AR"
+      }
+    ]
+  },
+  {
+    "teamName": "JUSTLearn",
+    "members": [
+      {
+        "name": "Mohammed Jaber",
+        "username": "justlearn"
+      },
+      {
+        "name": "Wafaa Musallam",
+        "username": "wafa"
+      },
+      {
+        "name": "Yara Kandah",
+        "username": "ynkandah"
+      },
+      {
+        "name": "Ala''A Al-Theinat",
+        "username": "ahtheinat"
+      },
+      {
+        "name": "Ebtesam Ababneh",
+        "username": "ebtesam"
       }
     ]
   }
