@@ -319,8 +319,10 @@
       {
         "name": "Ebtesam Ababneh",
         "username": "ebtesam"
-      },
-      {
+      }
+    ]
+  },
+  {
     "teamName": "Hikma",
     "members": [
       {
@@ -330,8 +332,6 @@
       {
         "name": "Maurice Abou Jaoude",
         "username": "mauriceaj"
-      }
-      ]
       }
     ]
   }
