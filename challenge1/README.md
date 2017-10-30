@@ -37,13 +37,13 @@ Describe your concept for a chatbot in one or two paragraphs. Use visuals (mocku
 **2. Final Project - Due: Sun, Nov/12 (midnight Amman)**  
 Share your chatbot. One or two paragraphs of text. Videos, screenshots or images are encouraged. 
 
-Click here for [detailed instructions on the deliverables](https://gitlab.refugeelearning.site/rla/Workspace/blob/master/challenge1/deliverables.md)
+Click here for [detailed instructions on the deliverables](https://gitlab.refugeelearning.site/rla/course-central/blob/master/challenge1/deliverables.md)
 
 ## Course Materials
 
-**Context - [What are chatbots and how can they be used in refugee education?](https://gitlab.refugeelearning.site/rla/Workspace/blob/master/challenge1/refugeecontext.md)**  
+**Context - [What are chatbots and how can they be used in refugee education?](https://gitlab.refugeelearning.site/rla/course-central/blob/master/challenge1/refugeecontext.md)**  
 Background on the current use of existing messaging platforms by refugee education programs and a series of interviews with possible "use cases" explaining how they currently use chatbots or could imagine doing so. 
 
-**Technology - [Getting started developing chatbots](https://gitlab.refugeelearning.site/rla/Workspace/blob/master/challenge1/gettingstartedchatbots.md)**  
+**Technology - [Getting started developing chatbots](https://gitlab.refugeelearning.site/rla/course-central/blob/master/challenge1/gettingstartedchatbots.md)**  
 Helpful links on chatbot technology and getting started with chatbots development. 
 
