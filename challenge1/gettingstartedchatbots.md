@@ -1,7 +1,7 @@
 # Getting started developing chatbots 
 
 ## Menu
-* [Chatbots challenge overview](https://gitlab.refugeelearning.site/rla/Workspace/edit/master/challenge1/README.md)
+* [Chatbots challenge overview](https://gitlab.refugeelearning.site/rla/course-central/blob/master/challenge1/README.md)
 * [Mattermost channel](https://mattermost.refugeelearning.site/rla/channels/challenge-1) for questions and comments
 
 ## What is a chatbot? 
