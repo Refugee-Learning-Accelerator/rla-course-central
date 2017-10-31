@@ -445,5 +445,22 @@
         "username": "yaman91"
       }
     ]
+  },
+  {
+    "teamName":"The Alternative",
+    "members": [
+      {
+        "name": "Patrick Habib",
+        "username": "PatrickHabib"
+      },
+      {
+        "name": "Florian Muller",
+        "username": "florianmuller"
+      },
+      {
+        "name": "Yorgui Beylouni",
+        "username": ""
+      }
+    ]
   }
 ]
