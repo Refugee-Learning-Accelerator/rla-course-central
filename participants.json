@@ -256,6 +256,10 @@
       {
         "name": "Sara Hammoud",
         "username": "Sara"
+      },
+      {
+        "name": "Nour Kouzayha",
+        "username": "nourkouzayha"
       }
     ]
   },
@@ -265,6 +269,10 @@
       {
         "name": "Fawaz Alrefaee",
         "username": "Fawaz2050"
+      },
+      {
+        "name": "Mohammed Aklan",
+        "username": "mohakln"
       }
     ]
   },
@@ -416,11 +424,11 @@
       },
       {
         "name": "Safa Naasan",
-        "username": ""
+        "username": "Naasan"
       },
       {
         "name": "Abdulkafi Abdul Samad",
-        "username": ""
+        "username": "abdulkafi"
       }
     ]
   },
@@ -447,7 +455,7 @@
     ]
   },
   {
-    "teamName":"futuristic school",
+    "teamName":"futuristic-school",
     "members": [
       {
         "name": "Yaser Alamin",
@@ -456,6 +464,41 @@
       {
         "name": "Abdullah Alamin",
         "username": "Abdu"
+      }
+    ]
+  },
+  {
+    "teamName": "House.of.wisdom",
+    "members": [
+      {
+        "name": "Khalil Almadani",
+        "username": "Khalil-Almadani"
+      }
+    ]
+  },
+  {
+    "teamName": "The-Alternative",
+    "members": [
+      {
+        "name": "Patrick Habib",
+        "username": "PatrickHabib"
+      },
+      {
+        "name": "Florian Muller",
+        "username": "florianmuller"
+      },
+      {
+        "name": "Yorgui Beylouni",
+        "username": "Beylouni"
+      }
+    ]
+  },
+  {
+    "teamName":"Let-US-C",
+    "members": [
+      {
+        "name": "Reem Ali Ahmad",
+        "username": "Reem"
       }
     ]
   }
