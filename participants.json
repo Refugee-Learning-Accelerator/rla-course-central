@@ -446,13 +446,21 @@
       }
     ]
   },
- {
-    "teamName":"Edutek",
+  {
+    "teamName": "Edutek",
     "members": [
       {
         "name": "Tarek Hawasli",
         "username": "thawasli"
+      },
+      {
+        "name": "Mariam Haidar",
+        "username": ""
+      },
+      {
+        "name": "Husam Shamseddin",
+        "username": ""
       }
     ]
-  } 
+  }
 ]
