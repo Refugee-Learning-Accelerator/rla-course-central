@@ -14,10 +14,10 @@ Andrew Magliozzi, CEO, [AdmitHub](https://www.admithub.com/); Oula Abu Amsha, Ac
 [Live Seminar](https://unhangout.media.mit.edu/event/rla/) (Technology): *Getting started building your chatbot*  
 Alan Nichol, CTO, [Rasa](https://rasa.ai/)
 
-**Sun, Nov 4 (midnight Amman)**
+**Sun, Nov 5 (midnight Amman)**
 SUBMIT > Concept Sketch
 
-**Mon, Nov 5**
+**Mon, Nov 6**
 Review other team's projects and leave feedabck 
 
 **Tues, Nov 7 (5pm Amman)**  
