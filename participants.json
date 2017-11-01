@@ -1,16 +1,4 @@
-[{
-    "teamName": "taw",
-    "members": [
-      {
-        "name": "ala'aa daasen",
-        "username": "alaadaasen"
-     }
-    "teamName": "taw",
-    "members": [
-      {
-        "name": "ala'aa daasen",
-        "username": "alaadaasen"
-     }
+[
   {
     "teamName": "Instructors",
     "members": [
@@ -85,6 +73,10 @@
       {
         "name" : "Adrien Zakar",
         "username": "apzakar"
+      },
+      {
+        "name": "Saad Malaeb",
+        "username" :"smalaeb" 
       }
     ]
   },
@@ -567,11 +559,24 @@
     ]
   },
   {
-    "teamName": "taw-team",
+    "teamName": "taw",
     "members": [
       {
         "name": "Waed Albdour",
         "username": "waedalbdour"
+      },
+      {
+        "name": "Ala'aa Daasen",
+        "username": ""
+      }
+    ]
+  },
+  {
+    "teamName":"PSUT",
+    "members": [
+      {
+        "name": "Adiy Tweissi",
+        "username": "tweissi"
       }
     ]
   }
