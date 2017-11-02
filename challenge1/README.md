@@ -9,10 +9,12 @@ This is your dashboard for the first design challenge. It contains a calendar of
 **Tue, Oct 31 (5pm Amman)**  
 [Live Seminar](https://unhangout.media.mit.edu/event/rla/) (Context): *How can chatbots be used to support (refugee) learners?*  
 Andrew Magliozzi, CEO, [AdmitHub](https://www.admithub.com/); Oula Abu Amsha, Academic Advisor, [Jamiya Project](https://www.jamiya.org/)
+You can watch [here]http://youtube.com/watch?v=St3193zRNXY and [here](https://www.youtube.com/watch?v=ye4V5HGaRMw&feature=youtu.be). 
 
 **Wed, Nov 1 (5pm Amman)**  
 [Live Seminar](https://unhangout.media.mit.edu/event/rla/) (Technology): *Getting started building your chatbot*  
 Alan Nichol, CTO, [Rasa](https://rasa.ai/)
+You can watch [here](https://www.youtube.com/watch?v=7N6uEUOuEv8). 
 
 **Sun, Nov 5 (midnight Amman)**
 SUBMIT > Concept Sketch
