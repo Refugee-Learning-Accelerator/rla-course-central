@@ -1,3 +1,3 @@
 # Instructors
 
-Philipp added himself to this file (in terminal)
+Philipp (GitLab: 1l2p) 
