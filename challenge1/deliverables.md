@@ -6,7 +6,7 @@
 
 ## The Chatbot Challenge has **two deliverables** 
 
-### 1. Concept Sketch - Due: Sun Nov/5 (midnight Amman)
+### Concept Sketch - Due: Sun Nov/5 (midnight Amman)
 
 Describe your concept for a chatbot in one or two paragraphs. Use visuals (mockups, diagrams) if possible. It is important to be as specific as possible while mapping out the scope of the project as this will greatly influence implementation and the tools to use. 
 
@@ -35,7 +35,7 @@ Note: All of the following steps must be completed at least once per team (if al
 2. Complete `concept.md` (We will work on `project.md` during the second week). Feel free to also add other files in your folder. We strongly encourage the use of visuals (screenshots, mockups, drawings)
 3. Make sure you commit and push your work by **Sunday midnight (Amman time)**. At that point, the work in your team's workspace will be **automatically** copied into the central course project (thanks to a nifty little script that @vahidfazelrezai wrote). Run: `git push origin master;` 
 
-### 2. Final Project - Due: Sun Nov/12 (midnight Amman)
+### Final Project - Due: Sun Nov/12 (midnight Amman)
 Demonstrate how your chatbot works. Videos, screenshots or images are encouraged. 
 
 Add a short description and answer the following questions: 
