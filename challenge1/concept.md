@@ -3,7 +3,7 @@
 *The Bot acts as a middle man between the user and the institute he wish to contact. furthermore, the Bot has the ability to help the user decide what he wants if the Bot senses an uncertentity or randomness in the users questions. The randomness is defined by general, non relative questions that makes the Bot answer non helpful answers. The user should realise that he is communicating with a Bot connected to a data base, to establish the comfort of knowing that answers are based on academic research and categorizing. Answers do not only consist of information the user requested, it should also be formatted in a way that makes further decision-making easier and more productive.*
   
   
-![](https://gitlab.refugeelearning.site/rla/SyrianGuys/team-template/blob/master/challenge1/1.png)
+![](1.png)
  
  *The concept of the Bot is simple. First of all it takes the question, analyse it using NLP, perform a search depending on the tokens provided by the NLP module, return the search output as the answer, which is simplified and explained by formatting it before delivering to the user.*
  
