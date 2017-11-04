@@ -1,6 +1,8 @@
 # Challenge 1 Concept Sketch
 
-*References: "Children and Youth With Disabilities." The Condition of Education - Participation in Education - Elementary/Secondary - Children and Youth With Disabilities. The National Center for Education Statistics, May 2017. Web.*
+*References:*
+
+*"Children and Youth With Disabilities." The Condition of Education - Participation in Education - Elementary/Secondary - Children and Youth With Disabilities. The National Center for Education Statistics, May 2017. Web.*
 
 *UNHCR's Learn Lab. "5 Challenges to Accessing Education for Syrian Refugee Children." UNHCR Innovation. United Nations High Commissioner for Refugees, 29 June 2017. Web.*
 
