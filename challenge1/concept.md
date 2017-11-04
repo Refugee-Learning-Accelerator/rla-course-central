@@ -2,17 +2,28 @@
 
 ## Description
 
-
 Chatbot for Syrian refugees aged 13+ who want to learn coding wheather they have some knowlege or they don't have any idea what coding is.
 our chatbot will give information in Arabic and mainly in Syrian dialect. later we want to support some other Arabic dialects and Kurdish.
 we chose to use facebook messenger which very popular among refugees and also it's included in the freebasics which mean they can use it using the mobilesim card.
 the next images explains a scenario when the chatbot is helping a female user to find her way to learn coding
 the first image contains a welcome message and asks the user to choose her age category
+
 ![alt text](1.png)
+
+
 the chatbot then responds with another question about the user coding skills level and give some options for possible learning paths
+
+
 ![alt text](2.png)
+
+
 the chatbot gives the user advices and usfule links to start learning ruby programming languge 
+
+
 ![alt text](3.png)
+
+
+
 
 
 ## Questions
@@ -35,6 +46,6 @@ access to resources using the freebasics and talking to the refugees in their la
 
 ### What challenges do you expect to encounter?
 
-Supporting Arabic language
-use ai to make our chatbot useful
-finding good Arabic resources online for coding.
+* Supporting Arabic language
+* use ai to make our chatbot useful
+* finding good Arabic resources online for coding.
