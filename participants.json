@@ -34,11 +34,11 @@
       },
       {
         "name": "Shadi Al Masri",
-        "username": "ShadiAlMasri"
+        "username": ""
       },
       {
         "name": "Hassan Hussieni",
-        "username": "HassaHussieni"
+        "username": ""
       }
     ]
   },
@@ -246,7 +246,7 @@
     "members": [
       {
         "name": "Shereen Messi",
-        "username": "shereen"
+        "username": "Shereen"
       },
       {
         "name": "Noor Sulaiman",
@@ -276,7 +276,7 @@
       },
       {
         "name": "Mohammed Aklan",
-        "username": "mohakln"
+        "username": ""
       }
     ]
   },
@@ -331,7 +331,7 @@
       },
       {
         "name": "Yara Kandah",
-        "username": "ynkandah"
+        "username": ""
       },
       {
         "name": "Ala''A Al-Theinat",
@@ -339,7 +339,7 @@
       },
       {
         "name": "Ebtesam Ababneh",
-        "username": "ebtesam"
+        "username": ""
       }
     ]
   },
@@ -365,7 +365,7 @@
       },
       {
         "name": "Salam El Bsat",
-        "username": "sebmachine"
+        "username": "SEBMachine"
       },
       {
         "name": "Ebrahim Karam",
@@ -403,7 +403,7 @@
       },
       {
         "name": "Mike Clarke",
-        "username": "clarkester"
+        "username": "clarke"
       },
       {
         "name": "Leen Naffaa",
@@ -411,7 +411,7 @@
       },
       {
         "name": "Ali Moussawi",
-        "username": "moussawi7"
+        "username": "Moussawi7"
       }
     ]
   },
@@ -428,7 +428,7 @@
       },
       {
         "name": "Abdulkafi Abdul Samad",
-        "username": "abdulkafi"
+        "username": "Abdulkafi"
       }
     ]
   },
@@ -453,7 +453,7 @@
         "username": "yaman91"
       },
       {
-        "name": "Feras ALi",
+        "name": "Firas Ali",
         "username": "ferasforit"
       },
       {
@@ -492,15 +492,15 @@
       },
       {
         "name": "Basel Salahieh",
-        "username": ""
+        "username": "Basel"
       },
       {
         "name": "Mazen Soufi",
-        "username": ""
+        "username": "MazenSo"
       },
       {
         "name": "Amer Rez",
-        "username": ""
+        "username": "arez"
       }
     ]
   },
@@ -514,6 +514,10 @@
       {
         "name": "Molham Al-Maleh",
         "username": "molhamaleh"
+      },
+      {
+        "name": "Alia Hamwi",
+        "username": "3aliahamwi"
       }
     ]
   },
@@ -531,7 +535,7 @@
     "members": [
       {
         "name": "Yaser Alamin",
-        "username": "yaseralamin"
+        "username": "YaserAlamin"
       },
       {
         "name": "Abdullah Alamin",
@@ -557,7 +561,7 @@
       },
       {
         "name": "Florian Muller",
-        "username": "florianmuller"
+        "username": "FlorianMuller"
       },
       {
         "name": "Yorgui Beylouni",
@@ -570,7 +574,7 @@
     "members": [
       {
         "name": "Reem Ali Ahmad",
-        "username": "Reem"
+        "username": "reem"
       }
     ]
   },
@@ -592,7 +596,7 @@
     "members": [
       {
         "name": "Adiy Tweissi",
-        "username": "tweissi"
+        "username": "Tweissi"
       }
     ]
   }
