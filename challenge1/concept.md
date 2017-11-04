@@ -8,8 +8,8 @@
  *The concept of the Bot is simple. First of all it takes the question, analyse it using NLP, perform a search depending on the tokens provided by the NLP module, return the search output as the answer, which is simplified and explained by formatting it before delivering to the user.*
  
 
-![](https://gitlab.refugeelearning.site/rla/SyrianGuys/team-template/blob/master/challenge1/Untitled%20Diagram2.png)
-![](https://gitlab.refugeelearning.site/rla/SyrianGuys/team-template/blob/master/challenge1/Untitled%20Diagram3.png)
+![](Untitled%20Diagram2.png)
+![](Untitled%20Diagram3.png)
 
 ## Questions
 
