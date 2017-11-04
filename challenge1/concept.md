@@ -3,6 +3,7 @@
 ## Description
 
 *[Describe your concept one or two paragraphs. Use visuals (mockups, diagrams) if possible.]*
+![alt text](https://gitlab.refugeelearning.site/rla/Coffee-Beans/team-template/blob/master/challenge1/1.png)
 
 ## Questions
 
