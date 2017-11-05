@@ -17,7 +17,7 @@ Frankie works in three key ways:
 
 ### What problem/challenge will the chatbot solve?
 
-The chatbot will help solve this problem by connecting learners to teachers, and allowing them to engage in an academic discussion over messenger.
+In Lebanon in particular, many refugee students struggle with science because it is taught in either English / French, whereas in Syria everything is taught in Arabic. This language barrier makes it difficult to understand concepts and apply them to science problems + tests. Professors with Arabic + English or French backgrounds can offer additional support to these students when they get stuck, and overtime develop a knowledge base that everyone can leverage and learn from (including the chatbot).
 
 ### How will the chatbot solve it?
 
