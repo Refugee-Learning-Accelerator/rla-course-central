@@ -33,4 +33,4 @@ However, this is also subject to prospective difficulties such as:
 
 
 
-samples of expected performance are shown in figure2,
+samples of expected performance are shown in figure2 and figure3,
