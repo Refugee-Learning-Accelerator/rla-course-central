@@ -33,6 +33,7 @@ The discussion will be divided in phases:
 
 *The target users are specificaly students in the first secondary year, or any student learning trigonometry for the frist time and reaching out for help to understand it.*
 
+
 ### What activity does the chatbot facilitate that would not otherwise be possible? 
 
 *The chatbot will allow helping all the students that are learning trigonometry in the classroom (other topics later on) and having difficulties, to have their concerns answered and to reach a good understanding of the topic with 0 extra cost on the teachers and no need for special tutoring, saving time and money for all. This help will come in 2 ways, answering questions AND asking understanding questions.*
