@@ -2,26 +2,26 @@
 
 ## Description
 
-*[Describe your concept one or two paragraphs. Use visuals (mockups, diagrams) if possible.]*
+*answers are in the attached presentation*
 
 ## Questions
 
 ### What problem/challenge will the chatbot solve? 
 
-*[Your answer here...]*
+*answers are in the attached presentation*
 
 ### How will the chatbot solve it? 
 
-*[Your answer here...]*
+*answers are in the attached presentation*
 
 ### Who is the primary user and how will the chatbot engage the user?
 
-*[Your answer here...]*
+*answers are in the attached presentation*
 
 ### What activity does the chatbot facilitate that would not otherwise be possible? 
 
-*[Your answer here...]*
+*answers are in the attached presentation*
 
 ### What challenges do you expect to encounter?
 
-*[Your answer here...]*
+*answers are in the attached presentation*
