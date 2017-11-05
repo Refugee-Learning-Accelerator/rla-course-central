@@ -4,9 +4,9 @@
 
 A chatbot that helps refugees with their SAT, ACT, and other standardized tests.
 
-The final product we hope would be bluetooth based. This would make the chatbot independent of a WiFi connection. The chatbot helps refugees to learn concepts and terms that are common in standardized tests which are part of the admission process in most Universities .  
+The final product we hope would be Bluetooth based. This would make the chatbot independent of a WiFi connection. The chatbot helps refugees to learn concepts and terms that are common in standardized tests which are part of the admission process in most Universities .  
 
-The first version of our chatbot will help refugees learn common english SAT words.
+The first version of our chatbot will help refugees learn common English SAT words.
 
 ### How will it  be used
 1. **Method 1:**
@@ -20,19 +20,31 @@ Each refugee has a smartphone access to the chatbot. The chatbot asks basic SAT 
 
 ### What problem/challenge will the chatbot solve?
 
-*[Your answer here...]*
+Most refugees don't have easy access to resources that help them with standardized tests and in most cases theses resources are not specific to their educational background.
+
+Standardized tests are used by most Universities in their admission process. Since standardized tests are mostly absent in developing countries, a lot of refugees don't even know what they are when they try applying to Universities abroad or in their host country.
 
 ### How will the chatbot solve it?
 
-*[Your answer here...]*
+By helping them learn about Standardized tests, they will have a higher chance of getting into Universities to pursue higher education.
+
+In addition, if they increase their scores, they are more likely to get a scholarship that would facilitate the cost of a higher education.
 
 ### Who is the primary user and how will the chatbot engage the user?
 
-*[Your answer here...]*
+Refugees who are looking into pursuing higher education in an institution or are looking into scholarship opportunities that require a minimum score in a standardized test.
 
 ### What activity does the chatbot facilitate that would not otherwise be possible?
 
-*[Your answer here...]*
+Since the would be learning in a group, we would increase the odds that someone would understand the concept and then that individual (coming from the same educational background as the others) could explain the concept in terms they would understand.
+
+We would also get an assessment of strengths and weaknesses of each individual in the group so it would easier later on to pair them in such a way that someone's weak points is another peer's strengths.
+
+This system does the following:
+* Gives them the group learning experience that most online courses lack
+* They become more independent as a group
+* They learn to participate and help each other which are values that refuges in the circumstances treasure and cherish
+* They grow the ability to self learn and critical think instead of constantly asking an expert.
 
 ### What challenges do you expect to encounter?
 
@@ -44,4 +56,6 @@ Each refugee has a smartphone access to the chatbot. The chatbot asks basic SAT 
 
 * The chatbot can't answer any specific questions and it's first line of defense is to redirect to a peer who might know the answer. If he/she  doesn't know, then the chatbot would require an internet connection to redirect the question to an expert/volunteer who has the answers
 
-* Not finding adeqaute translations to all the concepts and terms used in standardized tests. 
+* Not finding adequate translations to all the concepts and terms used in standardized tests.
+
+* The group would be diversified in their skill set so that they don't all have the same weaknesses and strengths and could benefit from each other
