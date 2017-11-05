@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # ARAM TEAM
 
 
@@ -29,3 +30,6 @@ Things you may want to cover:
 * Deployment instructions
 
 * ...
+=======
+# [Team Name]
+>>>>>>> two_files_rasheed
