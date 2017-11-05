@@ -6,7 +6,7 @@
 
 A lot of students whether refugees in the neighbor countries or inside Syria, are struggling to find the suitable scholarships abroad, and there are a lot of frequent questions that every student asks when he is searching or applying for a scholarship.
 
-Our chatbot (we call it #"Men7a" - it means "scholarship" in arabic) should be able to answer these questions directly, to save time and effort for the student, instead of searching in search engines or scrolling up and down in Facebook groups. 
+Our chatbot (we call it "Men7a" - it means "scholarship" in arabic) should be able to answer these questions directly, to save time and effort for the student, instead of searching in search engines or scrolling up and down in Facebook groups. 
 
 A mockup is included in the challenge1 folder
 
