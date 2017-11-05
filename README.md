@@ -1,6 +1,4 @@
-<<<<<<< HEAD
 # ARAM TEAM
-
 
 This project is created from a GitLab [Project Template](https://docs.gitlab.com/ce/gitlab-basics/create-project.html)
 
@@ -30,6 +28,3 @@ Things you may want to cover:
 * Deployment instructions
 
 * ...
-=======
-# [Team Name]
->>>>>>> two_files_rasheed
