@@ -17,6 +17,27 @@
     ]
   },
   {
+    "teamName": "Instructors",
+    "members": [
+      {
+        "name": "Hamze Issa",
+        "username": "Issa"
+      },
+      {
+        "name": "Ahmad Bassam",
+        "username": "Ahmad.Bassam"
+      },
+      {
+        "name": "Amro Aljadaa",
+        "username": "Aljadaa"
+      },
+       {
+        "name": "Shamekh Al-Suwi",
+        "username": "sh.suwi"
+      }
+    ]
+  },
+  {
     "teamName": "Pal_Team",
     "members": [
       {
