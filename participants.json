@@ -22,6 +22,10 @@
       {
         "name": "Mohammed Owda",
         "username": "MoeOwda"
+      },
+       {
+        "name": "Majd Owda",
+        "username": "MajdOwda"
       }
     ]
   },
@@ -463,6 +467,10 @@
       {
         "name": "Mohammad Al-hd",
         "username": "mohd1994hd"
+      },
+      {
+        "name": "Rania Baltagi",
+        "username": "Rania"
       }
     ]
   },
@@ -605,7 +613,7 @@
     ]
   },
   {
-    "teamName":"Almadrasa",
+    "teamName": "Almadrasa",
     "members": [
       {
         "name": "Muataz Aziz",
@@ -614,6 +622,19 @@
       {
         "name": "Mohammed Abdulkereem",
         "username": "mohammed-io"
+      }
+    ]
+  },
+  {
+    "teamName": "Ejad",
+    "members": [
+      {
+        "name": "Mohamed Kawsara",
+        "username": "mkwsra"
+      },
+      {
+        "name": "Suheyl Kawsara",
+        "username": "msk286"
       }
     ]
   }
