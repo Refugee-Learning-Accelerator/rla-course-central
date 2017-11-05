@@ -14,7 +14,7 @@ Each refugee has a smartphone access to the chatbot. The chatbot asks basic SAT 
 
 **Note:** _Since the chatbot would be bluetooth based, all the members of the session would have to be sitting within close proximity of each other. As a result it would be very simple for them to ask their collegues of the correct answer. It also simplifies the process of exchanging data between their peers. In addition, the phones would not need to be connected to a Wifi/Mobile Network to play. _  
 
-1. **Method 2:** If smartphone resources are limited, the game could be played with one smartphone. The group would sit around one smartphone. One of them would be dedicated an MC. Choosing the MC would be done by passing the chatbot around to each peer and the chatbot a series of random questions to each. The chatbot will ask a series of questions to each to determine who is the better fitted individual to lead the session. After indicating who is the MC, the chatbot starts the series of questions. The MC decides to put the answer that the majority agrees on and the chatbot decides whether to go to the next question or clarify the current word more by providing translations to the word and example of uses. 
+1. **Method 2:** If smartphone resources are limited, the game could be played with one smartphone. The group would sit around one smartphone. One of them would be dedicated an MC. Choosing the MC would be done by passing the chatbot around to each peer and the chatbot a series of random questions to each. The chatbot will ask a series of questions to each to determine who is the better fitted individual to lead the session. After indicating who is the MC, the chatbot starts the series of questions. The MC decides to put the answer that the majority agrees on and the chatbot decides whether to go to the next question or clarify the current word more by providing translations to the word and example of uses.
 
 ## Questions
 
@@ -36,4 +36,12 @@ Each refugee has a smartphone access to the chatbot. The chatbot asks basic SAT 
 
 ### What challenges do you expect to encounter?
 
-*[Your answer here...]*
+* We presume in our Chatbot that the refugees know a basic level of English which might not be the case in most situations.
+
+* If not enough smartphones are available, then method 2 of usage would have to be implemented which deprives a lot of key features in the app especially identifying weaknesses and strengths of the individual rather than the group.
+
+* We also assume that refugees would be willing to help each other and that the strongest of the group doesn't mind being constantly asked on how something is done. This would be extremely taunting especially if he is the only one who seems to get the questions right in a very big group.
+
+* The chatbot can't answer any specific questions and it's first line of defense is to redirect to a peer who might know the answer. If he/she  doesn't know, then the chatbot would require an internet connection to redirect the question to an expert/volunteer who has the answers
+
+* Not finding adeqaute translations to all the concepts and terms used in standardized tests. 
