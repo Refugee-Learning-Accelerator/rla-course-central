@@ -2,7 +2,9 @@
 
 ## Description
 
-*[Describe your concept one or two paragraphs. Use visuals (mockups, diagrams) if possible.]*
+In this challenge, we try to solve some problems that are facing Tembo Education, which is an early children education group that provides an early, high-quality education service for parents. Our approach is to build a chatbot that interacts with the parent. The chatbot uses text analyser to extract structured data from parent’s messages/questions. In addition to the main objective of the chatbot, which is summarized by sending daily activities to the parents, the chatbot will be enabled to answer the parents questions. Further, the database stores the responses of the parent to track the child’s progress. Based on the processed parent’s question, the chatbot processor picks the most suitable answer from the database” or ask for further clarification. 
+The concept diagram is shown in figure1.
+
 
 ## Questions
 
