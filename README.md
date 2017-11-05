@@ -1,1 +1,4 @@
-# [Team Name]
+# [Discovery team]
+
+Joe Abboud
+Ilmam Mourtada
