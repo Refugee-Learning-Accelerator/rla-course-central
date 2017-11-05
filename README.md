@@ -1,4 +1,4 @@
-# [Discovery team]
+# Discovery team
 
 Joe Abboud
 
