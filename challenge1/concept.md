@@ -24,3 +24,7 @@ The primary user will be the students, or their parents. Virtually anyone can us
 ### What activity does the chatbot facilitate that would not otherwise be possible? 
 
 There will not be an exculsive function for the chatbot that can't be done otherwise. However, we believe having such an informative chatbot will encourage student to engage further with the website to learn more about interesting topics for them.
+
+### What challenges do you expect to encounter?
+
+At first stage, we plan to accept only the questions about general scientific fields, such as: History, biology, or technology. But in the future, we plan to incorporate specific questions, such as: "When did Napoleon die?", or "Who built the great pyramid?". Tackling such specific questions could be a real challenge.
