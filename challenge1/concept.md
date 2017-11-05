@@ -18,7 +18,7 @@ A chatbot can provide parents with a 24/7 service for answering their questions,
 
 ### Who is the primary user and how will the chatbot engage the user?
 
-The primary user of the chatbot will be the parents. Kindergarten teachers can also be a main user for the same service, depending on Tempo’s scope of work.
+The primary user of the chatbot will be the parents. Kindergarten teachers can also be a main user for the same service, depending on Tembo’s scope of work.
 
 ### What activity does the chatbot facilitate that would not otherwise be possible? 
 
