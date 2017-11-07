@@ -1,27 +1,11 @@
 # Challenge 1 Concept Sketch
 
-## Description
+Since we are creating an online educational platform, it would be great to create a messenger customer service chatbot answering the common questions, interact with students, and guide them.
 
-*[Describe your concept one or two paragraphs. Use visuals (mockups, diagrams) if possible.]*
+Students might need help especially in the beginning about how they register? are they eligible to enroll? what are the available courses? Etc. Here the chatbot duty to interact with the students, answer them, guide them, giving them the URLs and necessary info.
 
-## Questions
+Hiring customer service employees for the platform is something costly, though, I don't have a guarantee that the response is done instantly. Using chatbot, students/users will feel comfortable to get help instantly without making the users waiting in queue to get support.
 
-### What problem/challenge will the chatbot solve? 
+I think we are going to encounter some challenges in supporting the Arabic language and starting with a small knowledge base.
 
-*[Your answer here...]*
-
-### How will the chatbot solve it? 
-
-*[Your answer here...]*
-
-### Who is the primary user and how will the chatbot engage the user?
-
-*[Your answer here...]*
-
-### What activity does the chatbot facilitate that would not otherwise be possible? 
-
-*[Your answer here...]*
-
-### What challenges do you expect to encounter?
-
-*[Your answer here...]*
+On the other hand, our platform has a mentor support for the enrolled students, and we are planning to develop the chatbot using AI to make the chatbot answering the questions instead, but that needs several months and solid knowledge base.
