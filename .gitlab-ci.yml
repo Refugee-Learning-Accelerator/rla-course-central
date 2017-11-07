@@ -1,0 +1,11 @@
+image: alpine:latest
+
+pages:
+  stage: deploy
+  script:
+  - cp participants.json public/
+  artifacts:
+    paths:
+    - public
+  only:
+  - master

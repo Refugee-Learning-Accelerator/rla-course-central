@@ -1,0 +1,17 @@
+.header-content {
+  color: white;
+  height: 40vh;
+  background-image: url("./background.jpg");
+  background-size: cover;
+  font-family: helvetica;
+}
+
+.header-content-inner {
+  padding-top: 20vh;
+  text-align: center;
+  font-family: helvetica;
+}
+
+.spacer {
+  margin-top: 40px;
+}
