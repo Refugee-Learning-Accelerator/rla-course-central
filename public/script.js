@@ -9,10 +9,25 @@ var getTeamContainer = function (teamName) {
   </div>')
 }
 
-var getMemberColumn = function (name, username) {
+var urlExists = function (url) {
+  var http = new XMLHttpRequest();
+  http.open('HEAD', url, false);
+  http.send();
+  return http.status != 404;
+}
+
+var pathToPhoto = function (username, teamName) {
+  var pathBase = './teams/' + teamName + '/photos/' + username + '.';
+  if urlExists(pathBase + 'jpg') return pathBase + 'jpg'
+  if urlExists(pathBase + 'png') return pathBase + 'png'
+  if urlExists(pathBase + 'gif') return pathBase + 'gif'
+  return './placeholder.png'
+}
+
+var getMemberColumn = function (name, username, teamName) {
   return $('<div class="col-lg-3 col-md-6 text-center">\
     <div class="service-box">\
-      <!-- <img src="path_to_photo"> -->\
+      <!-- <img src="' + pathToPhoto(username, teamName) + '" alt="no photo"> -->\
       <h3>' + name + '</h3>\
       <p>@' + username + '</p>\
     </div>\
@@ -25,7 +40,7 @@ var addTeam = function (team) {
   var memberRow = $('<div class="row"></div>');
 
   team['members'].forEach(function (member) {
-    memberRow.append(getMemberColumn(member['name'], member['username']));
+    memberRow.append(getMemberColumn(member['name'], member['username'], team['teamName']));
   });
   memberContainer.append(memberRow);
   teamSection.append(getTeamContainer(team['teamName']));

@@ -4,6 +4,7 @@ pages:
   stage: deploy
   script:
   - cp participants.json public/
+  - cp -R teams public/
   artifacts:
     paths:
     - public
