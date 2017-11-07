@@ -27,7 +27,7 @@ var pathToPhoto = function (username, teamName) {
 var getMemberColumn = function (name, username, teamName) {
   return $('<div class="col-lg-3 col-md-6 text-center">\
     <div class="service-box">\
-      <!-- <img src="' + pathToPhoto(username, teamName) + '" alt="no photo"> -->\
+      <img src="' + pathToPhoto(username, teamName) + '" alt="no photo">\
       <h3>' + name + '</h3>\
       <p>@' + username + '</p>\
     </div>\
