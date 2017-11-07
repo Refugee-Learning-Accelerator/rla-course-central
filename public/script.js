@@ -19,6 +19,7 @@ var urlExists = function (url) {
 var pathToPhoto = function (username, teamName) {
   var pathBase = './teams/' + teamName + '/photos/' + username + '.';
   if (urlExists(pathBase + 'jpg')) return pathBase + 'jpg';
+  if (urlExists(pathBase + 'jpeg')) return pathBase + 'jpeg';
   if (urlExists(pathBase + 'png')) return pathBase + 'png';
   if (urlExists(pathBase + 'gif')) return pathBase + 'gif';
   return './placeholder.png'
