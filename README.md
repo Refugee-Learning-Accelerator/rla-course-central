@@ -13,6 +13,6 @@ HardRandom - Coditt - Byters - BeirutByBit - Complexity - BigOhNo - Probably Pro
 We also thought of Johnny Cache - Fugscript
 
 
-***Finally***: We decided to go with Beirut By Bit which developped into BierutByByte
+***Finally***: We decided to go with Beirut By Bit which developped into BeirutByByte
 
 **It's the triple B threat Y'alll** 
