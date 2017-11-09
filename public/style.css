@@ -1,17 +1,68 @@
+html, body {
+    max-width: 100%;
+    overflow-x: hidden;
+    font-family: 'Roboto';
+}
+
 .header-content {
   color: white;
   height: 40vh;
   background-image: url("./background.jpg");
   background-size: cover;
-  font-family: helvetica;
 }
 
 .header-content-inner {
   padding-top: 20vh;
   text-align: center;
-  font-family: helvetica;
+}
+
+.team-name {
+  font-size: 2em;
+  font-weight: bold;
+  margin-bottom: 20px;
 }
 
 .spacer {
   margin-top: 40px;
+}
+
+.member-card {
+  background-color: #FFEEDD;
+  padding: 0px;
+  height: 400px;
+  box-shadow: 0 4px 8px 4px rgba(0,0,0,0.2);
+  transition: 0.3s;
+  display: flex;
+  flex-direction: column;
+  margin-bottom: 32px;
+}
+
+.member-card:hover {
+    box-shadow: 0 8px 16px 8px rgba(0,0,0,0.2);
+}
+
+.member-card-top {
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  flex-grow: 1;
+}
+
+.member-card-bottom {
+  display: flex;
+  flex-direction: column;
+  flex-grow: 0;
+  padding: 15px;
+}
+
+.member-photo {
+  width: 100%;
+  max-width: 200px;
+  height: auto;
+  max-height: 300px;
+}
+
+.member-name {
+  font-size: 1.3em;
+  font-weight: 700;
 }

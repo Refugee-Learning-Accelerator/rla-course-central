@@ -3,14 +3,12 @@ $(document).ready(function () {
     $.getJSON('./photo-links.json', function (links) {
 
       var getTeamContainer = function (teamName) {
-        return $('<div class="container gallery-container">\
-          <div class="row">\
+        return $('<div class="row">\
             <div class="col-lg-12 text-center">\
               <hr class="primary">\
-              <h2 class="section-heading">' + teamName + '</h2>\
+              <div class="team-name">' + teamName + '</h2>\
             </div>\
-          </div>\
-        </div>')
+          </div>')
       }
       
       var getMemberColumn = function (name, username, teamName) {
@@ -20,15 +18,17 @@ $(document).ready(function () {
           photoPath = './teams/' + teamName + '/photos/' + links[username];
         }
         
-        return $('<div class="col-sm-6 col-md-4">\
-          <div class="thumbnail">\
-            <a class="lightbox" href="' + profilePath + '">\
-            <img width="200px" src="' + photoPath + '" alt="no photo">\
-            </a>\
-          </div>\
-          <div class="caption">\
-            <span class="member-name">' + name + '</span>\
-            <span class="member-username">@' + username + '</span>\
+        return $('<div class="col-sm-6 col-md-3 text-center">\
+          <div class="member-card">\
+            <div class="member-card-top">\
+              <a href="' + profilePath + '">\
+                <img class="member-photo" src="' + photoPath + '" alt="photo unavailable">\
+              </a>\
+            </div>\
+            <div class="member-card-bottom">\
+              <div class="member-name">' + name + '</div>\
+              <a href=' + profilePath + ' class="member-username">@' + username + '</a>\
+            </div>\
           </div>\
         </div>');
       }
