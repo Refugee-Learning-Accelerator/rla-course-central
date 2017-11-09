@@ -28,11 +28,10 @@ $(document).ready(function () {
       }
       
       var pathToPhoto = function (username, teamName) {
-        if (username) {
+        if (username && links[username]) {
           return './teams/' + teamName + '/photos/' + links[username];
-        } else {
-          return './placeholder.png';
         }
+        return './placeholder.png';
       }
       
       /* Original (working) individual person photo generator 
