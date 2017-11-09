@@ -1,3 +1,4 @@
+/* Original (working) gallery container)
 var getTeamContainer = function (teamName) {
   return $('<div class="container">\
     <div class="row">\
@@ -8,6 +9,21 @@ var getTeamContainer = function (teamName) {
     </div>\
   </div>')
 }
+*/
+
+/* New experimental */
+var getTeamContainer = function (teamName) {
+  return $('<div class="container gallery-container">\
+  <div class="tz-gallery">\
+    <div class="row">\
+      <div class="col-lg-12 text-center">\
+        <hr class="primary">\
+        <h2 class="section-heading">' + teamName + '</h2>\
+      </div>\
+    </div>\
+  </div>')
+}
+        
 
 var urlExists = function (url) {
   var http = new XMLHttpRequest();
