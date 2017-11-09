@@ -27,8 +27,8 @@ $(document).ready(function () {
             </a>\
           </div>\
           <div class="caption">\
-            <div class="member-name">' + name + '</h3>\
-            <div class="member-username">@' + username + '</p>\
+            <span class="member-name">' + name + '</span>\
+            <span class="member-username">@' + username + '</span>\
           </div>\
         </div>');
       }
