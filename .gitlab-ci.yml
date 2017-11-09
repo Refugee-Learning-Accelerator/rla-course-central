@@ -5,7 +5,7 @@ pages:
   script:
   - cp participants.json public/
   - cp -R teams public/
-  - python generate-photo-links.py
+  - cd public; python generate-photo-links.py
   artifacts:
     paths:
     - public
