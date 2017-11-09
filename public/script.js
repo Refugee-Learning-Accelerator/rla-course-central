@@ -55,7 +55,7 @@ var getMemberColumn = function (name, username, teamName) {
 
 /* New Gallery (experimental) */
 var getMemberColumn = function (name, username, teamName) {
-  return $('<div class="col-lg-3 col-md-6 text-center">\
+  return $('<div class="col-sm-6 col-md-4">\
     <div class="thumbnail">\
       <a class="lightbox" href="ENTER LINK TO USER PROFILE">\
       <img width="200px" src="' + pathToPhoto(username, teamName) + '" alt="no photo">\
