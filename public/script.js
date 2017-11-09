@@ -14,7 +14,7 @@ var getTeamContainer = function (teamName) {
 /* New experimental */
 var getTeamContainer = function (teamName) {
   return $('<div class="container gallery-container">\
-  <div class="tz-gallery">\
+  
     <div class="row">\
       <div class="col-lg-12 text-center">\
         <hr class="primary">\
