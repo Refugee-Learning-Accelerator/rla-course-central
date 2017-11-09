@@ -6,4 +6,4 @@ links = {}
 for member in members:
 	if member['username']:
 		links[member['username']] = ''
-json.dump(open('./photo-links.json', 'w'))
+json.dump(links, open('./photo-links.json', 'w'))
