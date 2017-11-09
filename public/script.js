@@ -14,19 +14,21 @@ $(document).ready(function () {
       }
       
       var getMemberColumn = function (name, username, teamName) {
+        var profilePath = 'https://gitlab.refugeelearning.site/' + username;
         var photoPath = './placeholder.png';
         if (username && links[username]) {
           photoPath = './teams/' + teamName + '/photos/' + links[username];
         }
+        
         return $('<div class="col-sm-6 col-md-4">\
           <div class="thumbnail">\
-            <a class="lightbox" href="ENTER LINK TO USER PROFILE">\
+            <a class="lightbox" href="' + profilePath + '">\
             <img width="200px" src="' + photoPath + '" alt="no photo">\
             </a>\
           </div>\
           <div class="caption">\
-            <h3>' + name + '</h3>\
-            <p>@' + username + '</p>\
+            <div class="member-name">' + name + '</h3>\
+            <div class="member-username">@' + username + '</p>\
           </div>\
         </div>');
       }
