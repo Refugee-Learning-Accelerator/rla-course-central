@@ -25,14 +25,10 @@ const tips = {
     ],
     history_ar: [
         "هل تعلم أن 'كونراد هاير' هو أقدم شخص التقطت له صورة فوتوغرافية في التاريخ. https://www.facebook.com/PictorialEncyclopedia/photos/a.437534486304952.101319.437530546305346/927320587326337/?type=3&theater",
-        "أهرام النوبة في السودان يبلغ عددها حوالي 250 هرماً، بنيت في عهد ممالك كوش النوبية بين وتعود لأكثر من ألف سنة قبل الميلاد https://www.facebook.com/PictorialEncyclopedia/photos/a.437534486304952.101319.437530546305346/935714719820257/?type=3&theater",
-        "هل تعلم أن تقليد لبس فستان الزفاف الأبيض لم ينتشر في العالم إلا بعد أن ارتدت الملكة البريطانية فيكتوريا فستان زفافها عام 1840؟"
+        "أهرام النوبة في السودان يبلغ عددها حوالي 250 هرماً، بنيت في عهد ممالك كوش النوبية بين وتعود لأكثر من ألف سنة قبل الميلاد https://www.facebook.com/PictorialEncyclopedia/photos/a.437534486304952.101319.437530546305346/935714719820257/?type=3&theater"
     ],
     physics_ar: [
         "هل تعلم أنك لو استطعت أن تصرخ بشدة ١١٠٠٠ ديسبل فإنك ستسبب في تكوين ثقب أسود أضخم من الكون الذي نعرفه؟"
-    ],
-    cosmology_ar: [
-        "كشفت مركبة مارس ريكونيسنس أوربيتر التي تدور حول كوكب المريخ وجود آثار لزجاج على سطح الكوكب في عدة فوهات نيزكية. https://www.facebook.com/PictorialEncyclopedia/photos/a.437534486304952.101319.437530546305346/932757123449350/?type=3&theater"
     ]
 
 };
@@ -195,38 +191,32 @@ function callSendAPI(sender_psid, response) {
 //logic functions
 function getTopic(msgtext) {
     switch (msgtext) {
-        case "history":
+        case 'history':
             return "history";
             break;
-        case "science":
+        case 'science':
             return "science";
             break;
-        case "science":
+        case 'science':
             return "science";
             break;
-        case "فلك":
+        case 'فلك':
             return "cosmos_ar";
             break;
-        case "علوم":
-        case "علم أحياء":
+        case 'علوم':
+        case 'علم أحياء':
             return "science_ar";
             break;
-        case "تاريخ":
+        case 'تاريخ':
             return "history_ar";
             break;
-        case "فيزياء":
-            return "physics_ar";
-            break;
-        case "فلك":
-            return "cosmology_ar";
-            break;
-        case "فن":
-        case "فنون":
+        case 'فن':
+        case 'فنون':
             return "art_ar";
             break;
         default:
             return "0";
-            break;
+            break
     }
 }
 
