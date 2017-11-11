@@ -1,1 +1,1 @@
-# [Education-Matcher]
+# Education-Matcher
