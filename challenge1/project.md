@@ -28,7 +28,7 @@ We decided to make it respond only to questions with specific structure (any mes
 
 ### What would you different in the future?
 
-In the future with intend to use more sophisitcated message parsing, which allows detecting more complex questions. So in the future we intend to respond to questions such as: "#When did WWI start?", instead of the currently wide questions such as: "#history".
+Currently, the chatbot is merely show case demo. In the future will create a separate database for topics and messages to be sent. We intend to use more sophisitcated message parsing, which allows detecting more complex questions. So in the future we intend to respond to questions such as: "#When did WWI start?", instead of the currently wide questions such as: "#history".
 
 ### Are there any parts of your code you'd like to highlight?
 
