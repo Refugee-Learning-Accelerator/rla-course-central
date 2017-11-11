@@ -1,0 +1,296 @@
+{
+  "ok": true,
+  "result": [{
+    "update_id": 41718863,
+    "message": {
+      "message_id": 9,
+      "from": {
+        "id": 471184458,
+        "is_bot": false,
+        "first_name": "Ebrahim",
+        "last_name": "Karam",
+        "language_code": "en-US"
+      },
+      "chat": {
+        "id": 471184458,
+        "first_name": "Ebrahim",
+        "last_name": "Karam",
+        "type": "private"
+      },
+      "date": 1510400607,
+      "text": "hello"
+    }
+  }]
+}
+
+
+
+{
+  "ok": true,
+  "result": [{
+    "update_id": 41718863,
+    "message": {
+      "message_id": 9,
+      "from": {
+        "id": 471184458,
+        "is_bot": false,
+        "first_name": "Ebrahim",
+        "last_name": "Karam",
+        "language_code": "en-US"
+      },
+      "chat": {
+        "id": 471184458,
+        "first_name": "Ebrahim",
+        "last_name": "Karam",
+        "type": "private"
+      },
+      "date": 1510400607,
+      "text": "hello"
+    }
+  }, {
+    "update_id": 41718864,
+    "message": {
+      "message_id": 71,
+      "from": {
+        "id": 471184458,
+        "is_bot": false,
+        "first_name": "Ebrahim",
+        "last_name": "Karam",
+        "language_code": "en-US"
+      },
+      "chat": {
+        "id": 471184458,
+        "first_name": "Ebrahim",
+        "last_name": "Karam",
+        "type": "private"
+      },
+      "date": 1510405799,
+      "text": "You"
+    }
+  }, {
+    "update_id": 41718865,
+    "message": {
+      "message_id": 72,
+      "from": {
+        "id": 471184458,
+        "is_bot": false,
+        "first_name": "Ebrahim",
+        "last_name": "Karam",
+        "language_code": "en-US"
+      },
+      "chat": {
+        "id": 471184458,
+        "first_name": "Ebrahim",
+        "last_name": "Karam",
+        "type": "private"
+      },
+      "date": 1510405814,
+      "text": "Are so beautiful"
+    }
+  }, {
+    "update_id": 41718866,
+    "message": {
+      "message_id": 74,
+      "from": {
+        "id": 471184458,
+        "is_bot": false,
+        "first_name": "Ebrahim",
+        "last_name": "Karam",
+        "language_code": "en-US"
+      },
+      "chat": {
+        "id": 471184458,
+        "first_name": "Ebrahim",
+        "last_name": "Karam",
+        "type": "private"
+      },
+      "date": 1510406192,
+      "text": "Why"
+    }
+  }, {
+    "update_id": 41718867,
+    "message": {
+      "message_id": 76,
+      "from": {
+        "id": 471184458,
+        "is_bot": false,
+        "first_name": "Ebrahim",
+        "last_name": "Karam",
+        "language_code": "en-US"
+      },
+      "chat": {
+        "id": 471184458,
+        "first_name": "Ebrahim",
+        "last_name": "Karam",
+        "type": "private"
+      },
+      "date": 1510406222,
+      "text": "Why"
+    }
+  }, {
+    "update_id": 41718868,
+    "message": {
+      "message_id": 78,
+      "from": {
+        "id": 471184458,
+        "is_bot": false,
+        "first_name": "Ebrahim",
+        "last_name": "Karam",
+        "language_code": "en-US"
+      },
+      "chat": {
+        "id": 471184458,
+        "first_name": "Ebrahim",
+        "last_name": "Karam",
+        "type": "private"
+      },
+      "date": 1510406226,
+      "text": "Do you love mw"
+    }
+  }, {
+    "update_id": 41718869,
+    "message": {
+      "message_id": 80,
+      "from": {
+        "id": 471184458,
+        "is_bot": false,
+        "first_name": "Ebrahim",
+        "last_name": "Karam",
+        "language_code": "en-US"
+      },
+      "chat": {
+        "id": 471184458,
+        "first_name": "Ebrahim",
+        "last_name": "Karam",
+        "type": "private"
+      },
+      "date": 1510406255,
+      "text": "What do you want"
+    }
+  }, {
+    "update_id": 41718870,
+    "message": {
+      "message_id": 82,
+      "from": {
+        "id": 471184458,
+        "is_bot": false,
+        "first_name": "Ebrahim",
+        "last_name": "Karam",
+        "language_code": "en-US"
+      },
+      "chat": {
+        "id": 471184458,
+        "first_name": "Ebrahim",
+        "last_name": "Karam",
+        "type": "private"
+      },
+      "date": 1510406345,
+      "text": "You still therw"
+    }
+  }, {
+    "update_id": 41718871,
+    "message": {
+      "message_id": 87,
+      "from": {
+        "id": 471184458,
+        "is_bot": false,
+        "first_name": "Ebrahim",
+        "last_name": "Karam",
+        "language_code": "en-US"
+      },
+      "chat": {
+        "id": 471184458,
+        "first_name": "Ebrahim",
+        "last_name": "Karam",
+        "type": "private"
+      },
+      "date": 1510408110,
+      "text": "Fivk"
+    }
+  }, {
+    "update_id": 41718872,
+    "message": {
+      "message_id": 89,
+      "from": {
+        "id": 471184458,
+        "is_bot": false,
+        "first_name": "Ebrahim",
+        "last_name": "Karam",
+        "language_code": "en-US"
+      },
+      "chat": {
+        "id": 471184458,
+        "first_name": "Ebrahim",
+        "last_name": "Karam",
+        "type": "private"
+      },
+      "date": 1510408115,
+      "text": "Yay"
+    }
+  }, {
+    "update_id": 41718873,
+    "message": {
+      "message_id": 91,
+      "from": {
+        "id": 471184458,
+        "is_bot": false,
+        "first_name": "Ebrahim",
+        "last_name": "Karam",
+        "language_code": "en-US"
+      },
+      "chat": {
+        "id": 471184458,
+        "first_name": "Ebrahim",
+        "last_name": "Karam",
+        "type": "private"
+      },
+      "date": 1510408130,
+      "text": "Yo"
+    }
+  }, {
+    "update_id": 41718874,
+    "message": {
+      "message_id": 93,
+      "from": {
+        "id": 471184458,
+        "is_bot": false,
+        "first_name": "Ebrahim",
+        "last_name": "Karam",
+        "language_code": "en-US"
+      },
+      "chat": {
+        "id": 471184458,
+        "first_name": "Ebrahim",
+        "last_name": "Karam",
+        "type": "private"
+      },
+      "date": 1510411238,
+      "text": "/help",
+      "entities": [{
+        "offset": 0,
+        "length": 5,
+        "type": "bot_command"
+      }]
+    }
+  }, {
+    "update_id": 41718875,
+    "message": {
+      "message_id": 94,
+      "from": {
+        "id": 471184458,
+        "is_bot": false,
+        "first_name": "Ebrahim",
+        "last_name": "Karam",
+        "language_code": "en-US"
+      },
+      "chat": {
+        "id": 471184458,
+        "first_name": "Ebrahim",
+        "last_name": "Karam",
+        "type": "private"
+      },
+      "date": 1510417033,
+      "text": "Hl"
+    }
+  }]
+}
