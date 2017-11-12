@@ -37,13 +37,13 @@ From here we came up with the idea of a project that will be a chatbot where eve
 
 *[We built our project in a series of workflows to mockup and iterate the system and dialogue. The following tools were used.
 
-ChatFuel  “Facebook Messenger”
+-ChatFuel  “Facebook Messenger”
 ChatFuel proved to be helpful in creating a functioning mockup to design and experience the Chatbot from the user side. 
-Sketch (Messenger Chatbot UI Kit)
+-Sketch (Messenger Chatbot UI Kit)
 Sketch, along with a UI Kit provided by Facebook, was essential for storyboarding the dialogue and series of questions. We wanted to achieve the most natural and empathetic discourse possible from the Chatbot. 
-Principle
+-Principle
 Principle was used to tween between storyboards and to export mockup videos of the user interface. 
-Adobe Creative Suite - Photoshop, Illustrator
+-Adobe Creative Suite - Photoshop, Illustrator
 The series of diagrams used to explain our ideas were generated in graphic software provided by Adobe. 
 ]*
 
