@@ -23,7 +23,7 @@ Each individual logs into their own phone. They go to `telegram` and start a con
 
 Then when all users are ready, the admin would have to send the `\start command` the app would begin sending sample SAT vocab questions. Each question has inline keyboard Keys that represent a letter in the multiple choice. He would click the letter he wants to answer. The bot tells him if he got it right or wrong. The user can then ask to show the answer or save the question for later revision. It won't display the next question until all the users have answered the previous one. When they do, the next question is displayed within 20 seconds along with the current score.
 
-A sample session can be found [here](https://gitlab.refugeelearning.site/rla/BeirutByByte/team-template/blob/master/challenge1/Project/Visual%20Aid/Screenshots/Session with test.jpg)
+A sample session can be found [here](https://gitlab.refugeelearning.site/rla/BeirutByByte/team-template/blob/master/challenge1/Project/Visual%20Aid/Session/Session%20with%20test.PNG)
 
 You can see how the question looks when asked [here](https://gitlab.refugeelearning.site/rla/BeirutByByte/team-template/blob/master/challenge1/Project/Visual%20Aid/Screenshots/Sample%20Question.jpg) Please note that this is not implemented yet but we are currently using the `\answer` command
 
@@ -66,6 +66,11 @@ We are using [python 2.7](https://www.python.org/download/releases/2.7/) and the
 * We would have wanted this to be Bluetooth based instead of Wi-Fi so that users would be forced to sit in close proximity to each other. The messages would be via Wi-Fi and the database would be reserved locally on each phone instead of on a server.
 * We didn't have time to fully integrate Arabic translation of words into the Chabot
 * The code runs locally on our PCs hopefully in the future it would be up on a server where it would be constantly running 24/7
+* We would have implemented some kind NLP so that the user woudln't have to use the commands everytime
 
 
 ### Are there any parts of your code you'd like to highlight?
+* Please note that the code doesn't have a databse of questions just a few example ones just to make sure the code works
+* In order to run the code you have to run the django server which is part of the code
+* The Chabot works by constantly polling `getupdates` url http request from the Telegram website
+* Please excuse the brevty and typos and lack of convention
