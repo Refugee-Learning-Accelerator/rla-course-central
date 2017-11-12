@@ -19,7 +19,7 @@ Each individual logs into their own phone. They go to `telegram` and start a con
 
 Then when all users are ready, the app would begin sending sample SAT vocab questions. Each question has inline keyboard Keys that represent a letter in the multiple choice. He would click the letter and the Chabot would present the next question to all the members.
 
-TODO: Add screenshot of a SAT question with inline keyboard
+You can see how the question looks when asked [here]https://gitlab.refugeelearning.site/rla/BeirutByByte/team-template/tree/master/challenge1/Project/Visual%20Aid/Screenshots)
 
 
 ### Other Info
