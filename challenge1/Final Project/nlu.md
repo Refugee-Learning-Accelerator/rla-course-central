@@ -1,4 +1,4 @@
-```python
+```
 ## intent:greet
 - hey
 - hello
