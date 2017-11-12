@@ -11,8 +11,8 @@ the chatbot will provide a guide through information supported by pictures to he
 
 ### How did you build it (platform and technology)?
 
--Facebook Messenger
--Chatfuel
+- Facebook Messenger
+- Chatfuel
 
 ### What challenges did you face?
 
