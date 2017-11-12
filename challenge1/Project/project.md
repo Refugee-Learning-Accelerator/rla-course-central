@@ -19,9 +19,9 @@ All of these can be viewed instantly by pressing the `\` button on the telegram 
 
 Each individual logs into their own phone. They go to `telegram` and start a conversation with `@BeirutByByte_bot`. The Bot would ask the user to set a username using `\set_nickname`. Then the user would decide if he wants to `\join_group` or `\create_group`. Whenever he joins a group all users would get a message from the bot of the new users in the group
 
-Then when all users are ready, the app would begin sending sample SAT vocab questions. Each question has inline keyboard Keys that represent a letter in the multiple choice. He would click the letter and the Chabot would present the next question to all the members.
+Then when all users are ready, the app would begin sending sample SAT vocab questions. Each question has inline keyboard Keys that represent a letter in the multiple choice. He would click the letter he wants to answer. The bot tells him if he got it right or wrong. The user can then ask to show the answer. It won't display the next question until all the users have answered the previous one.
 
-You can see how the question looks when asked [here](https://gitlab.refugeelearning.site/rla/BeirutByByte/team-template/blob/master/challenge1/Project/Visual%20Aid/Screenshots/Sample%20Question.jpg) Please note that this is not implemented yet
+You can see how the question looks when asked [here](https://gitlab.refugeelearning.site/rla/BeirutByByte/team-template/blob/master/challenge1/Project/Visual%20Aid/Screenshots/Sample%20Question.jpg) Please note that this is not implemented yet but we are currently using the `\answer` command
 
 
 ### Other Info
