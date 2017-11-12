@@ -18,11 +18,11 @@ def inline_keyboard(question="hello", chat_id="471184458"):
     #     'reply_markup': json.dumps({'inline_keyboard': [[{"text": "A", "url": "http://www.google.com/"},{"text":"B", "url": "http://www.google.com/"}]]})}
     # r = requests.get(URL+"sendMessage", params=payload)
     json_content=json.dumps({'inline_keyboard': [[
-    {"text": "A","callback_data": "A"},
-    {"text": "B", "callback_data": "B"},
-    {"text": "C", "callback_data": "C"},
-    {"text": "D", "callback_data": "D"},
-    {"text": "E", "callback_data": "E"}
+    {"text": "A","callback_data": "/A"},
+    {"text": "B", "callback_data": "/B"},
+    {"text": "C", "callback_data": "/C"},
+    {"text": "D", "callback_data": "/D"},
+    {"text": "E", "callback_data": "/E"}
     ]]})
     url = URL + "sendMessage?text={}&chat_id={}&parse_mode=markdown&reply_markup={}".format(question , chat_id,json_content)
     print (url)
@@ -77,4 +77,11 @@ if __name__ == '__main__':
         if (last_message_id!=message_id):
             send_message( text, chat)
         last_message_id=message_id
-    inline_keyboard()
+    question= '''1. Today Wegener's theory is ____ ; however, he died an outsider treated with ____ by the scientific establishment.
+A. unsupported - approval
+B. dismissed - contempt
+C. accepted - approbation
+D. unchallenged - disdain
+E. unrivalled - reverence
+'''
+    inline_keyboard(question)
