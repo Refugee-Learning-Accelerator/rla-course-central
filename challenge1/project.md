@@ -8,7 +8,7 @@ For the first challenge, we came up with the concept of a chatbot that we're cal
 
 ### How did you build it (platform and technology)?
 
-Ustaz Fahmi will play the role of a virtual tutor implemented on Facebook Messenger.  We used ASP.NET MVC to build our chatbot. 
+Ustaz Fahmi will play the role of a virtual tutor implemented on Facebook Messenger.  We used _ASP.NET MVC_ to build our chatbot. 
 
 ### What challenges did you face?
 
@@ -21,31 +21,33 @@ The best part of this chatbot is that it has a very realistic goal in mind. Inst
 ### What would you different in the future? 
 
 In the future, we work on the following extensions
-1-	First we will allow the user to type his reply especially in the contact information. 
-2-	We will finalize the code related to the interaction with the database.
-3-	We will optimize the range of parameters students and tutors can set for the matching system to be useful and more efficient.
-4-	 We will work on the safety and protection issues and how to keep cheaters / bad tutors away. Mainly, we will ask tutors to upload copies of their CVs and degrees. Future steps may include also the creation of a complete private platform (including payment options) where we can hire the tutors and vet them and the student can rate them afterwards.
+1.	First we will allow the user to type his reply especially in the contact information. 
+2.	We will finalize the code related to the interaction with the database.
+3.	We will optimize the range of parameters students and tutors can set for the matching system to be useful and more efficient.
+4.	 We will work on the safety and protection issues and how to keep cheaters / bad tutors away. Mainly, we will ask tutors to upload copies of their CVs and degrees. Future steps may include also the creation of a complete private platform (including payment options) where we can hire the tutors and vet them and the student can rate them afterwards.
 
 ### Are there any parts of your code you'd like to highlight?
 
 A more detailed description of the code development and implementation will be presented once the code is finalized and optimized. For now, the main steps that we followed in the implementation of our chatbot are:
-1-	Create the Facebook page of “الأستاذ فهمي”
-2-	Create a Facebook app and link it to the Facebook page
-3-	Create a local sever using IIS
-4-	Expose the local created server to the internet using ngrok
-5-	Create an SQL server and a local database to store data
-6-	Set Up the Webhook
-7-	Implement the main functions of the chatbot using ASP.NET MVC
-The bulk of the prototype development resides mainly in step 6 and 7 where the code is developed. In step 6 we have implemented our Webhook. The Messenger Platform sends events to the Webhook to notify the bot when a variety of interactions or events happen, including when a person sends a message. Webhook events are sent by the Messenger Platform as POST requests to the Webhook. In our code, we have created a Webhook controller class “WebhookController” as inherent of the “ApiController” class already existing. The WebhookController class’s main functionality is to handle the communication with Facebook, mainly the http get and http post requests. The main functions implemented in the WebhookController class are:
-•	ValidateApp(challenge, token): Authentication and Validation
-•	PostAsyn
-•	ProcessEntryAsync
-•	ProcessMessagingAsync
+1. Create the Facebook page of “الأستاذ فهمي”
+2. Create a Facebook app and link it to the Facebook page
+3. Create a local sever using IIS
+4. Expose the local created server to the internet using ngrok
+5. Create an SQL server and a local database to store data
+6. Set Up the Webhook
+7. Implement the main functions of the chatbot using ASP.NET MVC
+
+The bulk of the prototype development resides mainly in step 6 and 7 where the code is developed. In step 6 we have implemented our Webhook. The Messenger Platform sends events to the Webhook to notify the bot when a variety of interactions or events happen, including when a person sends a message. Webhook events are sent by the Messenger Platform as POST requests to the Webhook. In our code, we have created a Webhook controller class “_WebhookController_” as inherent of the “_ApiController_” class already existing. The _WebhookController_ class’s main functionality is to handle the communication with Facebook, mainly the http get and http post requests. The main functions implemented in the WebhookController class are:
+-	ValidateApp(challenge, token): Authentication and Validation
+-	PostAsyn
+-	ProcessEntryAsync
+-	ProcessMessagingAsync
+
 MVC allows us to build the chatbot as a composition of three logic layers: Model (business layer), View (display layer) and Controller (input control). The model represents the state of a particular aspect of the application. The controller handles interactions and updates the model to reflect a change in state of the application, and then passes information to the view. A view accepts necessary information from the controller and renders a user interface to display that information. By creating components that are independent of one another, we are able to reuse components quickly and easily in other applications. 
-The Controller layer includes the WebhookController class and another class called “StudentController” that handles the interaction with the database, mainly the create, update, delete, and read requests.
+The Controller layer includes the _WebhookController_ class and another class called “_StudentController_” that handles the interaction with the database, mainly the create, update, delete, and read requests.
 The created controllers will manipulate the different created models to create the corresponding responses to the users’ requests. For instance, the StudentController will use a student model which models an entry to the database of students with corresponding data (Id of the student, FB ide, name, phone number,…).
-The WebhookController is using different models including: a StateModel, a SessionModel and a StateNode. The StateModel corresponds to the workflow state of the current user in the current session and the SessionModel corresponds to the session related information.
+The _WebhookController_ is using different models including: a _StateModel_, a _SessionModel_ and a _StateNode_. The _StateModel_ corresponds to the workflow state of the current user in the current session and the _SessionModel_ corresponds to the session related information.
 Two additional classes have been created:
-•	The SessionUtil class that includes all the functions needed to handle several simultaneous sessions using the chatbot.
-•	The BotUtil class that defines all the functions used in the WebhookController to communicate with the chatbot.
+-	The _SessionUtil_ class that includes all the functions needed to handle several simultaneous sessions using the chatbot.
+-	The _BotUtil_ class that defines all the functions used in the WebhookController to communicate with the chatbot.
 
