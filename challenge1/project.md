@@ -2,7 +2,7 @@
 
 ## Description
 
-*[Describe and demonstrate your chatbot. Videos, screenshots or images are encouraged.]*
+* https://youtu.be/8fO4XV5P1MA [Describe and demonstrate your chatbot. Videos, screenshots or images are encouraged.]*
 
 ## Questions
 
