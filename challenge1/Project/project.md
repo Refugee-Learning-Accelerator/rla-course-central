@@ -5,12 +5,14 @@
 ### Commands for our chatbot
 There are a few  main commands for our Chabot
 * `\help` gives a list of all the commands the Chabot understands and a short description of each
+* `\start` to start the group session when all users have joined the group
 * `\hint` gives a hint to the question being displayed to the user
 * `\set_nickname` allows the user to set his nickname. He would type `\set_nickname bob`
 * `\join_group` allows the user to join an already existing study group. He would type for example \join_group ABC
 * `\create_group` allows the user to create a group. He would type `\create_group ABC`
 * `\show_group_members` would show the current group members in the group
 * `\show_answer` would show the answer to the previous question
+* `save_question` - save_question for later revision
 * `\answer` allows the user to input an answer. he would type `\answer A` for example *(temporary solution: will be implemented later on as inline keyboard with message)*
 
 All of these can be viewed instantly by pressing the `\` button on the telegram app when talking with our Chabot.
@@ -19,7 +21,7 @@ All of these can be viewed instantly by pressing the `\` button on the telegram 
 
 Each individual logs into their own phone. They go to `telegram` and start a conversation with `@BeirutByByte_bot`. The Bot would ask the user to set a username using `\set_nickname`. Then the user would decide if he wants to `\join_group` or `\create_group`. Whenever he joins a group all users would get a message from the bot of the new users in the group
 
-Then when all users are ready, the app would begin sending sample SAT vocab questions. Each question has inline keyboard Keys that represent a letter in the multiple choice. He would click the letter he wants to answer. The bot tells him if he got it right or wrong. The user can then ask to show the answer. It won't display the next question until all the users have answered the previous one.
+Then when all users are ready, the admin would have to send the `\start command` the app would begin sending sample SAT vocab questions. Each question has inline keyboard Keys that represent a letter in the multiple choice. He would click the letter he wants to answer. The bot tells him if he got it right or wrong. The user can then ask to show the answer. It won't display the next question until all the users have answered the previous one.
 
 You can see how the question looks when asked [here](https://gitlab.refugeelearning.site/rla/BeirutByByte/team-template/blob/master/challenge1/Project/Visual%20Aid/Screenshots/Sample%20Question.jpg) Please note that this is not implemented yet but we are currently using the `\answer` command
 
@@ -65,5 +67,3 @@ We are using [python 2.7](https://www.python.org/download/releases/2.7/) and the
 
 
 ### Are there any parts of your code you'd like to highlight?
-
-*
