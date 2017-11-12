@@ -12,7 +12,7 @@
 
 ### What challenges did you face?
 
-*[One of the biggest challenges we face was that we didn’t have any experience in building chatbots and that we didn’t have much content.]*
+*[One of the biggest challenges we faced was that we didn’t have any experience in building chatbots and that we didn’t have much content.]*
 
 ### What aspect of the chatbot do you like best? 
 
