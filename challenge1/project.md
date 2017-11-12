@@ -3,7 +3,7 @@
 ## Description
 
 * Demo: https://youtu.be/WZwXDnjOeR8
-* code: zip file uploaded https://youtu.be/PEgG_Dy-vkk
+* code explanation: zip file uploaded https://youtu.be/PEgG_Dy-vkk
 * Code: zip fie uploaded: PEDD - backup 20171112.zip
 * 
 * The Demo video uploaded on Youtube will show a sunny day scenario where a conversation is happening between a student and the chatbot
