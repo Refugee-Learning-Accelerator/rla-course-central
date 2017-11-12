@@ -2,7 +2,7 @@
 
 ## Description
 
-*[Describe and demonstrate your chatbot. Video, screenshots, Logo, are attached files.
+*[Diagram,mockup,Video,screenshots and Logo, are all in the attached files.
 
 -We interest in providing a project that mainly supports the Arabic language to target all refugees regardless of their level of education
 
