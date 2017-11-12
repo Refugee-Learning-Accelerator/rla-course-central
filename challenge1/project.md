@@ -14,9 +14,9 @@ This part is traditional (uses text to interact with users like most chatbots)
 Here are some screen shots of our bot (these parts in the making are tested on messenger 
 and they are updated there automatically by Chatfuel)
 
-![Screenshot__40_](/uploads/d89d7246ff7707d59a659b222a147d3b/Screenshot__40_.png)
+![Screenshot__40_](images/Screenshot__40_.png)
 
-![Screenshot__39_](/uploads/1680fbd0d0eb1acce695c1b76302787e/Screenshot__39_.png)
+![Screenshot__39_](images/Screenshot__39_.png)
 
 As for the other part, we made a communicating and interacting avatar to be the voice and face of our chatbot.
 For the avatar to do all the talking might be a long shot, but we are almost done with the face and expressions and 
@@ -24,9 +24,9 @@ we beleive we can make it very helpful and interactive.
 
 Here are some photos
 
-![23555392_10213176324775470_958439756_o](/uploads/f6640fd63f44ab0240e53db8b90a9555/23555392_10213176324775470_958439756_o.png)
+![23555392_10213176324775470_958439756_o](images/23555392_10213176324775470_958439756_o.png)
 
-![23555233_10213176324855472_923489822_o](/uploads/ec03a1d4ab9e69d2cb9802131b14cd9d/23555233_10213176324855472_923489822_o.png)
+![23555233_10213176324855472_923489822_o](images/23555233_10213176324855472_923489822_o.png)
 
 ## Questions
 
