@@ -49,7 +49,7 @@ The series of diagrams used to explain our ideas were generated in graphic softw
 
 ### What challenges did you face?
 
-*Our team is composed individuals from across the globe working at different time zones and from different disciplines. We developed the optimal way of mitigating this bottleneck by streamlining team member roles and discipline interfaces. Also we took advantage of the time differentials by tag-teaming on the tasks at hand, while maintaining a group collaborative vision. 
+*[Our team is composed individuals from across the globe working at different time zones and from different disciplines. We developed the optimal way of mitigating this bottleneck by streamlining team member roles and discipline interfaces. Also we took advantage of the time differentials by tag-teaming on the tasks at hand, while maintaining a group collaborative vision. 
 
 Given this is the first time any of us have been exposed to building a chatbot, we all learning curves to overcome. Although it was challenging to make progress at first, we quickly make progress towards the end. 
 
