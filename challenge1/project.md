@@ -9,7 +9,11 @@ here is a link to our chatbot https://www.messenger.com/t/517335021937263 it is 
 
 once you start talking to the chatbot it will show you some information about scratch and offer you an optional video about Scratch in Arabic
 
+![alt text](chatbot_getstarted.png)
+
 the user can watch the video first or can jump immediately to the steps to start scratch.
+
+![alt text](chatbot_video.png)
 
 the user can ask any questions at any time. our scratch is fed with the FAQ about Scratch.
 
