@@ -38,3 +38,5 @@ I would try to get the protype to real enironment like actuall refugee students 
 
 Chatfuel has a great way of utilizing the NLP within the conversation. We used it particularly for choosing the langauge English vs Arabic. it gives the user freedo to say his language choice in any way and in any of the two langugaes Arabic and English.
 this is demonstrated in a seperate video named NLP.language.choice
+Also I want to highlight the method that does the verification between the facebook bot and the backend using a verification token "VERIFY_TOKEN"
+we tried doing this locally and on the a cloud server on Heroku as well. this code is in the attahced file app.py
