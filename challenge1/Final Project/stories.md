@@ -1,3 +1,4 @@
+```
 ## get activity path            
   - action_greet
   - action_give_daily_activity
@@ -48,3 +49,5 @@
 * _thanks
   - action_welcome
   - action_bye
+  
+  ```
