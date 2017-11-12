@@ -8,16 +8,20 @@ Receiving their feedback.
 Providing on-demand extra activities.
 Replace the SMS current approach with a considerably cheaper one.
 To accomplish this task, we needed  to summarise the prospective conversation scenarios between the company and parents, based on the needs of both sides (e.g. need for feedback or need for further explanations). These are shown below.
-![alt text](storylines.png)
+
+
+![alt text](Final Project/storylines.png)
+
+
 
 After that, these scenarios need to be formed into predicted phrases and vocabulary. This, in turn, is analysed by a natural language understanding processor to extract meanings and build suitable responses upon them. We found this approach more flexible than plain (IF... THEN) rules since it can recognise more possibilities of sentence structures, giving more human like nature to the chatbot.
 This service can be provided through any interface such as an independent mobile app or facebook messenger. We took the first approach and linked the app to the basic core of the bot. The working chatbot is shown in the video attached.
 
-![Sample Video](https://youtu.be/4nk62c6jnkw)
+![Please fine here a Vodio of the Working Chatbot](https://youtu.be/4nk62c6jnkw)
 
 Here is an experiment with some spelling mistakes from the user.
 
-![Sample Video](Final Project/working_bot_2.mp4)
+![alt text](Final Project/working_bot_2.mp4)
 
 
 ## Questions
@@ -27,6 +31,7 @@ Here is an experiment with some spelling mistakes from the user.
 The chatbot is built as a mobile/desktop application to interface the chatbot processor with the parents. Rasa platform is adopted to process the natural language into structured data which is afterward used by Rasa core to build the dialogue of the conversation and connect with the app interface through an offline server.
 Rasa platform was chosen due to the wide functionalities it provides. The usage of each part of the platform can be independent, which allows future development of the bot in several directions, along with the ability to use a third party platforms or add-ons, such as Wit, to expand the functions with adding Arabic language, for example.
 Rasa platform contains two main parts, Rasa NLU and rasa Core.
+
 **Rasa NLU (Natural Language Understanding):** is an intelligent open source platform that extract intents and entities of a given sentence based on trained AI algorithm. Where intents are what the user is expected  to say; and entities  are the information extracted from the message. 
 To utilize Rasa NLU, the expected enquiries of the user are set in training samples and fed to rasa NLU to train the ANN. The trained neural network is then used by the core to analyse the meaning of each user sentence. Training samples include the main intentes the user is expected to use along with the different variations the entity can have, such as:
 
@@ -38,20 +43,27 @@ To utilize Rasa NLU, the expected enquiries of the user are set in training samp
 - hi
 - good morning
 - hi there
-- what's up
+- whats up
 
 ## intent:unclear
 - activity is not clear
 - I do not understand
 - I did not understand
-- I don't get it
+- I dont get it
 - It is difficult
 - I need help
 ```
 The more training samples are given to the network, the more accurate the responses will be. Also, proper synonyms of the entity help recognizing a wider range of user sentences. Below, the result of a poor trained network is shown, where the responses can be meaningless.
+
+
 ![alt text](Final Project/poor_training.PNG)
+
+
 In the next figure the response of a better training sample set is shown.
+
+
 ![alt text](Final Project/better_training.PNG)
+
 
 
 **Rasa Core:** interprets the user messages based on the imported trained network from rasa NLU, based on this  interpretation, a story path is decided and followed. This indicates the next action to be taken by the chatbot, and then forward the response to the user. The story path direction is chosen based on a trained ANN which links the interpreted meaning of the sentence with a corresponding story line. An extensive storyline training data leads to a better flexibility to move from storyline to another and help avoiding meaningless responses. The following are some samples of storyline:
