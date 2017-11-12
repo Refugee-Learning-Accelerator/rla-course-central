@@ -2,7 +2,7 @@
 
 ## Description
 
-###Scratch Mentor Chatbot###
+### Scratch Mentor Chatbot
 a chatbot to introduce users to the world of coding by teaching them Scratch. 
 the chatbot will provide a guide through information supported by pictures to help the users get started Scratch and create a basic project with it.
 
