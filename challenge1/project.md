@@ -20,7 +20,7 @@ The best part of this chatbot is that it has a very realistic goal in mind. Inst
 
 ### What would you different in the future? 
 
-In the future, we work on the following extensions
+In the future, we will work on the following extensions:
 1.	First we will allow the user to type his reply especially in the contact information. 
 2.	We will finalize the code related to the interaction with the database.
 3.	We will optimize the range of parameters students and tutors can set for the matching system to be useful and more efficient.
@@ -31,13 +31,13 @@ In the future, we work on the following extensions
 A more detailed description of the code development and implementation will be presented once the code is finalized and optimized. For now, the main steps that we followed in the implementation of our chatbot are:
 1. Create the Facebook page of “الأستاذ فهمي”
 2. Create a Facebook app and link it to the Facebook page
-3. Create a local sever using IIS
-4. Expose the local created server to the internet using ngrok
-5. Create an SQL server and a local database to store data
+3. Create a local sever using **IIS**
+4. Expose the local created server to the internet using **ngrok**
+5. Create an **SQL server** and a local database to store data
 6. Set Up the Webhook
-7. Implement the main functions of the chatbot using ASP.NET MVC
+7. Implement the main functions of the chatbot using **ASP.NET MVC**
 
-The bulk of the prototype development resides mainly in step 6 and 7 where the code is developed. In step 6 we have implemented our Webhook. The Messenger Platform sends events to the Webhook to notify the bot when a variety of interactions or events happen, including when a person sends a message. Webhook events are sent by the Messenger Platform as POST requests to the Webhook. In our code, we have created a Webhook controller class “_WebhookController_” as inherent of the “_ApiController_” class already existing. The _WebhookController_ class’s main functionality is to handle the communication with Facebook, mainly the http get and http post requests. The main functions implemented in the WebhookController class are:
+The bulk of the prototype development resides mainly in step 6 and 7 where the code is developed. In step 6 we have implemented our Webhook. The Messenger Platform sends events to the Webhook to notify the bot when a variety of interactions or events happen, including when a person sends a message. Webhook events are sent by the Messenger Platform as POST requests to the Webhook. In our code, we have created a Webhook controller class “**WebhookController**” as inherent of the “**ApiController**” class already existing. The **WebhookController** class’s main functionality is to handle the communication with Facebook, mainly the http get and http post requests. The main functions implemented in the WebhookController class are:
 -	ValidateApp(challenge, token): Authentication and Validation
 -	PostAsyn
 -	ProcessEntryAsync
