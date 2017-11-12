@@ -2,8 +2,7 @@
 
 ## Description
 
-* Demo: https://youtu.be/8fO4XV5P1MA 
-* OR: https://youtu.be/WZwXDnjOeR8
+* Demo: https://youtu.be/WZwXDnjOeR8
 * code: zip file uploaded https://youtu.be/PEgG_Dy-vkk
 * Code: zip fie uploaded: PEDD - backup 20171112.zip
 * 
