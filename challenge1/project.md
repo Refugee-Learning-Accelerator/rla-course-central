@@ -21,7 +21,7 @@ This service can be provided through any interface such as an independent mobile
 
 Here is an experiment with some spelling mistakes from the user.
 
-![alt text](Final Project/working_bot_2.mp4)
+![misspelling handling](Final Project/working_bot_1.mp4)
 
 
 ## Questions
