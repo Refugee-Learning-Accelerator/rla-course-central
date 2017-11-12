@@ -2,7 +2,7 @@
 
 ## Description
 
-* Our chatbot, Specialization Decision Making Support, targets students who are going to join Thamar University. It helps these enrolling students to choose the appropriate specialization that fits their potentials depending on their high-school average and other factors.*
+Our chatbot, Specialization Decision Making Support, targets students who are going to join Thamar University. It helps these enrolling students to choose the appropriate specialization that fits their potentials depending on their high-school average and other factors.
 
 ## Questions
 
@@ -27,6 +27,6 @@ We plan to make our chatbot accessible to every user not only using the facebook
 
 ### Are there any parts of your code you'd like to highlight?
 
-As the chatbot was built using chatfuel, which enable users to build chatbots without writing codes, there is no code to provied. 
+As the chatbot is built using chatfuel, which enables users to build chatbots without writing codes, there is no code to provied. 
  [Also here is the url to the chatbot](https://www.facebook.com/Specialization-Decision-Making-Support-128588091187669/).
 
