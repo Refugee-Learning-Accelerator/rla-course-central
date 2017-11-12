@@ -10,6 +10,8 @@ There are a few  main commands for our Chabot
 * `\join_group` allows the user to join an already existing study group. He would type for example \join_group ABC
 * `\create_group` allows the user to create a group. He would type `\create_group ABC`
 * `\show_group_members` would show the current group members in the group
+* `\show_answer` would show the answer to the previous question
+* `\answer` allows the user to input an answer. he would type `\answer A` for example *(temporary solution: will be implemented later on as inline keyboard with message)*
 
 All of these can be viewed instantly by pressing the `\` button on the telegram app when talking with our Chabot.
 
@@ -19,7 +21,7 @@ Each individual logs into their own phone. They go to `telegram` and start a con
 
 Then when all users are ready, the app would begin sending sample SAT vocab questions. Each question has inline keyboard Keys that represent a letter in the multiple choice. He would click the letter and the Chabot would present the next question to all the members.
 
-You can see how the question looks when asked [here](https://gitlab.refugeelearning.site/rla/BeirutByByte/team-template/blob/master/challenge1/Project/Visual%20Aid/Screenshots/Sample%20Question.jpg)
+You can see how the question looks when asked [here](https://gitlab.refugeelearning.site/rla/BeirutByByte/team-template/blob/master/challenge1/Project/Visual%20Aid/Screenshots/Sample%20Question.jpg) Please note that this is not implemented yet
 
 
 ### Other Info
