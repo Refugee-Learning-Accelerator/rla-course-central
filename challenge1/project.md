@@ -2,13 +2,13 @@
 
 ## Description
 
-For the first challenge, we came up with the concept of a chatbot that we're calling "Ustaz Fahmi" (الأستاذ فهمي) to serve both refugees students and teachers. Ustaz Fawzi's main purpose is to make it easy for students who need tutoring or help in a certain subject at school to find a suitable teacher. It is common for refugees to find it difficult to find a tutor that suits them, for example, cost and location wise. Nevertheless, many people who are willing and able to help are available, but don’t know where to start or how to help. Ustaz Fahmi is a useful link between these people and students that need tutoring sessions. Each time a student requests help, Ustaz Fahmi asks him for contact information and specific tutoring needs (material, number of sessions...) and provides him with several tutors options based on his specifications. When a tutor contacts Ustaz Fahmi, he must provide his contact information and teaching preferences (material, level of students, session duration…) and Ustaz Fahmi will store these data for future students’ requests.
+For the first challenge, we came up with the concept of a chatbot that we're calling "**Ustaz Fahmi**" (الأستاذ فهمي) to serve both refugees students and teachers. Ustaz Fawzi's main purpose is to make it easy for students who need tutoring or help in a certain subject at school to find a suitable teacher. It is common for refugees to find it difficult to find a tutor that suits them, for example, cost and location wise. Nevertheless, many people who are willing and able to help are available, but don’t know where to start or how to help. Ustaz Fahmi is a useful link between these people and students that need tutoring sessions. Each time a student requests help, Ustaz Fahmi asks him for contact information and specific tutoring needs (material, number of sessions...) and provides him with several tutors options based on his specifications. When a tutor contacts Ustaz Fahmi, he must provide his contact information and teaching preferences (material, level of students, session duration…) and Ustaz Fahmi will store these data for future students’ requests.
 
 ## Questions
 
 ### How did you build it (platform and technology)?
 
-Ustaz Fahmi will play the role of a virtual tutor implemented on Facebook Messenger.  We used _ASP.NET MVC_ to build our chatbot. 
+Ustaz Fahmi will play the role of a virtual tutor implemented on Facebook Messenger.  We used **ASP.NET MVC** to build our chatbot. 
 
 ### What challenges did you face?
 
@@ -44,11 +44,11 @@ The bulk of the prototype development resides mainly in step 6 and 7 where the c
 -	ProcessMessagingAsync
 
 MVC allows us to build the chatbot as a composition of three logic layers: Model (business layer), View (display layer) and Controller (input control). The model represents the state of a particular aspect of the application. The controller handles interactions and updates the model to reflect a change in state of the application, and then passes information to the view. A view accepts necessary information from the controller and renders a user interface to display that information. By creating components that are independent of one another, we are able to reuse components quickly and easily in other applications. 
-The Controller layer includes the _WebhookController_ class and another class called “_StudentController_” that handles the interaction with the database, mainly the create, update, delete, and read requests.
+The Controller layer includes the **WebhookController** class and another class called “**StudentController**” that handles the interaction with the database, mainly the create, update, delete, and read requests.
 
 The created controllers will manipulate the different created models to create the corresponding responses to the users’ requests. For instance, the StudentController will use a student model which models an entry to the database of students with corresponding data (Id of the student, FB id, name, phone number,…).
-The _WebhookController_ is using different models including: a _StateModel_, a _SessionModel_ and a _StateNode_. The _StateModel_ corresponds to the workflow state of the current user in the current session and the _SessionModel_ corresponds to the session related information.
+The **WebhookController** is using different models including: a **StateModel**, a **SessionModel** and a **StateNode**. The **StateModel** corresponds to the workflow state of the current user in the current session and the **SessionModel** corresponds to the session related information.
 Two additional classes have been created:
--	The _SessionUtil_ class that includes all the functions needed to handle several simultaneous sessions using the chatbot.
--	The _BotUtil_ class that defines all the functions used in the WebhookController to communicate with the chatbot.
+-	The **SessionUtil** class that includes all the functions needed to handle several simultaneous sessions using the chatbot.
+-	The **BotUtil** class that defines all the functions used in the WebhookController to communicate with the chatbot.
 
