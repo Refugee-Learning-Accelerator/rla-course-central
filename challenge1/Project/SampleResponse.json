@@ -20,33 +20,6 @@
       "date": 1510400607,
       "text": "hello"
     }
-  }]
-}
-
-
-
-{
-  "ok": true,
-  "result": [{
-    "update_id": 41718863,
-    "message": {
-      "message_id": 9,
-      "from": {
-        "id": 471184458,
-        "is_bot": false,
-        "first_name": "Ebrahim",
-        "last_name": "Karam",
-        "language_code": "en-US"
-      },
-      "chat": {
-        "id": 471184458,
-        "first_name": "Ebrahim",
-        "last_name": "Karam",
-        "type": "private"
-      },
-      "date": 1510400607,
-      "text": "hello"
-    }
   }, {
     "update_id": 41718864,
     "message": {

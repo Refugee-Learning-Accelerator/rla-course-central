@@ -2,23 +2,29 @@
 
 ## Description
 
-*[Describe and demonstrate your chatbot. Videos, screenshots or images are encouraged.]*
+Chatbot Username: @BeirutByByte_bot
+
+Chatbot Name: Beirut By Byte
+
+If you would like to see the repository for the code please check the repository on:
+https://gitlab.refugeelearning.site/rla/BeirutByByte/BBBChat
+
 
 ## Questions
 
 ### How did you build it (platform and technology)?
 
-*[Your answer here...]*
+We are using python 2.7 and the telegram api to build our bot. The database is controlled via Django. 
 
 ### What challenges did you face?
 
 *[Your answer here...]*
 
-### What aspect of the chatbot do you like best? 
+### What aspect of the chatbot do you like best?
 
 *[Your answer here...]*
 
-### What would you different in the future? 
+### What would you different in the future?
 
 *[Your answer here...]*
 
