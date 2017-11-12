@@ -17,6 +17,8 @@ the user can watch the video first or can jump immediately to the steps to start
 
 the user can ask any questions at any time. our scratch is fed with the FAQ about Scratch.
 
+![alt text](chatbot_questions.png)
+
 ## Questions
 
 ### How did you build it (platform and technology)?
