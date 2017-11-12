@@ -20,7 +20,9 @@ This service can be provided through any interface such as an independent mobile
 
 [![Please find the video here](https://img.youtube.com/vi/4nk62c6jnkw/0.jpg)]
 (https://youtu.be/4nk62c6jnkw)
+
 Click the picture to go to the chatbot video on youtube.com
+
 
 
 
@@ -28,6 +30,7 @@ Here is an experiment with some spelling mistakes from the user.
 
 [![Please find the video here](https://img.youtube.com/vi/1qdtrpIIF3Y/0.jpg)]
 (https://www.youtube.com/watch?v=1qdtrpIIF3Y&feature=youtu.be)
+
 Click the picture to go to the mis-spelling handling video on youtube.com
 
 
