@@ -17,7 +17,7 @@ To accomplish this task, we needed  to summarise the prospective conversation sc
 After that, these scenarios need to be formed into predicted phrases and vocabulary. This, in turn, is analysed by a natural language understanding processor to extract meanings and build suitable responses upon them. We found this approach more flexible than plain (IF... THEN) rules since it can recognise more possibilities of sentence structures, giving more human like nature to the chatbot.
 This service can be provided through any interface such as an independent mobile app or facebook messenger. We took the first approach and linked the app to the basic core of the bot. The working chatbot is shown in the video attached.
 
-[![Please find the video here](https://img.youtube.com/watch?v=4nk62c6jnkw/0.jpg)]
+[![Please find the video here](https://img.youtube.com/watch?v=4nk62c6jnkw/3.jpg)]
 (https://youtu.be/4nk62c6jnkw)
 
 Here is an experiment with some spelling mistakes from the user.
