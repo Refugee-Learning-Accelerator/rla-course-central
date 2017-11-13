@@ -1,6 +1,6 @@
 # Design challenge 2 - Human Centered Design 
 
-This is your dashboard for the second design challenge. It contains a calendar of the key milestones, information on the deliverables, and links to all course materials. For the next two weeks we will be exploring human centered design. 
+This is your dashboard for the second design challenge. It contains a calendar of the key milestones, information on the deliverables, and links to all course materials. For the next two weeks we will be **exploring human centered design** and **rapid prototyping**. 
 
 ### Challenge: How might we use every day technologies as learning tools? 
 
@@ -21,11 +21,12 @@ SUBMIT > Initial Prototype
 Review other team's projects and leave feedabck 
 
 **Tues, Nov 21 (5pm Amman)**  
-[Live Seminar](https://unhangout.media.mit.edu/event/rla/) TBC
+[Live Seminar](https://unhangout.media.mit.edu/event/rla/) *An introduction to [Edraak](https://www.edraak.org/en/) and how they are using Human Centered Design to prototype a new blended learning platform*
+Sherif Halawa, Head of Engineering and Research, Edraak 
 
 **Wed, Nov 22 (5pm Amman)**  
-[Live Seminar](https://unhangout.media.mit.edu/event/rla/): Feedback
-Philipp Schmidt, Director of the Learning Initiative at MIT Media Lab 
+[Live Seminar](https://unhangout.media.mit.edu/event/rla/): *Feedback*
+Philipp Schmidt, Director of the Learning Initiative at MIT Media Lab; Jackie Strecker, Learn Lab Manager, UNHCR 
 
 **Sun, Nov 26 (midnight Amman)**
 SUBMIT > Revised Prototype 
@@ -43,6 +44,7 @@ Click here for [detailed instructions on the deliverables](https://gitlab.refuge
 ## Background Materials
 
 **[Exploring Human Centered Design](https://gitlab.refugeelearning.site/rla-staging/course-central-staging/blob/master/challenge2/gettingstartedHCD.md)**:
+
 background on the Human Centered Design process and how we might use it to better design technologies that support learning. 
 
 
