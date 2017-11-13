@@ -9,7 +9,7 @@ This is your dashboard for the second design challenge. It contains a calendar o
 **Tue, Nov 14 (5pm Amman)**  
 [Live Seminar](https://unhangout.media.mit.edu/event/rla/): *An introduction to Human Centered Design*  
 Divya Viswanathan, Design Lead, [IDEO](https://www.ideo.com/); Tracee Worley, Systems Designer, [IDEO](https://www.ideo.com/)
-**Worksheet to print in advance of Tuesday seminar**
+**[Worksheet](https://gitlab.refugeelearning.site/rla/course-central/blob/master/challenge2/RIL%20Design%20Thinking%20Worksheets.pdf) to print in advance of Tuesday seminar**
 
 **Wed, Nov 15 (5pm Amman)**  
 [Live Seminar](https://unhangout.media.mit.edu/event/rla/): *Using Human Centered Design to explore "how we might use every day technologies as learning tools?"*  
