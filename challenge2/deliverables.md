@@ -2,7 +2,7 @@
 
 ## Menu
 
-* Human Centered Design challenge overview
+* [Human Centered Design challenge overview](https://gitlab.refugeelearning.site/rla/course-central/blob/master/challenge2/README.md)
 * [Mattermost channel for questions and comments](https://mattermost.refugeelearning.site/rla/channels/challenge-2-hcd) 
 
 ## The Human Centered Design Challenge has **two deliverables** 
