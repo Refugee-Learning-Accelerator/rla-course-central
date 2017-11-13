@@ -12,6 +12,7 @@
         
         >>  Basic-Transcript.png    : A basic conversation.
         >>  Full-Transcript.png     : A conversation detailing all questions and few of the bot's reactions.
+        >>  Chatfuel-Screenshot.png : A look at our Chatfuel interface.
            
 ]*
 
