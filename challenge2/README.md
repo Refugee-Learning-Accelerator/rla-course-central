@@ -1,8 +1,10 @@
 # Design challenge 2 - Human Centered Design 
 
-This is your dashboard for the second design challenge. It contains a calendar of the key milestones, information on the deliverables, and links to all course materials. For the next two weeks we will be **exploring human centered design** and **rapid prototyping**. 
+This is your dashboard for the second design challenge. It contains a calendar of the key milestones, information on the deliverables, and links to all course materials. For the next two weeks we will be **exploring human centered design**.
 
-### Challenge: How might we use every day technologies as learning tools? 
+Human Centered Design is a framework that you can use to approach any design project -- not just for the development of software. It offers practical tools that help you better understand the problem you are trying to solve, the perspective of the humans you are designing for, and takes you step-by-step from an idea to a final product or service. We're going to use this framework to consider the following question: 
+
+### Challenge: How might we use everyday technologies as learning tools? 
 
 ## Calendar
 
