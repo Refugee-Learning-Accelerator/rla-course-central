@@ -23,7 +23,7 @@ Review other team's projects and leave feedabck
 
 **Tues, Nov 21 (5pm Amman)**  
 [Live Seminar](https://unhangout.media.mit.edu/event/rla/) *An introduction to [Edraak](https://www.edraak.org/en/) and how they are using Human Centered Design to prototype a new blended learning platform*
-Sherif Halawa, Head of Engineering and Research, Edraak 
+<br> Halawa, Head of Engineering and Research, Edraak 
 
 **Wed, Nov 22 (5pm Amman)**  
 [Live Seminar](https://unhangout.media.mit.edu/event/rla/): *Feedback*
@@ -45,7 +45,7 @@ Click here for [detailed instructions on the deliverables](https://gitlab.refuge
 ## Background Materials
 
 **[Exploring Human Centered Design](https://gitlab.refugeelearning.site/rla-staging/course-central-staging/blob/master/challenge2/gettingstartedHCD.md)**:
-background on the Human Centered Design process and how we might use it to better design technologies that support learning. 
+<br>background on the Human Centered Design process and how we might use it to better design technologies that support learning. 
 
 
 
