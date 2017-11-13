@@ -36,5 +36,5 @@ Moreover, it is not only a learning tool but it also include a reporting section
  Our next step is to link our chatbot with ML systems to improve the quality of the answers. So we think the coding part will be new and interesting.
  
   
- ![Alt](MutanafasTeam-Salma1stChallenge.pdf)  
- [embed]MutanafasTeam-Salma1stChallenge.pdf[/embed]  
+ ![More info the project..](MutanafasTeam-Salma1stChallenge.pdf)  
+ 
