@@ -3,10 +3,10 @@
 ## Description of the project
 
 The goal of this chatbot is to help automate the process of providing early learning activities to parents who have 0 to 6 year old children. This service is conducted currently by Tembo Education Co. and is so far a one-sided process. The chatbot is supposed to:
-Provide parents with a 24/7 service for answering questions.
-Receiving their feedback.
-Providing on-demand extra activities.
-Replace the SMS current approach with a considerably cheaper one.
+- Provide parents with a 24/7 service for answering questions.
+- Receive their feedback.
+- Provid on-demand extra activities.
+- Replace the SMS current approach with a considerably cheaper one.
 To accomplish this task, we needed  to summarise the prospective conversation scenarios between the company and parents, based on the needs of both sides (e.g. need for feedback or need for further explanations). These are shown below.
 
 
@@ -108,24 +108,24 @@ Chatbot application: An interfacing mobile/desktop application was built to be t
 The app was programmed on MS Visual Studio environment using C#.NET. This app provides a user friendly interface which can perform on Android, iOS and Windows. 
 
 ### What challenges did you face?
-The major challenge we faced was the linkage between facebook messenger and the rasa core, since this required an online server. This is technically and financially demanding, since it is not easy to upload the rasa core to an online domain.
-Another challenge was getting Tensor Flow, and consequently Rasa core, to run on a 32-bit operating system.
-Also, the proper training of both Rasa NLU and Rasa core demanded a sufficient volume of training samples. This volume was not clear in terms of its minimum value. Thus, a process of trial and error was adopted to get reasonable responses from the chatbot.
+- The major challenge we faced was the linkage between facebook messenger and the rasa core, since this required an online server. This is technically and financially demanding, since it is not easy to upload the rasa core to an online domain.
+- Another challenge was getting Tensor Flow, and consequently Rasa core, to run on a 32-bit operating system.
+- Also, the proper training of both Rasa NLU and Rasa core demanded a sufficient volume of training samples. This volume was not clear in terms of its minimum value. Thus, a process of trial and error was adopted to get reasonable responses from the chatbot.
 
 ### What aspect of the chatbot do you like best? 
 From the many advantages of using chatbots in general, these point were most appreciated by us in this work:
-The considerable saving in human resources, efforts, time and finance.
-The modularity of Rasa platform, which open many doors in front of development.
-The important role that a chatbot can play in aspects like education and psychological support.
-The long-term learning ability of a chabot, where i can improve continuously with more training samples taken from the online conversations.
-The ability of chatbots to expand the scope of other application the developer has worked on; and considerably enhance the user experience in many of these applications.
+- The considerable saving in human resources, efforts, time and finance.
+- The modularity of Rasa platform, which open many doors in front of development.
+- The important role that a chatbot can play in aspects like education and psychological support.
+- The long-term learning ability of a chabot, where i can improve continuously with more training samples taken from the online conversations.
+- The ability of chatbots to expand the scope of other application the developer has worked on; and considerably enhance the user experience in many of these applications.
 
 ### What would you different in the future? 
 Future expansion and enhancement of the current chatbot include:
-Using an online server to connect Rasa modules with services such as facebook messenger.
-Expanding the training sample set for both Rasa NLU and Rasa Core to increase the accuracy and cover more storylines.
-Tracking user information in order to personalise the chatbot responses. This function required a connection with a user database, which was postponed in this stage of the work due to some technical issues.
-Including the Arabic language in the NLP to make the chatbot available to Arab speaking families. We believe this could be accomplished due to the modular characteristic of Rasa platform, however, it is not tested yet.
+- Using an online server to connect Rasa modules with services such as facebook messenger.
+- Expanding the training sample set for both Rasa NLU and Rasa Core to increase the accuracy and cover more storylines.
+- Tracking user information in order to personalise the chatbot responses. This function required a connection with a user database, which was postponed in this stage of the work due to some technical issues.
+- Including the Arabic language in the NLP to make the chatbot available to Arab speaking families. We believe this could be accomplished due to the modular characteristic of Rasa platform, however, it is not tested yet.
 
 
 ### Are there any parts of your code you'd like to highlight?
