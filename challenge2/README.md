@@ -45,7 +45,6 @@ Click here for [detailed instructions on the deliverables](https://gitlab.refuge
 ## Background Materials
 
 **[Exploring Human Centered Design](https://gitlab.refugeelearning.site/rla-staging/course-central-staging/blob/master/challenge2/gettingstartedHCD.md)**:
-
 background on the Human Centered Design process and how we might use it to better design technologies that support learning. 
 
 
