@@ -5,7 +5,7 @@
 The goal of this chatbot is to help automate the process of providing early learning activities to parents who have 0 to 6 year old children. This service is conducted currently by Tembo Education Co. and is so far a one-sided process. The chatbot is supposed to:
 - Provide parents with a 24/7 service for answering questions.
 - Receive their feedback.
-- Provid on-demand extra activities.
+- Provide on-demand extra activities.
 - Replace the SMS current approach with a considerably cheaper one.
 To accomplish this task, we needed  to summarise the prospective conversation scenarios between the company and parents, based on the needs of both sides (e.g. need for feedback or need for further explanations). These are shown below.
 
