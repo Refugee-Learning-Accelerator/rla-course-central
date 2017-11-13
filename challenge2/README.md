@@ -23,7 +23,7 @@ Review other team's projects and leave feedabck
 
 **Tues, Nov 21 (5pm Amman)**  
 [Live Seminar](https://unhangout.media.mit.edu/event/rla/) *An introduction to [Edraak](https://www.edraak.org/en/) and how they are using Human Centered Design to prototype a new blended learning platform*
-<br> Sherif Halawa, Head of Engineering and Research, Edraak 
+<br> Sherif Halawa, Head of Engineering and Research, [Edraak](https://www.edraak.org/en/) 
 
 **Wed, Nov 22 (5pm Amman)**  
 [Live Seminar](https://unhangout.media.mit.edu/event/rla/): *Feedback*
