@@ -40,11 +40,11 @@ There are two deliverables during the two weeks of this challenge.
 
 **2. Revised Prototype - Due: Sun, Nov/26 (midnight Amman)**  
 
-Click here for [detailed instructions on the deliverables](https://gitlab.refugeelearning.site/rla-staging/course-central-staging/blob/master/challenge2/deliverables.md)
+Click here for [detailed instructions on the deliverables](https://gitlab.refugeelearning.site/rla/course-central/blob/master/challenge2/deliverables.md)
 
 ## Background Materials
 
-**[Exploring Human Centered Design](https://gitlab.refugeelearning.site/rla-staging/course-central-staging/blob/master/challenge2/gettingstartedHCD.md)**:
+**[Exploring Human Centered Design](https://gitlab.refugeelearning.site/rla/course-central/blob/master/challenge2/gettingstartedHCD.md)**
 <br>background on the Human Centered Design process and how we might use it to better design technologies that support learning. 
 
 
