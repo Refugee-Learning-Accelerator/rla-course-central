@@ -10,15 +10,14 @@
 ### Make an initial prototype - Due: Sun Nov/19 (midnight Amman)
 
 #### Tasks: 
-1. Pick a possible solution to the challenge we discussed this week
-2. Create a prototype
-3. - Pick a specific method to design a prototype (e.g., a paper prototype, a series of mockups, or an interactive wireframe). 
-2. Create a mockup/ prototype. Make it as tangible as possible. 
-3. Submit your prototype and documentation (see notes on the deliverable below)
-3. Review the prototypes of 3 other groups and leave feedback. 
+1. Pick a possible solution to the "How Might We" statement we discussed this week
+2. Create a prototype (your goal is to make it as tangible as possible)
+3. Pick a specific method to design a prototype (e.g., a paper prototype, a series of mockups, or an interactive wireframe). 
+4. Submit your prototype and documentation (answer the questions below)
+5. Review the prototypes of 3 other groups and leave feedback. 
 
-#### Deliverable 
-* What solution are you testing? (and why did you choose it)
+#### Questions to Answer 
+* What solution are you testing? (and why did you choose it?)
 * Submit your prototype (use photos, video, diagrams etc.)
 * Describe the prototype and why you chose this prototyping method. 
 * What did you learn during the prototyping process?
@@ -27,15 +26,15 @@
 ### Test it with users - Due: Sun Nov/26 (midnight Amman)
 
 #### Tasks: 
-1. Identify a group of potential users (or ask your friends and family)
-2. Test the prototpye and collect as much feedback as possible
+1. Identify a group of potential users (fall back: ask your friends and family)
+2. Have them **use** the prototype and collect as much feedback as possible
 3. Describe how you would change the prototpye based on the feedback (you don't have to make a new version of the prototype!)
-4. Incorporate the feedback you gathered into a new iteration of your prototype. 
 
-#### Deliverable
-* Describe how you selected your test users and the test setting 
-* Share a summary of the feedback you received
-* Desribe what changes you would make to your prototype based on the feedback (and why)
+#### Questions to Answer
+* How did you select your test users? 
+* What was the setting of the test? 
+* What were the main points of feedback you received (share a summary)? 
+* What changes would make to your idea/project based on the feedback?
 * What parts of the Human Centered Design process were new to you?
 * What parts of the Human Centered Design process seemed most useful to you? 
 
