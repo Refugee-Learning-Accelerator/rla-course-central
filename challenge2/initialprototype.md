@@ -1,12 +1,12 @@
 # Make an initial prototype - Due: Sun Nov/19 (midnight Amman)
 
-Tasks:
+## Tasks:
 
-Pick a possible solution to the "How Might We" statement we discussed this week
-Create a prototype (your goal is to make it as tangible/concrete as possible)
-Pick a specific method to design a prototype (e.g., a paper prototype, a series of mockups, or an interactive wireframe). 
-Submit your prototype and documentation (answer the questions below)
-Review the prototypes of 3 other groups and leave feedback. 
+* Pick a possible solution to the "How Might We" statement we discussed this week
+* Create a prototype (your goal is to make it as tangible/concrete as possible)
+* Pick a specific method to design a prototype (e.g., a paper prototype, a series of mockups, or an interactive wireframe). 
+* Submit your prototype and documentation (answer the questions below)
+* Review the prototypes of 3 other groups and leave feedback. 
 
 ## Questions to Answer
 
