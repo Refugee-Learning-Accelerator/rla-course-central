@@ -1,10 +1,10 @@
 # Test it with users - Due: Sun Nov/26 (midnight Amman)
 
-Tasks:
+## Tasks:
 
-Identify a group of potential users (fall back: ask your friends and family)
-Have them use the prototype and collect as much feedback as possible
-Describe how you would change the prototpye based on the feedback (you don't have to make a new version of the prototype!)
+* Identify a group of potential users (fall back: ask your friends and family)
+* Have them use the prototype and collect as much feedback as possible
+* Describe how you would change the prototpye based on the feedback (you don't have to make a new version of the prototype!)
 
 ## Questions to Answer
 
