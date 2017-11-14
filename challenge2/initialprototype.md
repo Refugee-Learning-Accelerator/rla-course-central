@@ -1,4 +1,4 @@
-* Make an initial prototype - Due: Sun Nov/19 (midnight Amman)
+# Make an initial prototype - Due: Sun Nov/19 (midnight Amman)
 
 Tasks:
 
@@ -8,7 +8,7 @@ Pick a specific method to design a prototype (e.g., a paper prototype, a series 
 Submit your prototype and documentation (answer the questions below)
 Review the prototypes of 3 other groups and leave feedback. 
 
-** Questions to Answer
+## Questions to Answer
 
 1. What solution are you testing? (and why did you choose it?)
 2. Submit your prototype (use photos, video, diagrams etc.)
