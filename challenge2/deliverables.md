@@ -23,7 +23,7 @@
 * What did you learn during the prototyping process?
 * Who are your intended users for testing? 
 
-**Step 1: Download the concept sketch instructions and templates**
+**Step 1: Download the concept sketch instructions and templates (just as you did for the first challenge!)**
 
 Note: All of the following steps must be completed at least once per team (if all of your team members use git, you will want to replicate them on each team member’s computer). This week you need to use git in the terminal (Command Prompt application on Windows, Terminal application on Mac); ask for help on [Mattermost](https://mattermost.refugeelearning.site/rla/channels/help) if you run into trouble.
 
