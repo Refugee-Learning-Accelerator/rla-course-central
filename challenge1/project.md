@@ -9,9 +9,9 @@ We know that the idea in general sounds simple but we believe in its potential o
 
 The bot is online and available on that link: https://www.facebook.com/BetaAbot/
 
-*  Basic-Transcript.png    : A basic conversation.
-*  Full-Transcript.png     : A conversation detailing all questions and few of the bot's reactions.
-*  Chatfuel-Screenshot.png : A look at our Chatfuel interface.
+*  ![Basic-Transcript.png](https://gitlab.refugeelearning.site/rla/The-Alternative/team-template/blob/master/challenge1/Basic-Transcript.png)    : A basic conversation.
+*  ![Full-Transcript.png](https://gitlab.refugeelearning.site/rla/The-Alternative/team-template/blob/master/challenge1/Full-Transcript.png)     : A conversation detailing all questions and few of the bot's reactions.
+*  ![Chatfuel-Screenshot.png](https://gitlab.refugeelearning.site/rla/The-Alternative/team-template/blob/master/challenge1/Chatfuel-Screenshot.png) : A look at our Chatfuel interface.
          
 
 ## Questions
