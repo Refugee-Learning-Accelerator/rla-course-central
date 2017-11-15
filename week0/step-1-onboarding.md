@@ -12,7 +12,7 @@ Follow these steps to set up your GitLab and Mattermost accounts. We will be usi
 1. **Register a new GitLab account** [here](https://gitlab.refugeelearning.site). We are using a private instance of GitLab specifically for the accelerator, so you will need to create a new account even if you already have one on GitLab.com.
 2. **Join our Mattermost** community:
   - Go to [our Mattermost instance](https://mattermost.refugeelearning.site) and select `GitLab` to log in with your new GitLab account. 
-  - You will be asked to join a team. Selecte RLA. 
+  - You will be asked to join a team. Select RLA. 
 3. Good job so far. Now it's time to **Say Hello!** and make some new friends:
   - Post an introduction in the [General](https://mattermost.refugeelearning.site/rla/channels/town-square) channel on Mattermost!
   - *What's your name, where are you from, and what's your [Mexican wrestler](http://gangstaname.com/names/mexican_wrestler#.WfEMEROPIo8) title?*
