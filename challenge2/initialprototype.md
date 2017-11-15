@@ -1,4 +1,4 @@
-# Initial Prototype
+# Challenge 2 Initial Prototype
 
 ### What solution are you testing? (and why did you choose it?)
 
