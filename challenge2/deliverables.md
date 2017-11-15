@@ -38,7 +38,7 @@ Note: All of the following steps must be completed at least once per team (if al
 **Step 2: Work on your concept and prepare it for submission**
 
 1. In your `team-template` folder you will find a new folder called `challenge2`. It contains two files ending in .md (markdown). Each contains a number of sections and questions for you to complete. 
-2. Complete `concept.md` (We will work on `project.md` during the second week). Feel free to also add other files in your folder. We strongly encourage the use of visuals (screenshots, mockups, drawings)
+2. Complete `initialprototype.md` (We will work on `usertesting.md` during the second week). Feel free to also add other files in your folder. We strongly encourage the use of visuals (screenshots, mockups, drawings)
 3. Make sure you commit and push your work by **Sunday midnight (Amman time)**. At that point, the work in your team's workspace will be **automatically** copied into the central course project (thanks to a nifty little script that @vahidfazelrezai wrote). Run: `git push origin master;` 
 
 
