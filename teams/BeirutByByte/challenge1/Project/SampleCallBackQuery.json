@@ -1,0 +1,33 @@
+{
+  "update_id": 41719043,
+  "callback_query": {
+    "id": "2023721839369706243",
+    "from": {
+      "id": 471184458,
+      "is_bot": false,
+      "first_name": "Ebrahim",
+      "last_name": "Karam",
+      "language_code": "en-US"
+    },
+    "message": {
+      "message_id": 409,
+      "from": {
+        "id": 444874958,
+        "is_bot": true,
+        "first_name": "Beirut By Byte",
+        "username": "BeirutByByte_bot"
+      },
+      "chat": {
+        "id": 471184458,
+        "first_name": "Ebrahim",
+        "last_name": "Karam",
+        "type": "private"
+      },
+      "date": 1510518907,
+      "text": "hello"
+    },
+    "chat_instance": "-3052500234087075710",
+    "data": "/A"
+  }
+}]
+}
