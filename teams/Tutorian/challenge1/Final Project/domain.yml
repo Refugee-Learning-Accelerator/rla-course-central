@@ -1,0 +1,61 @@
+intents:
+  - greet
+  - goodbye
+  - thanks
+  - understood
+  - unclear
+  - affirm
+  - deny
+  - more_acitivities
+  - step_unclear
+
+templates:
+  action_greet:
+  - text: "Hey!"
+
+  action_give_daily_activity:
+  - text: "Here is your daily activity, have fun! \n
+https://www.pnc.com/content/dam/pnc-com/pdf/GUG/Sesame%20Street/English/HappyHealthy/GUG_Eng_HappyHealthy_ActivityBook.pdf"
+
+  action_welcome:
+  - text: "You are welcome!"
+
+  action_ask_feedback:
+  - text: "Have your child finished the activity?"
+
+  action_happy:
+  - text: "That's great. I am happy to hear that."
+
+  action_bye:
+  - text: "Good bye!"
+
+  action_unhappy:
+  - text: "Oops! I did not expect that."
+
+  action_want_clarification:
+  - text: "Do you need more clarification?"
+
+  action_explain_detail:
+  - text: "Here are some more details about the activity, good luck! \n
+http://jetprogramme.org/wp-content/themes/biz-vektor/pdf/publications/7all.pdf"
+
+  action_sorry:
+  - text: "I am sorry you didn't like the activity."
+
+  action_give_more_activities:
+  - text: "You can find some extra activities here, wish you a good time! \n
+http://www.cambridgeenglish.org/images/285128-yle-starters-worksheets.pdf"
+
+
+actions:
+  - action_greet
+  - action_give_daily_activity
+  - action_welcome
+  - action_ask_feedback
+  - action_happy
+  - action_bye
+  - action_unhappy
+  - action_want_clarification
+  - action_explain_detail
+  - action_sorry
+  - action_give_more_activities

@@ -1,0 +1,448 @@
+```
+## intent:greet
+- hey
+- hello
+- moin
+- hi
+- good morning
+- hi there
+- what's up
+- hey
+- hello
+- moin
+- hi
+- good morning
+- hi there
+- what's up
+- hey
+- hello
+- moin
+- hi
+- good morning
+- hi there
+- what's up
+- hey
+- hello
+- moin
+- hi
+- good morning
+- hi there
+- what's up
+- hey
+- hello
+- moin
+- hi
+- good morning
+- hi there
+- what's up
+- hey
+- hello
+- moin
+- hi
+- good morning
+- hi there
+- what's up
+- hey
+- hello
+- moin
+- hi
+- good morning
+- hi there
+- what's up
+- hey
+- hello
+- moin
+- hi
+- good morning
+- hi there
+- what's up
+
+## intent:goodbye
+- bye
+- goodbye
+- see you later
+- good night
+- have a nice day
+- have a nice evening
+- I have to go
+- That's all, thank you
+- bye
+- goodbye
+- see you later
+- good night
+- have a nice day
+- have a nice evening
+- I have to go
+- That's all, thank you
+- bye
+- goodbye
+- see you later
+- good night
+- have a nice day
+- have a nice evening
+- I have to go
+- That's all, thank you
+- bye
+- goodbye
+- see you later
+- good night
+- have a nice day
+- have a nice evening
+- I have to go
+- That's all, thank you
+- bye
+- goodbye
+- see you later
+- good night
+- have a nice day
+- have a nice evening
+- I have to go
+- That's all, thank you
+- bye
+- goodbye
+- see you later
+- good night
+- have a nice day
+- have a nice evening
+- I have to go
+- That's all, thank you
+- bye
+- goodbye
+- see you later
+- good night
+- have a nice day
+- have a nice evening
+- I have to go
+- That's all, thank you
+- bye
+- goodbye
+- see you later
+- good night
+- have a nice day
+- have a nice evening
+- I have to go
+- That's all, thank you
+
+## intent:thanks
+- thank you
+- thanks
+- appreciate it 
+- thank you
+- thanks
+- appreciate it 
+- thank you
+- thanks
+- appreciate it 
+- thank you
+- thanks
+- appreciate it 
+- thank you
+- thanks
+- appreciate it 
+- thank you
+- thanks
+- appreciate it 
+- thank you
+- thanks
+- appreciate it 
+- thank you
+- thanks
+- appreciate it 
+- thank you
+- thanks
+- appreciate it 
+- thank you
+- thanks
+- appreciate it 
+- thank you
+- thanks
+- appreciate it 
+- thank you
+- thanks
+- appreciate it 
+
+## intent:understood
+- That's great
+- cool
+- understood
+- understand
+- get it
+- got it
+- copy that
+- not difficult
+- That's great
+- cool
+- understood
+- understand
+- get it
+- got it
+- copy that
+- not difficult
+- That's great
+- cool
+- understood
+- understand
+- get it
+- got it
+- copy that
+- not difficult
+- That's great
+- cool
+- understood
+- understand
+- get it
+- got it
+- copy that
+- not difficult
+- That's great
+- cool
+- understood
+- understand
+- get it
+- got it
+- copy that
+- not difficult
+- That's great
+- cool
+- understood
+- understand
+- get it
+- got it
+- copy that
+- not difficult
+- That's great
+- cool
+- understood
+- understand
+- get it
+- got it
+- copy that
+- not difficult
+- That's great
+- cool
+- understood
+- understand
+- get it
+- got it
+- copy that
+- not difficult
+
+## intent:unclear
+- activity is not clear
+- I do not understand
+- I did not understand
+- I don't get it
+- It is difficult
+- I need help
+- activity is not clear
+- I do not understand
+- I did not understand
+- I don't get it
+- It is difficult
+- I need help
+- activity is not clear
+- I do not understand
+- I did not understand
+- I don't get it
+- It is difficult
+- I need help
+- activity is not clear
+- I do not understand
+- I did not understand
+- I don't get it
+- It is difficult
+- I need help
+- activity is not clear
+- I do not understand
+- I did not understand
+- I don't get it
+- It is difficult
+- I need help
+- activity is not clear
+- I do not understand
+- I did not understand
+- I don't get it
+- It is difficult
+- I need help
+- activity is not clear
+- I do not understand
+- I did not understand
+- I don't get it
+- It is difficult
+- I need help
+- activity is not clear
+- I do not understand
+- I did not understand
+- I don't get it
+- It is difficult
+- I need help
+
+## intent:affirm
+- yes
+- indeed
+- correct
+- sure
+- obviously
+- done
+- ya
+- yeah
+- yes
+- indeed
+- correct
+- sure
+- obviously
+- done
+- ya
+- yeah
+- yes
+- indeed
+- correct
+- sure
+- obviously
+- done
+- ya
+- yeah
+- yes
+- indeed
+- correct
+- sure
+- obviously
+- done
+- ya
+- yeah
+- yes
+- indeed
+- correct
+- sure
+- obviously
+- done
+- ya
+- yeah
+- yes
+- indeed
+- correct
+- sure
+- obviously
+- done
+- ya
+- yeah
+- yes
+- indeed
+- correct
+- sure
+- obviously
+- done
+- ya
+- yeah
+- yes
+- indeed
+- correct
+- sure
+- obviously
+- done
+- ya
+- yeah
+
+## intent:deny
+- no
+- never
+- no way
+- not done
+- I didn't
+- sorry, no
+- no
+- never
+- no way
+- not done
+- I didn't
+- sorry, no
+- no
+- never
+- no way
+- not done
+- I didn't
+- sorry, no
+- no
+- never
+- no way
+- not done
+- I didn't
+- sorry, no
+- no
+- never
+- no way
+- not done
+- I didn't
+- sorry, no
+- no
+- never
+- no way
+- not done
+- I didn't
+- sorry, no
+- no
+- never
+- no way
+- not done
+- I didn't
+- sorry, no
+- no
+- never
+- no way
+- not done
+- I didn't
+- sorry, no
+
+## intent:more_acitivities
+- Can you give me more activities
+- I want extra activity
+- Can you give me more activities
+- I want extra activity
+- Can you give me more activities
+- I want extra activity
+- Can you give me more activities
+- I want extra activity
+- Can you give me more activities
+- I want extra activity
+- Can you give me more activities
+- I want extra activity
+- Can you give me more activities
+- I want extra activity
+- Can you give me more activities
+- I want extra activity
+- Can you give me more activities
+- I want extra activity
+- Can you give me more activities
+- I want extra activity
+- Can you give me more activities
+- I want extra activity
+- Can you give me more activities
+- I want extra activity
+
+## intent:step_unclear
+- step is not clear
+- step
+- step is not clear
+- step
+- step is not clear
+- step
+- step is not clear
+- step
+- step is not clear
+- step
+- step is not clear
+- step
+- step is not clear
+- step
+- step is not clear
+- step
+- step is not clear
+- step
+- step is not clear
+- step
+- step is not clear
+- step
+- step is not clear
+- step
+
+```
