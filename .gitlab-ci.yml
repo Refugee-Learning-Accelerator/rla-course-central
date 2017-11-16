@@ -3,11 +3,11 @@ image: alpine:latest
 pages:
   stage: deploy
   script:
-  - cp participants.json public/
-  - cp -R teams public/
-  - cd public; python generate-photo-links.py
+  - cp participants.json web/
+  - cp -R teams web/
+  - cd web; python generate-photo-links.py
   artifacts:
     paths:
-    - public
+    - web
   only:
   - master
