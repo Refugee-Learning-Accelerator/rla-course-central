@@ -1,6 +1,7 @@
 $(document).ready(function () {
-  $.getJSON('./participants.json', function (teams) {
-    $.getJSON('./photo-links.json', function (links) {
+  $('#navbar').load('navbar.html');
+  $.getJSON('./assets/json/participants.json', function (teams) {
+    $.getJSON('./assets/json/photo-links.json', function (links) {
 
       var getTeamContainer = function (teamName) {
         return $('<div class="row">\
@@ -13,7 +14,7 @@ $(document).ready(function () {
       
       var getMemberColumn = function (name, username, teamName) {
         var profilePath = 'https://gitlab.refugeelearning.site/' + username;
-        var photoPath = './placeholder.png';
+        var photoPath = './assets/img/placeholder.png';
         if (username && links[username]) {
           photoPath = './teams/' + teamName + '/photos/' + links[username];
         }

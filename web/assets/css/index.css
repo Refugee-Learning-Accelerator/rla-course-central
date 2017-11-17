@@ -1,0 +1,21 @@
+html, body {
+    max-width: 100%;
+    overflow-x: hidden;
+    font-family: 'Roboto';
+}
+
+.header-content {
+  color: white;
+  height: 40vh;
+  background-image: url("../img/background.jpg");
+  background-size: cover;
+}
+
+.header-content-inner {
+  padding-top: 20vh;
+  text-align: center;
+}
+
+#welcome {
+  padding: 30px;
+}

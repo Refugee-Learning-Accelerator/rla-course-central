@@ -1,10 +1,10 @@
 import json
 import os
 
-teams = json.load(open('./participants.json', 'r'))
+teams = json.load(open('../assets/jsonparticipants.json', 'r'))
 links = {}
 for team in teams:
-	directory = './teams/' + team['teamName'] + '/photos'
+	directory = '../teams/' + team['teamName'] + '/photos'
 	if not os.path.exists(directory):
 		continue
 	files = os.listdir(directory)
@@ -13,5 +13,5 @@ for team in teams:
 			continue
 		filtered_files = filter(lambda x: member['username'].lower() == x.split('.')[0].lower(), files)
 		links[member['username']] = filtered_files[0] if len(filtered_files) > 0 else ''
-	json.dump(links, open('./photo-links.json', 'w'))
+	json.dump(links, open('../assets/json/photo-links.json', 'w'))
 

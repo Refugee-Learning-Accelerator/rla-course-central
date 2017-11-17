@@ -7,7 +7,7 @@ html, body {
 .header-content {
   color: white;
   height: 40vh;
-  background-image: url("./background.jpg");
+  background-image: url("../img/background.jpg");
   background-size: cover;
 }
 
