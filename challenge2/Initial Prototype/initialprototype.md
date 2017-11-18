@@ -24,7 +24,7 @@
 
   As an initial prototype it will just a UI (fluidUI) and a flow chart of the algorithm/process. We chose these methods because we thought it really shows the essence of what the project is and people could directly give feedback on the steps taken or the UI.
 
-  The Usage of the App would look like this (Please refer to the [The Step by Step Procedure](https://gitlab.refugeelearning.site/rla/BeirutByByte/team-template/blob/master/challenge2/Initial%20Prototype/The%20Step%20by%20Step%20Procedure.png))
+  The Usage of the App would look like this (Please refer to the [The Step by Step Procedure](https://gitlab.refugeelearning.site/rla/BeirutByByte/team-template/blob/master/challenge2/Initial%20Prototype/The%20Step%20by%20Step%20Procedure.PNG))
   * Before the session starts. The teacher uploads the seating plan of the users to the app
   * She starts the lesson and at each milestone. She stops and prompts a question
   * The question shows up on the phone of every user/student. If not enough phones. then the users could easily share the phone and answer together.
