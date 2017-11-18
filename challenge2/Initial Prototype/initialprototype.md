@@ -25,16 +25,20 @@
   As an initial prototype it will just a UI (fluidUI) and a flow chart of the algorithm/process. We chose these methods because we thought it really shows the essence of what the project is and people could directly give feedback on the steps taken or the UI.
 
   The Usage of the App would look like this (Please refer to the [The Step by Step Procedure](https://gitlab.refugeelearning.site/rla/BeirutByByte/team-template/blob/master/challenge2/Initial%20Prototype/The%20Step%20by%20Step%20Procedure.PNG))
-  * Before the session starts. The teacher uploads the seating plan of the users to the app
+  * Before the session starts. The teacher uploads the seating plan of the users to the app / or the users input their column or row in the room.
   * She starts the lesson and at each milestone. She stops and prompts a question
   * The question shows up on the phone of every user/student. If not enough phones. then the users could easily share the phone and answer together.
   * The students answer the question on a phone or tablet
   * Then the teacher gets feedback whether to repeat or proceed
-    * If the yield (number of correct answers is low) is low, the teacher will repeat the explanation and do what she sees fit to get the message better across. Then she will prompt another question to the students which falls under the same concept
-    * If the yield is high, the teacher will give the answer to the question, then wait 5 minutes for the students to discuss among themselves on the answer. (the people who got it wrong ask those who got it right )
-  * If she proceeds the student who got it wrong, gets a message to ask a student that’s seating close to him(according to the seating plan) to help him after class or during the 5 minute break.
+    * If the yield (number of correct answers) is low, the teacher will repeat the explanation and do what she sees fit to get the message better across. Then she will prompt another question to the students which falls under the same concept
+    * If the yield is high, the teacher will give the answer to the question, then wait X minutes for the students to discuss among themselves on the answer. (the people who got it wrong ask those who got it right )
+  * If she proceeds the student who got it wrong, gets a message to ask a student that’s seating close to him(according to the seating plan) to help him after class or during the X minute break.
 
+  Extra Features
+  * Users could ask for harder questions
+  * Users get marked as tutors and helpers
 
+  Main Philosophy: *Groupwork: because you can't claim to have mastered something until you can teach it*
 4. What did you learn during the prototyping process?
 
   We had lots of ideas but they failed to address the current users and their situation.
