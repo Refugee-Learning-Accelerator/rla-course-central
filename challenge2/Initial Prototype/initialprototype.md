@@ -12,15 +12,19 @@
 
 1. What solution are you testing? (and why did you choose it?)
 
-  We decided to aim at making a solution for School teachers who would be working with  30 plus students in a classroom.
+  We decided to aim at making a solution for School teachers who would be working with 30 plus students in a classroom after school hours.
+
+  We saw that it was a problem that was not the most addressed by most technology and is quite a hassle as pointed out by **LASeR** in the second session
 2. Submit your prototype (use photos, video, diagrams etc.)
+
+  Please check the other documents in the [Initial Prototype](https://gitlab.refugeelearning.site/rla/BeirutByByte/team-template/blob/master/challenge2/Initial%20Prototype) folder.
 3. Describe the prototype and why you chose this prototyping method.
 
   Our prototype is going to be an app that has a main admin and users. The admin would be the teacher and the users would be the students.
 
   As an initial prototype it will just a UI (fluidUI) and a flow chart of the algorithm/process. We chose these methods because we thought it really shows the essence of what the project is and people could directly give feedback on the steps taken or the UI.
 
-  The Usage of the App would look like this (Please refer to the [The Step by Step Procedure]())
+  The Usage of the App would look like this (Please refer to the [The Step by Step Procedure](https://gitlab.refugeelearning.site/rla/BeirutByByte/team-template/blob/master/challenge2/Initial%20Prototype/The%20Step%20by%20Step%20Procedure.png))
   * Before the session starts. The teacher uploads the seating plan of the users to the app
   * She starts the lesson and at each milestone. She stops and prompts a question
   * The question shows up on the phone of every user/student. If not enough phones. then the users could easily share the phone and answer together.
