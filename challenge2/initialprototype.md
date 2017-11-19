@@ -1,5 +1,7 @@
 # Challenge 2 Initial Prototype
 
+# Link to test the prototype: https://drive.google.com/drive/folders/1oC1EyU7xp4T0XOGJbG8NvEECOFVcTNCO?usp=sharing
+
 When you give donations you’ll get feedback either live as they received it or pictures or videos of them receiving and thanking the donator.
 The app would also show what the refugees need as they can request what is needed for refugees, it could be either requested by the refugees themselves if they have internet or by the camp management.
 There would be 2 ways for the goods be delivered to the refugees: 
