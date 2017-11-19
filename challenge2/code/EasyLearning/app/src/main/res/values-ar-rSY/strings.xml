@@ -1,0 +1,32 @@
+<resources>
+    <string name="app_name">وظيفة</string>
+    <string name="student">طالب</string>
+    <string name="teacher">معلم</string>
+    <string name="first_grade">الصف الأول</string>
+    <string name="second_grade">الصف الثاني</string>
+    <string name="third_grade">الصف الثالث</string>
+    <string name="fourth_grade">الصف الرابع</string>
+    <string name="fifth_grade">الصف الخامس</string>
+    <string name="sixth_grade">الصف السادس</string>
+    <string name="science">علوم</string>
+    <string name="math">رياضيات</string>
+    <string name="english">إنكليزي</string>
+    <string name="kurdi">كوردي</string>
+    <string name="noor_suliman">نور سليمان</string>
+    <string name="start_session">ابدأ الجلسة</string>
+    <string name="connecting">يتم الاتصال</string>
+    <string name="math_science">رياضيات - علوم</string>
+    <string name="shereen">شيرين</string>
+    <string name="answer">رد</string>
+    <string name="decline">رفض</string>
+    <string name="total_teachers_12">عدد المعلمين الكلي 12</string>
+    <string name="in_session_7">المعلمين في الجلسات 7</string>
+    <string name="available_5">المتوفرين 5</string>
+    <string name="connect">اتصال</string>
+    <string name="grades">الصفوف</string>
+    <string name="total_students_6">عدد الطلاب الكلي 6</string>
+    <string name="students_need_help_2">الطلاب بحاجة لمساعدة 2</string>
+    <string name="students_in_session_4">عدد الطلاب في الجلسات 4</string>
+    <string name="fifth_grade_math">الصف الخامس - رياضيات</string>
+
+</resources>

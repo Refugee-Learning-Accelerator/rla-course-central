@@ -1,0 +1,31 @@
+<resources>
+    <string name="app_name">Homework</string>
+    <string name="student">Student</string>
+    <string name="teacher">Teacher</string>
+    <string name="first_grade">First Grade</string>
+    <string name="second_grade">Second Grade</string>
+    <string name="third_grade">Third Grade</string>
+    <string name="fourth_grade">Fourth Grade</string>
+    <string name="fifth_grade">Fifth Grade</string>
+    <string name="sixth_grade">Sixth Grade</string>
+    <string name="science">Science</string>
+    <string name="math">Math</string>
+    <string name="english">English</string>
+    <string name="kurdi">Kurdi</string>
+    <string name="noor_suliman">Noor Suliman</string>
+    <string name="start_session">Start Session</string>
+    <string name="connecting">Connecting ...</string>
+    <string name="math_science">Math - Science</string>
+    <string name="shereen">Shereen</string>
+    <string name="answer">Answer</string>
+    <string name="decline">Decline</string>
+    <string name="total_teachers_12">Total Teachers 12</string>
+    <string name="in_session_7">In session 7</string>
+    <string name="available_5">Available 5</string>
+    <string name="connect">Connect</string>
+    <string name="grades">Grades</string>
+    <string name="total_students_6">Total Students 6</string>
+    <string name="students_need_help_2">Students need help 2</string>
+    <string name="students_in_session_4">Students in session 4</string>
+    <string name="fifth_grade_math">Fifth Grade - Math</string>
+</resources>

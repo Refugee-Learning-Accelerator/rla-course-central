@@ -1,0 +1,68 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:gravity="center"
+    android:orientation="vertical">
+
+    <Button
+        android:id="@+id/btn_grade_1"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_margin="16dp"
+        android:background="@color/colorPrimary"
+        android:text="@string/first_grade"
+        android:textColor="#FFFFFF"
+        android:textSize="22sp" />
+
+    <Button
+        android:id="@+id/btn_grade_2"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_margin="16dp"
+        android:background="@color/colorPrimary"
+        android:text="@string/second_grade"
+        android:textColor="#FFFFFF"
+        android:textSize="22sp" />
+
+    <Button
+        android:id="@+id/btn_grade_3"
+
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_margin="16dp"
+        android:background="@color/colorPrimary"
+        android:text="@string/third_grade"
+        android:textColor="#FFFFFF"
+        android:textSize="22sp" />
+
+    <Button
+        android:id="@+id/btn_grade_4"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_margin="16dp"
+        android:background="@color/colorPrimary"
+        android:text="@string/fourth_grade"
+        android:textColor="#FFFFFF"
+        android:textSize="22sp" />
+
+    <Button
+        android:id="@+id/btn_grade_5"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_margin="16dp"
+        android:background="@color/colorPrimary"
+        android:text="@string/fifth_grade"
+        android:textColor="#FFFFFF"
+        android:textSize="22sp" />
+
+    <Button
+        android:id="@+id/btn_grade_6"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_margin="16dp"
+        android:background="@color/colorPrimary"
+        android:text="@string/sixth_grade"
+        android:textColor="#FFFFFF"
+        android:textSize="22sp" />
+</LinearLayout>
