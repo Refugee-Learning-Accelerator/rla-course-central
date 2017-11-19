@@ -10,7 +10,7 @@ Find the app prototype available for testing in the following links:
 
 Arabic version:  https://invis.io/VDEJKYKCJ#/264808736_HelloAR
 
-English version:  https://invis.io/MXEJKOPW9#/264807951_HellpEN
+English version:  https://invis.io/MXEJKOPW9#/264807951_HelloEN
 
 
 ### Describe the prototype and why you chose this prototyping method. 
