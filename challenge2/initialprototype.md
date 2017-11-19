@@ -7,8 +7,10 @@ One of the main reasons for the refugee students to leave their school is the la
 ### Submit your prototype (use photos, video, diagrams etc.)
 
 Find the app prototype available for testing in the following links:
-Arabic version: *https://invis.io/VDEJKYKCJ#/264808736_HelloAR
-English version: *https://invis.io/MXEJKOPW9#/264807951_HellpEN
+
+Arabic version: * https://invis.io/VDEJKYKCJ#/264808736_HelloAR
+
+English version: * https://invis.io/MXEJKOPW9#/264807951_HellpEN
 
 
 ### Describe the prototype and why you chose this prototyping method. 
