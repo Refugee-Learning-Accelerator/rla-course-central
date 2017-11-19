@@ -15,6 +15,9 @@ English version:  https://invis.io/MXEJKOPW9#/264807951_HelloEN
 It is recommended to test the prototype on a mobile phone, however, it still works as well on a cmputer.
 
 
+![alt text](EN.PNG)            ![alt text](AR.PNG)
+
+
 ### Describe the prototype and why you chose this prototyping method. 
 
 The application prototype is a series of potential screens that the user can simply interact with, mimicking the normal interaction between the user and the app.To develop this prototype we used a combination of methods including Story Share and Capture, Point of View MADLIB and How Might We, since these methods can utilize our teaching experience as well as the scenarios we have been through to better demonstrate the intended solution to the users. The prototype was designed with help of an online tool for software prototyping, which is (invisionapp.com).
