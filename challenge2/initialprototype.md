@@ -14,10 +14,16 @@
 
     The problem we indecated is that the refugee students are not getting any quality of learning in the camps and in the city, 
     and they are having a hard time doing there homework and exams as even there parents can't help them, so our solution is to provide them with an online volunteer
-    teachers via mobile app, these teachers will help them with there homework and make them understands what they couldn't understands in the school.
+    teachers via a mobile app, these teachers will help them with their homework and make them understand what they couldn't understand in the school.
 
 2. Submit your prototype (use photos, video, diagrams etc.)
+   We created our prototype as an Android App, we added some interfaces so we can test it with our users and get feedback
+   the first interface contains two button to select wether the user is a teacher or a student
 
+   ![Home](home.png) 
+
+   the Arabic version
+   ![Home](home_ar.png)
 3. Describe the prototype and why you chose this prototyping method.    
 
     Our Prototype is an Android app, we did some UI's to explain our solution, and we chose this prototype because it's testable,
