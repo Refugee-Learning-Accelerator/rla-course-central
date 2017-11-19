@@ -20,12 +20,12 @@
   Please check the other documents in the [Initial Prototype](https://gitlab.refugeelearning.site/rla/BeirutByByte/team-template/blob/master/challenge2/Initial%20Prototype) folder.
 3. Describe the prototype and why you chose this prototyping method.
 
-  Our prototype is going to be an app that has a main admin and users. The admin would be the teacher and the users would be the students.
+  Our prototype is going to be an app that has a main admin and users. The admin could be the teacher or someone who is more familiar with the technology that could help the teacher and the users would be the students.
 
   As an initial prototype it will just a UI (fluidUI) and a flow chart of the algorithm/process. We chose these methods because we thought it really shows the essence of what the project is and people could directly give feedback on the steps taken or the UI.
 
   The Usage of the App would look like this (Please refer to the [The Step by Step Procedure](https://gitlab.refugeelearning.site/rla/BeirutByByte/team-template/blob/master/challenge2/Initial%20Prototype/The%20Step%20by%20Step%20Procedure.PNG))
-  * Before the session starts. The teacher uploads the seating plan of the users to the app / or the users input their column or row in the room.
+  * Before the session starts. The teacher uploads the seating plan of the users to the app / or the users input their column or row in the room which is shown 0n the side of the table as a QR code or simply written.
   * She starts the lesson and at each milestone. She stops and prompts a question
   * The question shows up on the phone of every user/student. If not enough phones. then the users could easily share the phone and answer together.
   * The students answer the question on a phone or tablet
@@ -35,7 +35,8 @@
   * If she proceeds the student who got it wrong, gets a message to ask a student that’s seating close to him(according to the seating plan) to help him after class or during the X minute break.
 
   Extra Features
-  * Users could ask for harder questions
+  * Users could ask for harder questions or easier questions
+  * Users get points for how many questions they get right and the difficulty they are
   * Users get marked as tutors and helpers
 
   Main Philosophy: *Groupwork: because you can't claim to have mastered something until you can teach it*
