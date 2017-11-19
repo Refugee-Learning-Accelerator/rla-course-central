@@ -25,6 +25,9 @@ We suggest a screen size of 8-10 inches with moderate resolution.
 Please find the wireframe under:
 https://marvelapp.com/explore/2455749/mobile-refugee-education
 
+and the introductory video at:
+https://goanimate.com/videos/01iz-NpN_tzk?utm_source=linkshare&utm_medium=linkshare&utm_campaign=usercontent
+
 ### Describe the prototype and why you chose this prototyping method. 
 
 The tablets will operate using:
