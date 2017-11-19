@@ -13,7 +13,8 @@ used also for workshop collaboration work.]*
 
 ### Submit your prototype (use photos, video, diagrams etc.)
 
-*Movie Prototype submitted]*
+*Movie Prototype uploaded on Google drive because we exceeded the allowed limit. You can find our movie at this link: https://drive.google.com/file/d/1V1zzPpN2E8NZrERIQqQp4VK7GWNPbO07/view?usp=sharing]*
+Please let us know if you were not able to access it.
 
 ### Describe the prototype and why you chose this prototyping method. 
 
