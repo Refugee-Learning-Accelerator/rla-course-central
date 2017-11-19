@@ -10,8 +10,19 @@
 
 ## Questions to Answer
 
-1. What solution are you testing? (and why did you choose it?)
+1. What solution are you testing? (and why did you choose it?) 
+
+    The problem we indecated is that the refugee students are not getting any quality of learning in the camps and in the city, 
+    and they are having a hard time doing there homework and exams as even there parents can't help them, so our solution is to provide them with an online volunteer
+    teachers via mobile app, these teachers will help them with there homework and make them understands what they couldn't understands in the school.
+
 2. Submit your prototype (use photos, video, diagrams etc.)
-3. Describe the prototype and why you chose this prototyping method. 
+
+3. Describe the prototype and why you chose this prototyping method.    
+
+    Our Prototype is an Android app, we did some UI's to explain our solution, and we chose this prototype because it's testable,
+    and we can test it with potential users and get feedback from them. 
+
 4. What did you learn during the prototyping process?
+
 5. Who are your intended users for testing?
