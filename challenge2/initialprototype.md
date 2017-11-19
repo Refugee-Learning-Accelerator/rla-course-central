@@ -24,6 +24,17 @@
 
    the Arabic version
    ![Home](home_ar.png)
+   
+   if the user choose Teacher then he will go the Teacher interface where he/she can see a profile pic and his/her name and the subjects he/she can teach and a button to
+   start a session which will be a video call with a student. We didn't add the registration process to the prototype to keep it simple and to avoid confusing our users
+   when we test it for the first time.
+   
+    ![Teacher](teacher.png) 
+
+   the Arabic version
+   
+   ![Teacher](teacher_ar.png)
+   
 3. Describe the prototype and why you chose this prototyping method.    
 
     Our Prototype is an Android app, we did some UI's to explain our solution, and we chose this prototype because it's testable,
