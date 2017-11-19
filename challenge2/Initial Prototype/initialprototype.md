@@ -17,12 +17,12 @@
   We saw that it was a problem that was not the most addressed by most technology and is quite a hassle as pointed out by **LASeR** in the second session
 2. Submit your prototype (use photos, video, diagrams etc.)
 
-  Please check the other documents in the [Initial Prototype](https://gitlab.refugeelearning.site/rla/BeirutByByte/team-template/blob/master/challenge2/Initial%20Prototype) folder.
+  Please check the other documents in the [Initial Prototype](https://gitlab.refugeelearning.site/rla/BeirutByByte/team-template/blob/master/challenge2/Initial%20Prototype) folder. Please focus on the
 3. Describe the prototype and why you chose this prototyping method.
 
   Our prototype is going to be an app that has a main admin and users. The admin could be the teacher or someone who is more familiar with the technology that could help the teacher and the users would be the students.
 
-  As an initial prototype it will just a UI (fluidUI) and a flow chart of the algorithm/process. We chose these methods because we thought it really shows the essence of what the project is and people could directly give feedback on the steps taken or the UI.
+  As an initial prototype it will just a [UI paper prototype](https://gitlab.refugeelearning.site/rla/BeirutByByte/team-template/blob/master/challenge2/Initial%20Prototype/Paper UI Layout) and a [flow chart](https://gitlab.refugeelearning.site/rla/BeirutByByte/team-template/blob/master/challenge2/Initial%20Prototype/The%20Step%20by%20Step%20Procedure.PNG) of the algorithm/process. We chose these methods because we thought it really shows the essence of what the project is and people could directly give feedback on the steps taken or the UI.
 
   The Usage of the App would look like this (Please refer to the [The Step by Step Procedure](https://gitlab.refugeelearning.site/rla/BeirutByByte/team-template/blob/master/challenge2/Initial%20Prototype/The%20Step%20by%20Step%20Procedure.PNG))
   * Before the session starts. The teacher uploads the seating plan of the users to the app / or the users input their column or row in the room which is shown 0n the side of the table as a QR code or simply written.
