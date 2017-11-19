@@ -39,14 +39,14 @@
    when the teacher touch the start session button a new interface will open for the video call with the student
    
    
-     ![connecting](connecting.png)
+   ![connecting](connecting.png)
 
    the Arabic version
    
    ![connecting](connecting_ar.png)
    
    
-     ![session](session.png)
+    ![session](session.png)
 
    the Arabic version
    
@@ -66,7 +66,7 @@
     Then another interface to choose a subject 
     
     
-    ![subjects](subjects.png)
+   ![subjects](subjects.png)
     
 
    the Arabic version
