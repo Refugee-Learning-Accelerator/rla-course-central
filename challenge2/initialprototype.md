@@ -62,6 +62,29 @@
    the Arabic version
    
    ![grades](grades_ar.png)
+   
+    Then another interface to choose a subject 
+    
+    
+    ![subjects](subjects.png)
+    
+
+   the Arabic version
+   
+   ![subjects](subjects_ar.png)
+   
+   
+   Then the stutent will see how many teachers the App has and how many are available to help or are currently in a session and will see a button to connect with
+   an available teacher
+   
+   
+   ![student](student.png)
+    
+
+   the Arabic version
+   
+   ![student](student_ar.png)
+   
      
    
 3. Describe the prototype and why you chose this prototyping method.    
