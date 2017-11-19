@@ -20,7 +20,7 @@
    We created our prototype as an Android App, we added some interfaces so we can test it with our users and get feedback
    the first interface contains two button to select wether the user is a teacher or a student
 
-   ![Home](home2.png) 
+   ![Home](home.png) 
 
    the Arabic version
    ![Home](home_ar.png)
