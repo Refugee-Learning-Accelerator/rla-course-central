@@ -23,9 +23,10 @@
    ![Home](home.png) 
 
    the Arabic version
+   
    ![Home](home_ar.png)
    
-   - When the user chooses Teacher he/she will go to the Teacher interface where he/she can see a profile pic, his/her name, the subjects he/she can teach and a button to
+   - When the user chooses Teacher he/she will go to the Teacher interface where he/she can see a profile pic, his/her name, the status of students available online and how many are needing help and a button to
    start a session which will be a video call with a student. We didn't add the registration process to the prototype to keep it simple and to avoid confusing our users
    when we test it for the first time.
    
@@ -75,8 +76,8 @@
    ![subjects](subjects_ar.png)
    
    
-   Then the stutent will see how many teachers the App has and how many are available to help or are currently in a session and will see a button to connect with
-   an available teacher
+   Then the stutent will see how many teachers the App has for the subject he chose and how many are available to help or are currently in a session,
+   and will see a button to connect with an available teacher
    
    
    ![student](student.png)
