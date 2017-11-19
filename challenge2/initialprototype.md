@@ -25,7 +25,7 @@
    the Arabic version
    ![Home](home_ar.png)
    
-   when the user chooses Teacher he/she will go to the Teacher interface where he/she can see a profile pic, his/her name, the subjects he/she can teach and a button to
+   - When the user chooses Teacher he/she will go to the Teacher interface where he/she can see a profile pic, his/her name, the subjects he/she can teach and a button to
    start a session which will be a video call with a student. We didn't add the registration process to the prototype to keep it simple and to avoid confusing our users
    when we test it for the first time.
    
@@ -39,19 +39,30 @@
    when the teacher touch the start session button a new interface will open for the video call with the student
    
    
-    ![connecting](connecting.png) 
+     ![connecting](connecting.png)
 
    the Arabic version
    
    ![connecting](connecting_ar.png)
    
    
-      ![session](session.png) 
+       ![session](session.png)
 
    the Arabic version
    
    ![session](session_ar.png)
    
+   
+   - When the user chooses Student he/she will go to another interface to choose the grade
+     
+    
+
+     ![grades](grades.png)
+
+   the Arabic version
+   
+   ![grades](grades_ar.png)
+     
    
 3. Describe the prototype and why you chose this prototyping method.    
 
