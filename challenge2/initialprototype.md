@@ -15,7 +15,8 @@ English version:  https://invis.io/MXEJKOPW9#/264807951_HelloEN
 It is recommended to test the prototype on a mobile phone, however, it still works as well on a cmputer.
 
 
-![alt text](EN.png)            ![alt text](AR.png)
+
+[![Please Click the pictire to go to the prototype](AR1.png)] (https://invis.io/VDEJKYKCJ#/264808736_HelloAR)             [![Please Click the pictire to go to the prototype](EN1.png)] (https://invis.io/MXEJKOPW9#/264807951_HelloEN)
 
 
 ### Describe the prototype and why you chose this prototyping method. 
