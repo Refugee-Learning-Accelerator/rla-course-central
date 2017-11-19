@@ -46,7 +46,8 @@
    ![connecting](connecting_ar.png)
    
    
-    ![session](session.png)
+   ![session](session.png)
+
 
    the Arabic version
    
