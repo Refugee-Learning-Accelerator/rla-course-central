@@ -29,7 +29,7 @@
    start a session which will be a video call with a student. We didn't add the registration process to the prototype to keep it simple and to avoid confusing our users
    when we test it for the first time.
    
-    ![Teacher](teacher.png) 
+   ![Teacher](teacher.png) 
 
    the Arabic version
    
