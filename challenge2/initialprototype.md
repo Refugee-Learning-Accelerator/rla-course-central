@@ -2,7 +2,7 @@
 
 ### What solution are you testing? (and why did you choose it?)
 
-We would like to bring emotional support for refugees to motivate them to believe in themselves and have the courage to pursue their dreams. To do so we create a Facebook page which we name "شعاع أمل لسوريا - Ray of Hope for Syria". We chose this solution because on the one hand, many opportunities are opening for Syrian refugees in Lebanon; but on the other hand many refugees don’t find the courage to even apply or try to seize these opportunities because they think they don’t stand a chance or have what it takes which is not true.
+We would like to bring emotional support for refugees to motivate them to believe in themselves and have the courage to pursue their dreams. To do so we have created a Facebook page which we name "شعاع أمل لسوريا - Ray of Hope for Syria". We chose this solution because on the one hand, many opportunities are opening for Syrian refugees in Lebanon; but on the other hand many refugees don’t find the courage to even apply or try to seize these opportunities because they think they don’t stand a chance or have what it takes which is not true.
 
 ### Submit your prototype (use photos, video, diagrams etc.)
 
