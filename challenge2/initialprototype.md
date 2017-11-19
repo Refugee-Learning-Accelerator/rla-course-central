@@ -12,6 +12,8 @@ Arabic version:  https://invis.io/VDEJKYKCJ#/264808736_HelloAR
 
 English version:  https://invis.io/MXEJKOPW9#/264807951_HelloEN
 
+It is recommended to test the prototype on a mobile phone, however, it stil works as well on a cmputer.
+
 
 ### Describe the prototype and why you chose this prototyping method. 
 
