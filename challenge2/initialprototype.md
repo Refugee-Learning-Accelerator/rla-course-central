@@ -1,5 +1,7 @@
 # Challenge 2 Initial Prototype
 
+# Link to testing the prototype: https://drive.google.com/drive/folders/1oC1EyU7xp4T0XOGJbG8NvEECOFVcTNCO?usp=sharing
+
 ### What solution are you testing? (and why did you choose it?)
 
 *[Your answer here...]*
