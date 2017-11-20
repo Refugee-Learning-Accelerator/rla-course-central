@@ -12,7 +12,6 @@ The bot is online and available on that link: https://www.facebook.com/BetaAbot/
 *  ![Basic-Transcript.png](https://gitlab.refugeelearning.site/rla/The-Alternative/team-template/blob/master/challenge1/Basic-Transcript.png)    : A basic conversation.
 *  ![Full-Transcript.png](https://gitlab.refugeelearning.site/rla/The-Alternative/team-template/blob/master/challenge1/Full-Transcript.png)     : A conversation detailing all questions and few of the bot's reactions.
 *  ![Chatfuel-Screenshot.png](https://gitlab.refugeelearning.site/rla/The-Alternative/team-template/blob/master/challenge1/Chatfuel-Screenshot.png) : A look at our Chatfuel interface.
-           
 
 ## Questions
 
@@ -25,9 +24,16 @@ We researched a lot and decided that it is the best approach for what we are try
 
 Few setbacks we faced:
 1. To have a useful and precise test we will need a detailed set of questions that goes through all the learning outcomes of each chapter and for each grade.
+<<<<<<< HEAD
 2. Our test would only be useful if these students are to go back to school and in most cases, that doesn't happen. 
 3. This type of assessment gives a general idea of where students should be placed but doesn't necessarily mean that they are of that certain level.
    
+=======
+2. Our test would only be useful if these students are to go back to school and in most cases, that doesn't happen.
+3. This type of assessment gives a general idea of where students should be placed but doesn't necessarily mean that they are of that certain level.
+      
+    
+>>>>>>> 58548f1599847dc7aebb07838c4a13f2684a4d8b
 
 We believe in alternative learning, more precisely e-learning for it is accessible and free and does not require an infrastructure. While we are working with an NGO that aims to teach refugees through a learning-by-doing approach we have concluded the following:
     
@@ -36,11 +42,18 @@ A few questions is not enough to determine a student’s level and implementing 
 
 ### What aspect of the chatbot do you like best? 
 
+<<<<<<< HEAD
 Its ability to reach any student anywhere at any time, all you need is a phone and a mediocre connection.
 Its ability to be tailored to fit the needs at hand.
 Its ability to speak and understand many languages. (Even if our prototype supports English only)
 The fact that it is easy to build.
 
+=======
+   Its ability to reach any student anywhere at any time, all you need is a phone and a mediocre connection.
+   Its ability to be tailored to fit the needs at hand.
+   Its ability to speak and understand many languages. (Even if our prototype supports English only)
+   The fact that it is easy to build.
+>>>>>>> 58548f1599847dc7aebb07838c4a13f2684a4d8b
 
 ### What would you different in the future? 
 
@@ -53,4 +66,7 @@ Also, the ease-of-use of our bot and its "fun" side fit for the children we are 
 We have also implemented a filter for bad words making Abot even more child-friendly.
 
     Misc.: try asking "are you a bot?", "tell me a joke" or cursing.
+<<<<<<< HEAD
 
+=======
+>>>>>>> 58548f1599847dc7aebb07838c4a13f2684a4d8b
