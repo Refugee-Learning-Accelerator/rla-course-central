@@ -9,8 +9,8 @@
 ## Questions to Answer
 
 1. How did you select your test users? 
-2. What was the setting of the test? 
-3. What were the main points of feedback you received (share a summary)? 
+2. What was the setting of the test?
+3. What were the main points of feedback you received (share a summary)?
 4. What changes would make to your idea/project based on the feedback?
 5. What parts of the Human Centered Design process were new to you?
 6. What parts of the Human Centered Design process seemed most useful to you?
