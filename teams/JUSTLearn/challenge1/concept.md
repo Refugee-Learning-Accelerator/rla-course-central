@@ -23,8 +23,8 @@ Provide support to Syrian refugees to study at universities by answering FAQs qu
 
 ### Who is the primary user and how will the chatbot engage the user?
 
-•	Central database containing al universities providing scholarships
-•	Admission Registration and counseling officer  
+• Knowldge Base:including(	Central database containing all universities providing scholarships rules and prerequists and laws and bylaws)+ universites websites)
+•	Human :Admission Registration and counseling officer  
 
 
 ### What activity does the chatbot facilitate that would not otherwise be possible? 
