@@ -17,7 +17,7 @@ We had actually several levels of test, as follows:
 
 - *Content test:* feedback from real users and fans of our facebook page.
 
-- *Prototype test:* inside S-miles Center.
+- *Prototype test:* inside S-miles Center. Some pictures are included in "prototype_test" folder.
 
 
 ### What were the main points of feedback you received (share a summary)?
