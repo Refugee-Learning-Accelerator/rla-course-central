@@ -6,19 +6,6 @@
 
 ## The AR Challenge has **two deliverables** 
 
-### Concept Sketch - Due: Sun Nov/5 (midnight Amman)
-
-Describe your concept for how low fidelity Augmented Reality could be used to support language learning in one or two paragraphs. Use visuals (mockups, diagrams) if possible. It is important to be as specific as possible while mapping out the scope of the project as this will greatly influence implementation and the tools to use. 
-
-Answer the following questions:
-- What problem/challenge will the AR experience solve? 
-- How will the AR experience solve it? 
-- Who is the primary user and how will the AR experience engage the user?
-- What hardware does the user need? Is this realistic in the refugee context? 
-- What activity does the AR experience facilitate that would not otherwise be possible? 
-- What challenges do you expect to encounter? 
-
-STILL TO UPDATE!! 
 **Step 1: Download the concept sketch instructions and templates**
 
 Note: All of the following steps must be completed at least once per team (if all of your team members use git, you will want to replicate them on each team member’s computer). This week you need to use git in the terminal (Command Prompt application on Windows, Terminal application on Mac); ask for help on [Mattermost](https://mattermost.refugeelearning.site/rla/channels/help) if you run into trouble.
@@ -33,11 +20,23 @@ Note: All of the following steps must be completed at least once per team (if al
 
 **Step 2: Work on your concept and prepare it for submission**
 
-1. In your `team-template` folder you will find a new folder called `challenge1`. It contains two files ending in .md (markdown). Each contains a number of sections and questions for you to complete. 
-2. Complete `concept.md` (We will work on `project.md` during the second week). Feel free to also add other files in your folder. We strongly encourage the use of visuals (screenshots, mockups, drawings)
+1. In your `team-template` folder you will find a new folder called `challenge3`. It contains two files ending in .md (markdown). Each contains a number of sections and questions for you to complete. 
+2. Complete `concept.md` for the first week and `project.md` during the second week. Feel free to also add other files in your folder. We strongly encourage the use of visuals (screenshots, mockups, drawings).
 3. Make sure you commit and push your work by **Sunday midnight (Amman time)**. At that point, the work in your team's workspace will be **automatically** copied into the central course project (thanks to a nifty little script that @vahidfazelrezai wrote). Run: `git push origin master;` 
 
-### Final Project - Due: Sun Nov/12 (midnight Amman)
+### Concept Sketch - Due: Sun Dec/3 (midnight Amman)
+
+Describe your concept for how low fidelity Augmented Reality could be used to support language learning in one or two paragraphs. Use visuals (mockups, diagrams) if possible. It is important to be as specific as possible while mapping out the scope of the project as this will greatly influence implementation and the tools to use. 
+
+Answer the following questions:
+- What problem/challenge will the AR experience solve? 
+- How will the AR experience solve it? 
+- Who is the primary user and how will the AR experience engage the user?
+- What hardware does the user need? Is this realistic in the refugee context? 
+- What activity does the AR experience facilitate that would not otherwise be possible? 
+- What challenges do you expect to encounter? 
+
+### Final Project - Due: Sun Dec/10 (midnight Amman)
 Demonstrate how your AR experience works. Videos, screenshots or images are encouraged. 
 
 Add a short description and answer the following questions: 
