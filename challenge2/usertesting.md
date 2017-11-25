@@ -1,5 +1,8 @@
 # Challenge 2 User Testing
 
+Here is the link for the prototype demonstration: https://drive.google.com/open?id=1eunZK83p4TOeD2kUj1KuquqguoO6vjLd
+
+
 ### How did you select your test users? 
 
 *It is quite essential to have diversity in the focus group in order to have different perspectives and alternatives. Therefore, users were selected from different age groups with different backgrounds and personalities. The first 2 users were randomly chosen in a café and turned out to be architecture students. The third user is a 16 year old student who is tends to meticulously choose the colors he uses in his notebooks, and needs everything to be neatly organized when he studies; otherwise he has no chance in concentrating when he studies or reads. The third user is an 8 year old who is quite energetic; he is quick yet has the tendency to lose concentration constantly.*
