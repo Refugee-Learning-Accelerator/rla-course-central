@@ -19,6 +19,8 @@ For this challenge, we recommend using Unity. During our Wednesday seminar Gabe 
 5. Create a UnityID account and confirm your email.
 6. Choose the Unity Personal license option and continue through the survey.
 
+In order to open some applications (such as the example, badr) you will need the Android SDK, available here: https://docs.unity3d.com/Manual/android-sdksetup.html
+
 ## Tutorials 
 
 [Brief intro](https://www.youtube.com/watch?v=emHIel2d5FM)<br>
