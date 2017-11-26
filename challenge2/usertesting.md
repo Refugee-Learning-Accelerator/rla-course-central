@@ -33,7 +33,7 @@ Many users agreed with us that this application is helpful with problem like bul
 - The user need to scroll down to show all available answers.
 - The gift in the app was not clearly described.
 
-*Others: *
+*Others:*
 
 - Some questions do not have enough options as answers.
 - The targeted users are limited to students who have a smart phones.
