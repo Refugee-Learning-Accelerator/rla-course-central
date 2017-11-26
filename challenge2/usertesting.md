@@ -5,6 +5,7 @@
 1)- Students: We found a student who has struggled with the same problem we are trying to solve (lack of physical infrastructure), not in refugee camps, but in a city where the electrical power was often down, and the internet connection was not reliable.
 
 2)- Teachers: We have also created a questionnaire about the project and asked some SySSR members (a community of Syrian scientists and researchers https://syssr.org/) to provide us feedback from a teacher point of view.
+We are going to submit the results of the questionnaire next week
 
 ### What was the setting of the test? 
 
