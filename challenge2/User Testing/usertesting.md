@@ -26,17 +26,27 @@
 
 3. What were the main points of feedback you received (share a summary)?
 
-   A lot of the teachers were enthusiastic about the idea and like the idea of immediate feedback during their lessons and enjoyed
+   A lot of the teachers were enthusiastic about the idea and like the idea of immediate feedback during their lessons and enjoyed,
+
+   We did get a few constructive criticisms:
+
+   One of the teachers uses https://teacher.desmos.com/popular during his class sessions and he was hoping we could integrate these our current system.
+
+   Another crucial feedback we receive was that this kind of method is limited to subjects that have concrete answers. For example, if the course or session was about abstract reading or analysis, the answers would have to be an essay format and there would be no definitive right choice that would be easy for us to determine the class's performance.
+   >"I’m curious to see the effectiveness of this chart in regards to essay topics or complex topics like social sciences and urban theory"
+
+   >"The app is still diagrammatic so my worry just lies in its effective for essays, essay topics and fields of study that require critical analysis"
+
+   We also received criticism about introducing the phone/tablet to the classroom would be more of a distraction then a benefit.
+
+   Some teacher were requesting if the app could give more insight on how the teacher proceed if the most of class answers wrong.
+   >When the student chooses an incorrect answer, what is the role of the teacher in identifying the misconception behind the incorrect answer? For example, it could be a simple math error or a more conceptual misunderstanding. Is there a way to integrate more nuanced data taking into this process?
+
+   You can see the detailed reviews in the `BBBApp-report` in **.csv** and **.xlsx** format.
+
 
 4. What changes would make to your idea/project based on the feedback?
 
-  One of the teachers uses https://teacher.desmos.com/popular during his class sessions and he was hoping we could integrate these our current system.
-
-  Another crucial feedback we receive was that this kind of method is limited to subjects that have concrete answers. For example, if the course or session was about abstract reading or analysis, the answers would have to be an essay format and there would be no definitive right choice that would be easy for us to determine the class's performance.
-
-  We also received criticism about introducing the phone/tablet to the classroom would be more of a distraction then a benefit. 
-
-  You can see the detailed reviews in the `BBBApp-report` in **.csv** and **.xlsx** format.
 
 5. What parts of the Human Centered Design process were new to you?
 
