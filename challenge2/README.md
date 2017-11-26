@@ -9,7 +9,10 @@ This folder contains the prototype from third week.
 3. Source-code:
 This folder contains the source-code for the application.
 
-4. demo:
+4. PEB.apk:
+The installable application for android devices.
+
+5. demo:
 It contains a video demo for the application.
 
 ## Try it
