@@ -47,7 +47,7 @@ Many users agreed with us that this application is helpful with problem like bul
 - To change the interface design such that it appears like the apllication kid speaks to the user.
 
 
-In this video, you can see a sample of the tests that we conducted:
+In this video, you can see two samples of the tests that we conducted:
 
 [![Please find the video here](https://img.youtube.com/vi/MW9Tjn73_sU/0.jpg)]
 (https://youtu.be/MW9Tjn73_sU)
