@@ -35,5 +35,7 @@
      adding a time schedule and enable teachers and students to book calls before hand.
      
 4. What changes would make to your idea/project based on the feedback?
+   * We will make the App colorful and add icons not just text. 
+   * We will add the lists as Ahmad suggested
 5. What parts of the Human Centered Design process were new to you?
 6. What parts of the Human Centered Design process seemed most useful to you?
