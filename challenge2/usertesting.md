@@ -2,10 +2,10 @@
 
 ### How did you select your test users? 
 
-*[The majority of our test users were the refugees who came all the way from Kirkuk, due to the rapid circumstances. For the other part of our test users, we asked our colleagues, friends and family.]*
+*[The majority of our test users were the refugees who came all the way from Kirkuk, due to the current situation. For the other part of our test users, we asked our colleagues, friends and family.]*
 ### What was the setting of the test? 
 
-*[The setting of the test was done by showing them our app, asking the users about their opinions, asking for a feedback, focusing on the way they had used it and trying to check if there was any errors during the processing. On the other hand, we put some content on the app for a better understating and to make them feel like they are dealing with real fully functional app.]*
+*[The setting of the test was done by showing them our app, asking the users about their opinions, asking for a feedback, focusing on the way they had used it and trying to check if there was any errors during the processing. On the other hand, we put some content on the app for a better understading and to make them feel like they are dealing with real fully functional app.]*
 ### What were the main points of feedback you received (share a summary)? 
 
 *[The main points of the feedback we received were that the user liked the purpose of the application and what problem it encountered but they didn't like the user interface as they found it to be a bit too complicated. They also mentioned how the application lacked the information of which specific camp their donations would be delivered to. Other than that, the user was excited to see a finished version.]*
