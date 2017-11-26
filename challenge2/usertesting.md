@@ -27,6 +27,13 @@
      she suggested to use text and voice messages, add icons beside the text on buttons and would like to use Pink instead of the current color for the App theme :).
    * Muslim, 9 years old Syrian lives in Erbil: He liked the App so much "because it helps the student to learn"
      He suggested adding voice and text messages and adding more learning subjects :).
+   * Nawal, 27 years old Syrian lives in Erbil: he finds the app good and simple. 
+     She suggested adding audio calls and voice messages. "yes I will use the App and volunteer as a teacher!" :).
+   * Ahmad, 20 years old Iraqi from Erbil: He likes the idea of helping the refugees through this App.
+     He suggested showing a list of available teachers and give the student ability to choose instead of getting a random call each time,
+     showing a list of the students who were helped by a teacher so each teacher can track how many he/she helped, 
+     adding a time schedule and enable teachers and students to book calls before hand.
+     
 4. What changes would make to your idea/project based on the feedback?
 5. What parts of the Human Centered Design process were new to you?
 6. What parts of the Human Centered Design process seemed most useful to you?
