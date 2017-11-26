@@ -12,8 +12,7 @@ The setting of the test was done by showing them our app, asking the users about
 
 ### What changes would make to your idea/project based on the feedback?
 
-*[Your answer here...]*
-
+The main points of the feedback we received were that the user liked the purpose of the application and what problem it encountered but they didn't like the user interface as they found it to be a bit too complicated. They also mentioned how the application lacked the information of which specific camp their donations would be delivered to. Other than that, the user was excited to see a finished version
 ### What parts of the Human Centered Design process were new to you?
 
 Doing research and watching people, recording their interaction with asking lots of questions. 
