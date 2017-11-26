@@ -16,7 +16,7 @@
 
     We sent a the following [form](https://ebrahimkaram.typeform.com/to/MUcOwh) to those we couldn't reach out. To those who had the time we took their detailed feedback through a *Messenger* or *WhatsApp* conversation.
     However the form allowed the teachers to give their feedback anonymously and had all the time they needed to play around with the UI and get comfortable with the app.
-    
+
     The paper UI we had before was developed on [Axure](https://www.axure.com/) and we shared it using [Axure Share](https://share.axure.com/)
     You can check it yourself here
     * https://ghwxyk.axshare.compass
@@ -27,7 +27,7 @@
     A lot of the teachers were enthusiastic about the idea and like the idea of immediate feedback during their lessons and enjoyed the simple UI.
 
     We did get a few constructive criticisms:
-    
+
     One of the teachers uses https://teacher.desmos.com/popular during his class sessions and he was hoping we could integrate some of their features into our system.
     >it's a powerful graphing tool at the up-front but the teacher-facing interface is a powerful interactive tool I've used in my classes before
     https://teacher.desmos.com/popular .It lets me see what students are saying in real time.
