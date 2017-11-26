@@ -2,8 +2,7 @@
 
 ### How did you select your test users? 
 
-*[Your answer here...]*
-
+The majority of our test users were the refugees who came all the way from Kirkuk, due to the rapid circumstances. For the other part of our test users, we asked our colleagues, friends and family.  
 ### What was the setting of the test? 
 
 *[Your answer here...]*
