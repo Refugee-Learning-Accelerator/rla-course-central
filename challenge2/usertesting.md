@@ -32,16 +32,16 @@
    * Ahmad, 20 years old Iraqi from Erbil: He likes the idea of helping the refugees through this App.
      He suggested showing a list of available teachers and give the student ability to choose instead of getting a random call each time,
      showing a list of the students who were helped by a teacher so each teacher can track how many he/she helped, 
-     adding a time schedule and enable teachers and students to book calls before hand.
+     adding a time schedule and enable teachers and students to book calls beforehand.
      
 4. What changes would make to your idea/project based on the feedback?
    * We will make the App colorful and add icons not just text. 
    * We will add the lists as Ahmad suggested.
 5. What parts of the Human Centered Design process were new to you?
-   Design Thinking and Prototyping weren't totaly new but it was the first time we use them.
+   Design Thinking and Prototyping weren't totally new but it was the first time we use them.
 6. What parts of the Human Centered Design process seemed most useful to you?
-   Ideation: how brainstorming and generating crazy ideas can lead to find solutions for the problems we face in our daily life and we keep complaing about.
-             sometimes during the ideation we may come up with simple and doable solutions.
-   Feedback: capture the user's feedback and modify the solution based on this feedback will generate the most effective solution that make the users happy!.
+   Ideation: how brainstorming and generating crazy ideas can lead to finding solutions for the problems we face in our daily life and we keep complaining about.
+             sometimes during the ideation, we may come up with simple and doable solutions.
+   Feedback: capture the user's feedback and modify the solution based on this feedback will generate the most effective solution that makes the users happy!.
    
   
