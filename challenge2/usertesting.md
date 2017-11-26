@@ -5,8 +5,7 @@
 The majority of our test users were the refugees who came all the way from Kirkuk, due to the rapid circumstances. For the other part of our test users, we asked our colleagues, friends and family.  
 ### What was the setting of the test? 
 
-*[Your answer here...]*
-
+The setting of the test was done by showing them our app, asking the users about their opinions, asking for a feedback, focusing on the way they had used it and trying to check if there was any errors during the processing. On the other hand, we put some content on the app for a better understating and to make them feel like they are dealing with real fully functional app.
 ### What were the main points of feedback you received (share a summary)? 
 
 *[Your answer here...]*
