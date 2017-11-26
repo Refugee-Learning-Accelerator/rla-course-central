@@ -38,7 +38,10 @@
    * We will make the App colorful and add icons not just text. 
    * We will add the lists as Ahmad suggested.
 5. What parts of the Human Centered Design process were new to you?
-    
+   Design Thinking and Prototyping weren't totaly new but it was the first time we use them.
 6. What parts of the Human Centered Design process seemed most useful to you?
+   Ideation: how brainstorming and generating crazy ideas can lead to find solutions for the problems we face in our daily life and we keep complaing about.
+             sometimes during the ideation we may come up with simple and doable solutions.
+   Feedback: capture the user's feedback and modify the solution based on this feedback will generate the most effective solution that make the users happy!.
    
   
