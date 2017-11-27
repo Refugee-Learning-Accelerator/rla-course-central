@@ -16,7 +16,7 @@ Unity is a game development engine, and is widely used for VR and AR development
 
 _Before the seminar on Wednesday, we need you to install Unity, as well as download the [Basr project folder](https://gitlab.refugeelearning.site/rla/course-central/tree/master/challenge3/basr) from gitlab and put it somewhere on your computer. Also, we need you to [print out this target image](https://gitlab.refugeelearning.site/rla/course-central/blob/master/challenge3/Print%20this%20image%20for%20Wednesday.jpg) to use for AR. 
 
-![Image to print](https://gitlab.refugeelearning.site/rla/course-central/blob/master/challenge3/images/Print%20this%20image%20for%20Wednesday.jpg)
+![](images/Print%20this%20image%20for%20Wednesday.jpg)
 
 1. Go to https://store.unity.com/.
 2. Click "Try Personal".
