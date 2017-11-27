@@ -33,6 +33,10 @@ This is a very cool video in which teachers were able to make the walls "come to
 
 This is an article an MIT ML Learning Initiative (that's us!) learning fellow (who will also be on our Tuesday seminar) on learning languages in the real world versus in a classroom setting--which can be very different. For example, messing up a word in a classroom is fine, but may be less readily forgiven in the real world. It goes into details about how he was able to created Mixed Reality, which is “a promising way to mediate these learning opportunities on-the-go by projecting onto the learner’s physical reality.”
 
+## [Council of Europe Toolkit](https://www.coe.int/en/web/language-support-for-adult-refugees/home)
+
+The Council of Europe has developed a toolkit to support member states in their efforts to respond to the challenges posed by unprecedented migration flows. It has been produced as part of the project Linguistic Integration of Adult Migrants (LIAM) of the Council of Europe’s major Programme on language policy. The toolkit is designed to assist organisations, and especially volunteers, providing language support for adult refugees. As well as high level policy recommendations it also has a number of practical activities and tools. It may prompt your thinking about the kind of language learning that could be supported through AR.  
+
 ## [Codes/tags](https://medium.com/arjs/ar-code-a-fast-path-to-augmented-reality-60e51be3cbdf) 
 
 This article explores some uses of AR "codes."" It includes several possible use cases. How could this technology be used in education? Could  you include codes in a textbook which allow students to see 3D models, instead of just 2D images. Could you place codes in certain environments which provide users who know to look for them with additional information? How could codes be used to support refugee learners? 
