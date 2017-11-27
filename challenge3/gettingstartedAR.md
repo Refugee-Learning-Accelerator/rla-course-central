@@ -24,15 +24,16 @@ _Before the seminar on Wednesday_, we need you to install Unity, as well as down
 2. Click "Try Personal".
 3. Download and open the Installer, then follow the installation instructions. We'll be using Unity 2017.2.0f3.
 4. Open the Unity application.
-5. In the installation wizard, make sure you choose _Android Build Support_ and _Vuforia Augmented Reality support_ under Unity Component Selection.
+5. In the installation wizard, make sure you choose _Android Build Support_ and _Vuforia Augmented Reality support_ under Unity Component Selection.<br>
 ![](images/Unity%20Component%20Selection.png)
 6. Create a UnityID account and confirm your email.
 7. Choose the Unity Personal license option and continue through the survey.
 
-In order to open some applications (such as the example, badr) you will need the Android SDK, available here: https://docs.unity3d.com/Manual/android-sdksetup.html
-
 ## Tutorials 
+
+If you want a head start on learning how to use Unity (and thinking about AR/VR more generally), please check out these links, as well as google search a bit yourself.
 
 [Brief intro](https://www.youtube.com/watch?v=emHIel2d5FM)<br>
 [History and use cases of AR/VR](https://www.youtube.com/watch?v=f9MwaH6oGEY)<br>
-[Tutorial](https://www.youtube.com/watch?v=Ep0rlBQRcVc&index=1&list=PL1t0_FY1eCs-dzqr1sx6_2deqmTACmavm): Here is an excellent tutorial on using Unity to start a project.<br> 
+[Unity tutorial](https://unity3d.com/learn/tutorials)
+[Unity AR tutorial](https://library.vuforia.com/articles/Training/getting-started-with-vuforia-in-unity-2017-2-beta.html)
