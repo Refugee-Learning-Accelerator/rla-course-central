@@ -1,5 +1,12 @@
 # AR for language learning
 
+## Menu
+
+[AR challenge overview](https://gitlab.refugeelearning.site/rla/course-central/blob/master/challenge3/README.md)<br>
+[Mattermost channel for questions and comments](https://mattermost.refugeelearning.site/rla/channels/challenge-3-ar)
+
+## Context
+
 One of the primary obstacles refugees face in pursuing education (or gainful employment) in their host country is language differences. With the exception of Jordan and some parts of Iraq, most Syrian refugees are living in countries where Arabic is not the primary language of instruction or work. The need to learn French or German or Turkish can delay their education by literally years or severely limit their employment opportunitites. 
 
 Augmented reality (AR) and virtual reality (VR) are both relatively nascent fields and not a huge amount of work has been done on their possible applications to education, but there is increasing interest in the possibility of immersive language learning. High fidelity AR/VR is expensive and technically difficult to create, but there may be ways to use low fidelity AR/VR which could support some refugees who want to learn a new language and have access to a smartphone. For the purpose of this challenge we'll be focusing in on AR, and asking you to start playing with some of the tools used to create AR and to think about how they could be used to support refugee language learners. 
