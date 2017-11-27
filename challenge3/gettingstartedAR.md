@@ -14,7 +14,7 @@ AR can be intimidating at first, but you’ll find that once you install Unity i
 
 Unity is a game development engine, and is widely used for VR and AR development. It makes a lot of tasks really simple, and can output apps to your computer, phone, web, and hololens. We’re going to provide a project on gitlab that you can use to do basic AR and image recognition. If you have any questions, feel free to reach out to: hisham.bedri@gmail.com or gabef@mit.edu.
 
-_Before the class_, we want you to go through and install Unity, as well as download the Basr project folder from gitlab and put it somewhere on your computer. Also, we need you to [print out this target image](https://gitlab.refugeelearning.site/rla/course-central/blob/master/challenge3/Print%20this%20image%20for%20Wednesday.jpg) to use for AR. 
+_Before the seminar on Wednesday, we need you to install Unity, as well as download the [Basr project folder](https://gitlab.refugeelearning.site/rla/course-central/tree/master/challenge3/basr) from gitlab and put it somewhere on your computer. Also, we need you to [print out this target image](https://gitlab.refugeelearning.site/rla/course-central/blob/master/challenge3/Print%20this%20image%20for%20Wednesday.jpg) to use for AR. 
 
 ![Image to print](https://gitlab.refugeelearning.site/rla/course-central/blob/master/challenge3/images/Print%20this%20image%20for%20Wednesday.jpg)
 
