@@ -1,5 +1,10 @@
 # Getting Started with AR/VR
 
+##Menu
+
+[AR challenge overview](https://gitlab.refugeelearning.site/rla/course-central/blob/master/challenge3/README.md)
+[Mattermost channel for questions and comments](https://mattermost.refugeelearning.site/rla/channels/challenge-3-ar)
+
 ## Definitions
 
 *VR (Virtual Reality)* - the computer-generated simulation of a three-dimensional image or environment that can be interacted with in a seemingly real or physical way by a person using special electronic equipment
@@ -28,6 +33,8 @@ _Before the seminar on Wednesday_, we need you to install Unity, as well as down
 ![](images/Unity%20Component%20Selection.png)
 6. Create a UnityID account and confirm your email.
 7. Choose the Unity Personal license option and continue through the survey.
+8. Download the [Basr project folder](https://gitlab.refugeelearning.site/rla/course-central/tree/master/challenge3/basr)
+Let Unity install, and then you are ready to open up the project that we will instruct you on wednesday.
 
 ## Tutorials 
 
