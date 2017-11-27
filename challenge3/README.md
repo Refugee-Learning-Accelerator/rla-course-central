@@ -44,5 +44,5 @@ Click here for [detailed instructions on the deliverables]
 **[Getting started with AR](https://gitlab.refugeelearning.site/rla/course-central/blob/master/challenge3/gettingstartedAR.md)**<br>
 What are AR/VR experiences and some direction to get you started
 
-**[AR for language learning](LINK)**<br>
+**[AR for language learning](https://gitlab.refugeelearning.site/rla/course-central/blob/master/challenge3/ARforlanguagelearning.md)**<br>
 How could AR/VR experiences be used to support language learning for refugees? 
