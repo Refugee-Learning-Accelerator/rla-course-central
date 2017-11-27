@@ -35,5 +35,5 @@ If you want a head start on learning how to use Unity (and thinking about AR/VR 
 
 [Brief intro](https://www.youtube.com/watch?v=emHIel2d5FM)<br>
 [History and use cases of AR/VR](https://www.youtube.com/watch?v=f9MwaH6oGEY)<br>
-[Unity tutorial](https://unity3d.com/learn/tutorials)
+[Unity tutorial](https://unity3d.com/learn/tutorials)<br>
 [Unity AR tutorial](https://library.vuforia.com/articles/Training/getting-started-with-vuforia-in-unity-2017-2-beta.html)
