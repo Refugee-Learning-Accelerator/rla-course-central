@@ -41,7 +41,7 @@ Click here for [detailed instructions on the deliverables]
 
 ## Course Materials
 
-**[Getting started with AR](LINK)**<br>
+**[Getting started with AR](https://gitlab.refugeelearning.site/rla/course-central/blob/master/challenge3/gettingstartedAR.md)**<br>
 What are AR/VR experiences and some direction to get you started
 
 **[AR for language learning](LINK)**<br>
