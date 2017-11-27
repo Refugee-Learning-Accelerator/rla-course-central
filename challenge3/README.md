@@ -1,8 +1,8 @@
-# Design challenge 3 - AR
+# Design challenge 3 - Augmented Reality (AR)
 
 This is your dashboard for the final design challenge. It contains a calendar of the key milestones, information on the deliverables, and links to all course materials. For the next two weeks we will be working on chatbots. 
 
-### Challenge: How might we use AR to support refugee language learning outside the classroom? 
+### Challenge: How might we use Augmented Realtiy (AR) to support refugee language learning outside the classroom? 
 
 ## Calendar
 
