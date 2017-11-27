@@ -14,16 +14,20 @@ AR can be intimidating at first, but you’ll find that once you install Unity i
 
 Unity is a game development engine, and is widely used for VR and AR development. It makes a lot of tasks really simple, and can output apps to your computer, phone, web, and hololens. We’re going to provide a project on gitlab that you can use to do basic AR and image recognition. If you have any questions, feel free to reach out to: hisham.bedri@gmail.com or gabef@mit.edu.
 
-_Before the seminar on Wednesday, we need you to install Unity, as well as download the [Basr project folder](https://gitlab.refugeelearning.site/rla/course-central/tree/master/challenge3/basr) from gitlab and put it somewhere on your computer. Also, we need you to [print out this target image](https://gitlab.refugeelearning.site/rla/course-central/blob/master/challenge3/Print%20this%20image%20for%20Wednesday.jpg) to use for AR. 
+_Before the seminar on Wednesday_, we need you to install Unity, as well as download the [Basr project folder](https://gitlab.refugeelearning.site/rla/course-central/tree/master/challenge3/basr) from gitlab and put it somewhere on your computer. Also, we need you to [print out this target image](https://gitlab.refugeelearning.site/rla/course-central/blob/master/challenge3/Print%20this%20image%20for%20Wednesday.jpg) to use for AR. 
 
 ![](images/Print%20this%20image%20for%20Wednesday.jpg)
 
-1. Go to https://store.unity.com/.
+*Install the new Unity with Android and Vuforia support*
+
+1. Go to https://store.unity.com/. 
 2. Click "Try Personal".
-3. Download and open the Installer, then follow the installation instructions.
+3. Download and open the Installer, then follow the installation instructions. We'll be using Unity 2017.2.0f3.
 4. Open the Unity application.
-5. Create a UnityID account and confirm your email.
-6. Choose the Unity Personal license option and continue through the survey.
+5. In the installation wizard, make sure you choose _Android Build Support_ and _Vuforia Augmented Reality support_ under Unity Component Selection.
+![](images/Unity%20Component%20Selection.png)
+6. Create a UnityID account and confirm your email.
+7. Choose the Unity Personal license option and continue through the survey.
 
 In order to open some applications (such as the example, badr) you will need the Android SDK, available here: https://docs.unity3d.com/Manual/android-sdksetup.html
 
