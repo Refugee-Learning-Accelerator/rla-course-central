@@ -1,0 +1,24 @@
+
+<ion-header>
+
+  <ion-navbar>
+    <ion-title>الصفحة الرئيسية</ion-title>
+  </ion-navbar>
+
+</ion-header>
+
+
+<ion-content padding dir="rtl">
+  <ion-list>
+    <ion-item>
+  <ion-select full [(ngModel)]="category" cancelText="إلغاء"  okText="اختيار" ionChange="showDetails()" placeholder="اختر تخصصاً" >
+    <ion-option value="math">رياضيات</ion-option>
+    <ion-option value="phys">فيزياء</ion-option>
+    <ion-option value="chem">كيمياء</ion-option>
+    <ion-option value="bio">أحياء</ion-option>
+    <ion-option value="tech">تكنولوجيا</ion-option>
+  </ion-select>
+</ion-item>
+</ion-list>
+
+</ion-content>
