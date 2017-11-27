@@ -12,7 +12,7 @@ Ben Webster, Founder [Jamiya Project](https://www.jamiya.org/); Mark Gaved, Lect
 
 **Wed, Nov 29 (5pm Amman)**  
 [Live Seminar](https://unhangout.media.mit.edu/event/rla/) (Technology): *Getting started with AR*  
-Hisham Bedri, MIT & [Gabe Fields](https://www.gabefields.me/), MIT 
+[Hisham Bedri](https://researchonabudget.wordpress.com/), MIT & [Gabe Fields](https://www.gabefields.me/), MIT 
 
 **Sun, Dec 3 (midnight Amman)**
 SUBMIT > Concept Sketch
