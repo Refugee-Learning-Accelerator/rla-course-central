@@ -1,8 +1,8 @@
 # Getting Started with AR/VR
 
-##Menu
+## Menu
 
-[AR challenge overview](https://gitlab.refugeelearning.site/rla/course-central/blob/master/challenge3/README.md)
+[AR challenge overview](https://gitlab.refugeelearning.site/rla/course-central/blob/master/challenge3/README.md)<br>
 [Mattermost channel for questions and comments](https://mattermost.refugeelearning.site/rla/channels/challenge-3-ar)
 
 ## Definitions
