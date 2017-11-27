@@ -31,10 +31,10 @@ _Before the seminar on Wednesday_, we need you to install Unity, as well as down
 4. Open the Unity application.
 5. In the installation wizard, make sure you choose _Android Build Support_ and _Vuforia Augmented Reality support_ under Unity Component Selection.<br>
 ![](images/Unity%20Component%20Selection.png)
-6. Create a UnityID account and confirm your email.
-7. Choose the Unity Personal license option and continue through the survey.
-8. Download the [Basr project folder](https://gitlab.refugeelearning.site/rla/course-central/tree/master/challenge3/basr)
-Let Unity install, and then you are ready to open up the project that we will instruct you on wednesday.
+6. Let Unity download. 
+7. Create a UnityID account and confirm your email.
+8. Choose the Unity Personal license option and continue through the survey.
+8. Download the [Basr project folder](https://gitlab.refugeelearning.site/rla/course-central/tree/master/challenge3/basr). Open it in Unity. 
 
 ## Tutorials 
 
