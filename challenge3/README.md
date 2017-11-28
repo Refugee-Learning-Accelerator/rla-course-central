@@ -1,6 +1,6 @@
 # Design challenge 3 - Augmented Reality (AR)
 
-This is your dashboard for the final design challenge. It contains a calendar of the key milestones, information on the deliverables, and links to all course materials. For the next two weeks we will be working on chatbots. 
+This is your dashboard for the final design challenge. It contains a calendar of the key milestones, information on the deliverables, and links to all course materials. For the next two weeks we will be working on AR(augmented reality). 
 
 ### Challenge: How might we use Augmented Realtiy (AR) to support refugee language learning outside the classroom? 
 
@@ -37,7 +37,7 @@ Describe your concept for an AR experience in one or two paragraphs. Use visuals
 **2. Final Project - Due: Sun, Dec/10 (midnight Amman)**  
 Share your AR experience. One or two paragraphs of text. Videos, screenshots or images are encouraged. 
 
-Click here for [detailed instructions on the deliverables]
+Click [here](https://gitlab.refugeelearning.site/rla/course-central/blob/master/challenge3/deliverables.md) for detailed instructions on the deliverables
 
 ## Course Materials
 
