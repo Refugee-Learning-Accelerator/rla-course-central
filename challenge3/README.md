@@ -24,8 +24,11 @@ Review other team's projects and leave feedabck
 [Live Seminar](https://unhangout.media.mit.edu/event/rla/) (Feedback + Q&A on Unity)
 [Hisham Bedri](https://researchonabudget.wordpress.com/)
 
-**Sun, Nov 10 (midnight Amman)**
+**Sun, Dec 10 (midnight Amman)**
 SUBMIT > Final Project
+
+**Tues, Dec 10 (5 pm Amman)**
+Final seminar and course wrap-up!
 
 ## Deliverables 
 
