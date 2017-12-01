@@ -20,9 +20,9 @@ SUBMIT > Concept Sketch
 **Mon, Dec 4**
 Review other team's projects and leave feedabck 
 
-**Tues, Dec 5 (5pm Amman)**  
-[Live Seminar](https://unhangout.media.mit.edu/event/rla/) (Feedback)
-TBC
+**Wed, Dec 6 (5pm Amman)**  
+[Live Seminar](https://unhangout.media.mit.edu/event/rla/) (Feedback + Q&A on Unity)
+[Hisham Bedri](https://researchonabudget.wordpress.com/)
 
 **Sun, Nov 10 (midnight Amman)**
 SUBMIT > Final Project
