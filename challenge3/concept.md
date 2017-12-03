@@ -2,7 +2,10 @@
 
 ## Description
 
-*[Describe your concept for how low fidelity Augmented Reality could be used to support language learning in one or two paragraphs. Use visuals (mockups, diagrams) if possible. It is important to be as specific as possible while mapping out the scope of the project as this will greatly influence implementation and the tools to use. ]*
+*[AR technology has the potential to improve language learning, since visualization and interactivity foster better memory retention and increase student performance, as well as lower
+Student anxiety.
+A language learning game that focuses on vocabulary, to increase second language learners' motivation.  By viewing an object through a mobile device camera, the user is exposed to enhanced virtual layers placed on top of the real object. As soon as the user’s camera points at the predeﬁned trigger, namely an image or object, augmented media pop up and the user has to construct or put together an object in the environment using the augmented materials. IE the user will be asked to make a salad. First you will be asked to choose the tomatoes and cut them the user would have to choose which is object is a tomato.
+ ]*
 
 ## Questions
 
@@ -16,7 +19,9 @@
 
 ### Who is the primary user and how will the AR experience engage the user?
 
-*[The primary users of this experience are those who are willing to learn a new language, people who do not have enough money to spend on courses and those who are willing to get knowledge at home.]*
+*[The primary user will be refugees living in a country that’s doesn’t use their native language focus on a hand-held display, namely a mobile device. This type of display is portable and widespread, especially among younger generation, 
+The user would open the app and point the user’s camera at the predeﬁned trigger, namely an image or object, augmented media pop up and the user has to construct or put together an object in the environment using the augmented materials. IE the user will be asked to make a salad. First you will be asked to choose the tomatoes and cut them the user would have to choose which is object is a tomato. Next the user is asked to pick the carrots and once they have correctly chosen the carrots it would be added to the bowl.
+.]*
 
 ### What hardware does the user need? Is this realistic in the refugee context? 
 
