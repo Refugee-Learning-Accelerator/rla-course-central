@@ -17,7 +17,7 @@ using Android App to facilitate access to fun and useful learning tool.
 
 ### Who is the primary user and how will the AR experience engage the user?
 
-our primary users will be kids from 4-12 years. the character will be one of the famous cartoon characters or we can have a list the user can choose his/her favourite one.
+our primary users will be kids from 4-12 years. the character will be one of the famous cartoon characters or we can have a list from which the user can choose his/her favourite one.
 
 ### What hardware does the user need? Is this realistic in the refugee context? 
 
