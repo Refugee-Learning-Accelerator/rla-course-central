@@ -25,12 +25,12 @@ The user would open the app and point the user’s camera at the predeﬁned tri
 
 ### What hardware does the user need? Is this realistic in the refugee context? 
 
-*[The only hardware the user needs is to have a smartphone and an internet(atleast once to download the application)]*
+*[In terms of hardware, the user will only need a smartphone and it is realistic in the refugee context as most refugees already have smartphones.]*
 
 ### What activity does the AR experience facilitate that would not otherwise be possible? 
 
-*[Your answer here...]*
+*[As far as AR comes, the possibilities are endless as you can build a whole new world with ease and view the world in ways you thought were impossible. It gives the user the ability to visualize different things that otherwise wouldn't be possible, such as laying out the furniture in a living room within seconds.]*
 
 ### What challenges do you expect to encounter? 
 
-*[Your answer here...]*
+*[The challenges that we expect to encounter is getting user feedback as it is very crucial to improve our prototype and It is very difficult to get into a refugee camp.]*
