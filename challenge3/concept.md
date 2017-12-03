@@ -2,7 +2,7 @@
 
 ## Description
 
-*[Describe your concept for how low fidelity Augmented Reality could be used to support language learning in one or two paragraphs. Use visuals (mockups, diagrams) if possible. It is important to be as specific as possible while mapping out the scope of the project as this will greatly influence implementation and the tools to use. ]*
+Mockups and diagrams are attached to better describe our concept for this challenge.
 
 ## Questions
 
