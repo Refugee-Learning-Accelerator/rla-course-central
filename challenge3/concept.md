@@ -12,20 +12,20 @@ To demonstrate the concept, we have created a mockup sketch below illustrating t
 ![alt text](ArFlowchart.png)
 ## Questions:
 
-What problem/challenge will the AR experience solve?
+### What problem/challenge will the AR experience solve?
 Most translation apps deployed on mobile devices operates by taking an input text (e.g. word, sentence, and paragraph) and output its translation in the desired language. However, they are not practical for real-world utilization as it is tedious and time consuming for users to fully write the texts in English (and correcting typos) to get the translations.
 
-How will the AR experience solve it?
+### How will the AR experience solve it?
 AR experience shall make the translation process more natural, simple, instant, and efficient. The recognized textural content and its translation in Arabic will be augmented in the captured images. The process to realize that is explained in the description section above.
  
-Who is the primary user and how will the AR experience engage the user?
+### Who is the primary user and how will the AR experience engage the user?
 Refugee students may simply capture pages from their textbooks or photos for the instructor’s whiteboard and have the English content being translated in seconds and augmented in the scene. Refugees (or even Arabs) living in non-Arab countries and want to use instant translators to understand their surroundings (street signs, restaurant’s menu, bus schedule, travel instructions at airports, ingredients description in food items … etc).
 	
-What hardware does the user need? Is this realistic in the refugee context? 
+### What hardware does the user need? Is this realistic in the refugee context? 
 A handheld device equipped with a camera (smartphone, tablets, or laptops). The app shall be installed once and functions without need for data-coverage which avoid any extra costs on refugees. We think low-quality smartphones are accessible by refugees thus need to verify if OCR can still operates on low-fidelity content (captured by low-quality camera) to fit better the refugees usage case. 
 
-What activity does the AR experience facilitate that would not otherwise be possible? 
+### What activity does the AR experience facilitate that would not otherwise be possible? 
 The OCR stage can localize the content to be translated, hence we can use such information to center a frame with suitable size over the original textured content and augment the recognized texts and its translation within it. The AR experience makes it more natural and instant. We hope to reduce the latency of our translation and increase its translation accuracy to deliver a real-time AR service where video streamed from camera may have the translated content augmented instantly in it.    
 
-What challenges do you expect to encounter?
+### What challenges do you expect to encounter?
 We are porting our codes from Python to C# and relinking the libraries to better fit Unity environment. We expect some difficulties designing the interface screens for the app (since we are still learning Unity!) and probably accessing the camera when deploying it on smartphones. The latency and accuracy of our implementation are still far from real-world usage and will require further efforts to make the whole experience promising for refugees.
