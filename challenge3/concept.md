@@ -1,15 +1,17 @@
-AR Design Concept– Challenge 3
+# AR Design Concept– Challenge 3
 OCR-Based Translation Tool - AR App
 To Infinity and Beyond Team
 
-Challenge: How might we use Augmented Reality (AR) to support refugee language learning outside the classroom?
+## Challenge: How might we use Augmented Reality (AR) to support refugee language learning outside the classroom?
 
-Description:
+## Description:
+
 Continuing our work on an Optical Character Recognition (OCR)-based instant translation tool, we have decided to make an augmenter reality (AR) version to make it efficient, simple, and easily accessible from smartphones and tablets devices. To recap, the app uses the device’s camera to capture the content to be translated. Then it performs OCR (by Google) to recognize and localize the characters within the images and output them as a text script. The text script will be augmented inside a frame overlaid on top of the original textural content of the captured image. The latter is then parsed and sent to a state-of-art translator (by Yandex) to output it in Arabic. The user is given an option to interrupt and edit the output of both OCR and translation stages to correct the typos. Finally, the results including the original image, OCR output, and translator output can be exported to pre-entered email so the user can further process later if needed.
 To demonstrate the concept, we have created a mockup sketch below illustrating the whole concept:
 
+![alt text](ArFlowchart.png)
+## Questions:
 
-Questions:
 What problem/challenge will the AR experience solve?
 Most translation apps deployed on mobile devices operates by taking an input text (e.g. word, sentence, and paragraph) and output its translation in the desired language. However, they are not practical for real-world utilization as it is tedious and time consuming for users to fully write the texts in English (and correcting typos) to get the translations.
 
