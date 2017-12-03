@@ -29,6 +29,6 @@ give the name of surrounding objects in a fun and user friendly way.
 
 ### What challenges do you expect to encounter? 
 
-*Accuracy of detecting objects.
+- Accuracy of detecting objects.
 
 
