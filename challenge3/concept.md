@@ -2,7 +2,8 @@
 OCR-Based Translation Tool - AR App
 To Infinity and Beyond Team
 
-## Challenge: How might we use Augmented Reality (AR) to support refugee language learning outside the classroom?
+## Challenge:
+How might we use Augmented Reality (AR) to support refugee language learning outside the classroom?
 
 ## Description:
 
