@@ -2,18 +2,18 @@
 
 ## Description
 
-In this challenge, we developed the conventional playing card game with the help of Augmented Reality (AR) to a multi-player language learning game. The number of players could be two or more. The designed game challenges mainly the players’ ability to construct sentences and recall the vocabulary. The game starts with distributing an equal number of cards to all players. Every card is linked with one word through the designed AR app. The player who is able to construct a sentence from his/her own cards can put the sentence on the ground. If the player was not able to construct a sentence, he/she should pull a new card and check the new possibilities to construct a new sentence. The players keep, in sequence, trying to finish their cards before opponents do. The game winner is the player who finishes his/her cards before the others.
+In this challenge, we developed the conventional playing card game with the help of Augmented Reality (AR) to a multi-player language learning game. The number of players could be two or more. The designed game challenges mainly the playersâ€™ ability to construct sentences and recall the vocabulary. The game starts with distributing an equal number of cards to all players. Every card is linked with one word through the designed AR app. The player who is able to construct a sentence from his/her own cards can put the sentence on the ground. If the player was not able to construct a sentence, he/she should pull a new card and check the new possibilities to construct a new sentence. The players keep, in sequence, trying to finish their cards before opponents do. The game winner is the player who finishes his/her cards before the others.
 
 In this approach, we try to make use of the available tools in most of the refugee residences, in order to minimise the need to buy any new tool. Also, our goal is to utilize the same tool, playing cards in this approach, several times for several learning scenarios. These scenarios include different languages, different levels of difficulty for different learners and different sets of specialized vocabulary in topics such as Travel, Clothes, Plants, Food,...etc. Another advantage of this proposed game is the fact that the same tools can be used for several games with different regulations. This is because the rules of the games can be derived from the rules of common known card games.
-The proposed game encourages the concept of collaborative peer-to-peer learning. Since the game itself doesn’t require any supervisor to judge the correctness of the sentences, the learner players have the motive to check each other’s sentences and correct them, in order to increase their chances of winning.
+The proposed game encourages the concept of collaborative peer-to-peer learning. Since the game itself doesnâ€™t require any supervisor to judge the correctness of the sentences, the learner players have the motive to check each otherâ€™s sentences and correct them, in order to increase their chances of winning.
 
 In the following pictures, the game first prototype is illustrated.
 
-![alt text](concept-materials/AR-game-1.JPEG)
+![ ](concept-materials/AR-game-1.jpeg)
 
 In this video, you can find more details about the game consept.
 
-![AR game concept](AR-game-2.mp4)
+![AR game concept](concept-materials/AR-game-2.mp4)
 
 
 
