@@ -4,7 +4,7 @@
 
 A game like mobile application with help of printed alphabet cards. Aimed for little kids. When the device's camera picks a letter, the application shows an image or animation of an object starts with that letter. Sound of how the letter and the word are spelled will accompany the visual effect.
 
-A simple prototype can be seen in the image attached.
+A simple prototype can be seen in the [https://gitlab.refugeelearning.site/rla/Discovery/team-template/blob/master/challenge3/AR-prototype.jpg]image attached.
 
 ## Questions
 
