@@ -14,7 +14,9 @@ In summary, the challenges that the AR experience will solve the issue of integr
 - Getting to know the correct pronunciation of these words 
 - Learning correct sentence structure 
 - Enhancing writing skills in use of words, grammar, and spelling 
+
 ### How will the AR experience solve it? 
+
 We have thought of combining many concepts together to optimize the AR experience and make the best of it. We will list each concept apart.
 1. The first idea is to build an application with Unity, where it will be able to recognize objects through the phone’s camera. Upon recognition, the application gives the name of the object in both English and Arabic, and playing a voice record of the word in English (similar to the voice engine in Google translate, for example). 
 What kind of objects?
