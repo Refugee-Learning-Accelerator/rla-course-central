@@ -2,7 +2,7 @@
 
 ## Description
 
-*[Augmented Reality could be used to support language learning by making an educational game, a simple game that can project 3d object on the space like multiple choice questions that can be added by other with a simple tool (our app) then anybody can play it after it passes a check.
+*[Augmented Reality could be used to support learning in general by making an educational game, a simple game that can project 3d object on the space like multiple choice questions that can be added by other with a simple tool (our app) then anybody can play it after it passes a check.
 The questions should be educational ones and simple, and since it's from different people it will not boring. ]*
 
 ## Questions
