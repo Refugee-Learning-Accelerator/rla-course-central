@@ -26,47 +26,44 @@ The complete set will consist of the following things:
 3.  Existing game-card hard sleeves to insert the cards in 
 4.  Cheap handicraft adhesive magnets
 5.  Unity-based offline android application that can read the cards and perform desired actions
+  
+
 
 With these materials, teachers can create games that will allow students to literally take their homework way outside the classroom, but they can bring it to school again. A couple of examples are given below: 
 
-* #### _Simple homework games:_
+#### _Simple homework games:_
 
-    1. #### Word match: 
-
-        As homework, students receive all the A- and B-sides of the words learned in class. At home they attach the magnetic cards with the A- sides containing images to the corresponding magnetic cards with the B-sides containing the corresponding sounds and written words. They can put their combinations in an A4 plastic sleeve with their name on it and hand it to the teacher for checking. Or they can lay out their combinations next to each other on their desks for quick check-up by the teacher.
+1. #### Word match: 
+    As homework, students receive all the A- and B-sides of the words learned in class. At home they attach the magnetic cards with the A- sides containing images to the corresponding magnetic cards with the B-sides containing the corresponding sounds and written words. They can put their combinations in an A4 plastic sleeve with their name on it and hand it to the teacher for checking. Or they can lay out their combinations next to each other on their desks for quick check-up by the teacher.
  
-    2. #### The world is your homework:
+2. #### The world is your homework:
+    Using the magnets, the B-sides with the writing and soundbites for the homework for a certain lesson are distributed throughout the refugee settlement by the teacher. For example the B-side for the word ‘wall’  is attached to walls, both in and outside the classroom for a certain period of time. Whenever a student encounters a wall, he or she can practice saying or writing ‘wall’ and use their app to scan the QR-codes and check their pronunciation and writing.
 
-        Using the magnets, the B-sides with the writing and soundbites for the homework for a certain lesson are distributed throughout the refugee settlement by the teacher. For example the B-side for the word ‘wall’  is attached to walls, both in and outside the classroom for a certain period of time. Whenever a student encounters a wall, he or she can practice saying or writing ‘wall’ and use their app to scan the QR-codes and check their pronunciation and writing.
 
-* #### _Peer review games:_ 
+#### _Peer review games:_ 
 
-    1. #### Word Quest scavenger hunt:
-
-        Players get a number of pictures of objects that actually exist within the settlement / refugee shelter. For example, one of the pictures taken depicts the actual door to the office of the Norwegian Refugee Council office. They have to walk around to recognize the location. When they arrive, they will find another player that is the guardian of the word and has a deck with cards to hand out for that specific word.
-        The guardian will quiz the player upon arrival. In our example of the door, the guardian will ask the player in their own language to name the English word for ‘door’. If the player is correct, he or she will get the double card for ‘door’, with the QR-code depicting a 3-d door on one side and with the QR-code playing the english pronunciation of the word in-app and / or showing the English spelling  on the other side. Whoever is in possession of all the cards first is the winner.
+1. #### Word Quest scavenger hunt:
+    Players get a number of pictures of objects that actually exist within the settlement / refugee shelter. For example, one of the pictures taken depicts the actual door to the office of the Norwegian Refugee Council office. They have to walk around to recognize the location. When they arrive, they will find another player that is the guardian of the word and has a deck with cards to hand out for that specific word.
+    The guardian will quiz the player upon arrival. In our example of the door, the guardian will ask the player in their own language to name the English word for ‘door’. If the player is correct, he or she will get the double card for ‘door’, with the QR-code depicting a 3-d door on one side and with the QR-code playing the english pronunciation of the word in-app and / or showing the English spelling  on the other side. Whoever is in possession of all the cards first is the winner.
  
-    2. #### Word Quest police:
+2. #### Word Quest police:
 
-    *  Phase one: the draw
-
-        All players get a limited amount of double cards (both the image and answer sides). For example if there are 40 words and 8 players, each player gets 5 words.
+- Phase **one**: the draw
+    All players get a limited amount of double cards (both the image and answer sides). For example if there are 40 words and 8 players, each player gets 5 words.
  
-    * Phase two: the truce
-    
-        After receiving the words, players then have a limited amount of time to learn all of them. For example, if the players received the words at the end of their language lesson that lasted until 3 p.m., the truce would last until 5 p.m.
+- Phase **two**: the truce
+    After receiving the words, players then have a limited amount of time to learn all of them. For example, if the players received the words at the end of their language lesson that lasted until 3 p.m., the truce would last until 5 p.m.
  
-    * Phase three: game on!
+- Phase **three**: game on!
+    During their day to day activities, players can stop other players by surprising the and saying ‘ stop, word police!’ The player who got surprised, the suspect, has to hand all their cards to the other player, the police officer, with the image-code up. Then the police officer will quiz the suspect. Every card that the suspect knows, he or she gets back. The police officer can keep all the cards the suspect does not know. 
 
-        During their day to day activities, players can stop other players by surprising the and saying ‘ stop, word police!’ The player who got surprised, the suspect, has to hand all their cards to the other player, the police officer, with the image-code up. Then the police officer will quiz the suspect. Every card that the suspect knows, he or she gets back. The police officer can keep all the cards the suspect does not know. 
-
-    *  Phase four: the moment of truth
-
-        The game finishes after a certain time, for example the next language class. There a judge (for example the teacher) will note the final score by checking how many cards each player has in his or her possession and how many of those they actually know. The player who knows the most words 8s the winner. 
+-  Phase **four**: the moment of truth
+    The game finishes after a certain time, for example the next language class. There a judge (for example the teacher) will note the final score by checking how many cards each player has in his or her possession and how many of those they actually know. The player who knows the most words 8s the winner. 
  
-* #### _Custom games_
 
-    The best part of Word Quest is that its flexibility . Teachers can use their imagination to stimulate in- and out of classroom learning by inventing their own games. A matured version of the system would supply and SDK that enables teachers to add words, sentences and images for full customization through a convenient GUI. Kits with magnets and cardsleeves can be ordered online at very low cost.
+#### _Custom games_
+
+The best part of Word Quest is that its flexibility . Teachers can use their imagination to stimulate in- and out of classroom learning by inventing their own games. A matured version of the system would supply and SDK that enables teachers to add words, sentences and images for full customization through a convenient GUI. Kits with magnets and cardsleeves can be ordered online at very low cost.
 
 
 
