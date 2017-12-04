@@ -10,7 +10,7 @@ __Block5:__ They get the question on their Phone/Tablet? Are we assuming the stu
 *Ebrahim:* It's either or. I don't want to force technology which is limited by funding. The best practice is a tablet/phone given by the school but I don't know if that is possible
 
 __In the X minutes …__ whether now or later? Why would it be later? I believe “now” is the time to learn this new concept, so they have to get the needed understanding through this session
-*Ebrahim* I'm assuming that the X minutes were not enough for him to understand. He can come back to his freind probably in the breaks that come later or after the session. 
+*Ebrahim* I'm assuming that the X minutes were not enough for him to understand. He can come back to his freind probably in the breaks that come later or after the session.
 
 __In general:__ we need a system of tokens governing the whole learning process, a motive to keep on going. That will not only reward the ones who got the right answers, but those who tried the most (if we will prompt them with optional questions to tackle the subject – easier or harder) and with a rating from the student who needed help for the student who offered explanation support.
 *Ebrahim:* I'll add these as features. These are great ideas but I don't want overcomplicate the initial prototype. I want people to get the general gist before we put any addons.
