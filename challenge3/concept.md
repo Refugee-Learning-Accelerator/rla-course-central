@@ -33,4 +33,4 @@ The user would open the app and point the user’s camera at the predeﬁned tri
 
 ### What challenges do you expect to encounter? 
 
-*[The challenges that we expect to encounter is getting user feedback as it is very crucial to improve our prototype and It is very difficult to get into a refugee camp.]*
+*[The challenges that we expect to is  to minimize fatigue risks that would accompany prolong use of the application, to make a product that would serve all age groups including children and adults at the same time.]*
