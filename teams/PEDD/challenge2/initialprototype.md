@@ -2,8 +2,12 @@
 
 ### What solution are you testing? (and why did you choose it?)
 
+<<<<<<< HEAD
 * 
 After our Empathize , Synthesize discussions we had in the team, we formulated the problem to work on as: 
+=======
+* After our Empathize , Synthesize discussions we had in the team, we formulated the problem to work on as: 
+>>>>>>> c425213bda2089eb3f11cc31a63c4523c2a0ff34
 How might we leverage everyday technology 
     to help refugee students to be motivated and enjoy to fill the gaps they have in terms of studying in lebanon 
     to feel in control of their future.
@@ -39,6 +43,10 @@ HOW TO SCALE and How to Solve access problem: We also want to propose a service 
 
 How to link it to their future and well being: we want the exposure they get online via this tool to help them get easier access to scholarships and make them feel in control of their futures. They will also be able to contribute back and help others via the same system
 
+<<<<<<< HEAD
+=======
+
+>>>>>>> c425213bda2089eb3f11cc31a63c4523c2a0ff34
 *
 
 ### Submit your prototype (use photos, video, diagrams etc.)
