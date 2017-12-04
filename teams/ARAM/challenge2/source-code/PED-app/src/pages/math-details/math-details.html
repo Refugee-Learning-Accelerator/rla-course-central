@@ -1,0 +1,33 @@
+
+<ion-header>
+    
+        <ion-navbar color="primary">
+            <ion-title>{{item.head}}</ion-title>
+          </ion-navbar>
+    </ion-header>
+    
+    
+    <ion-content padding dir="rtl">
+        <ion-card>
+            <ion-card-header>
+              <div>
+               <h1>{{item.trans}} : {{item.head}}  </h1>           
+              </div>
+              </ion-card-header>
+              <img src="assets/img/{{item.photo}}" alt="figure" width="50%">
+            <ion-card-content>
+                <ion-card-title>
+                    تعريف:
+                    </ion-card-title>  
+              <p>{{item.defi}}</p>
+              <ion-card-title>
+                مثال:
+                </ion-card-title>
+              <p>
+                  <img src="assets/img/{{item.ex}}" alt="example" width="50%">
+              </p>
+              <p><a href="{{item.more}}">More info..</a></p>
+            </ion-card-content>
+          </ion-card>
+    </ion-content>
+    

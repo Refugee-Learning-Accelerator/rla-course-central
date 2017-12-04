@@ -1,0 +1,38 @@
+<ion-menu id="leftMenu" [content]="content" side="left" type="overlay">
+    <ion-header>
+        <ion-toolbar color="primary">
+            <ion-title>Choose Category</ion-title>
+        </ion-toolbar>
+    </ion-header>
+    <ion-content>
+        <ion-list>
+            <button menuClose ion-item (click)="showMath()">
+              <ion-icon name="calculator"> Mathematics</ion-icon>
+            </button>
+            <button menuClose ion-item (click)="showMath()">
+                    <ion-icon name="flask"> Chemistry</ion-icon>
+            </button>
+        </ion-list>
+    </ion-content>
+</ion-menu>
+
+<ion-menu dir="rtl" id="rightMenu" [content]="content" side="right" type="overlay">
+    <ion-header>
+        <ion-toolbar color="primary">
+            <ion-title>اختر تخصصاً</ion-title>
+        </ion-toolbar>
+    </ion-header>
+    <ion-content  >
+        <ion-list>            
+            <button menuClose ion-item (click)="showMathAr()">
+                    <ion-icon name="calculator"> رياضيات</ion-icon>
+                
+            </button>
+            <button menuClose ion-item (click)="showMathAr()">
+                    <ion-icon name="flask"> كيمياء</ion-icon>
+                
+            </button>
+        </ion-list>
+    </ion-content>
+</ion-menu>
+<ion-nav [root]="rootPage" #content [swipeBackEnabled]="false" ></ion-nav>
