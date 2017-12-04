@@ -4,6 +4,7 @@
 
 ## Description
 
+
 *Our Chatbot aims to tackle problems with learning disabilities among students at refugee camps. With education, people expect chatbots to be used by students for facilitate the learning. However, students are not expected to notice their own abnormalities in their learning progress. Therefore, the primary users of our chatbot shall be parents and/or teachers. When users notice abnormal behavior from their students, they can use the chatbot to communicate their observation. The chatbots job is to detect the problem by matching the users’ observation, and symptoms from learning disabilities that are stored (or pulled from) specific databases. The Chatbot is certainly not a doctor’s substitute, which does not give it the right to inform the users of the possible disabilities from which the students are facing. This is a critical issue because a faulty diagnosis by the chatbot could trigger anxiety among users, or even lead to the wrong action plan with the student that could damage their learning progress significantly. Therefore, the chatbot contacts the centers or NGO’s that deal with the possible learning disabilities detected, and let the users know how to deal with the students until the respective centers contact the user for a professional opinion. For demonstration, kindly refer to the Video attached.*
 =======
 
