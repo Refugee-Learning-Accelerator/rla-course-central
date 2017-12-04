@@ -2,12 +2,44 @@
 
 ## Tasks:
 
+<<<<<<< HEAD
 * Identify a group of potential users (fall back: ask your friends and family)
 * Have them use the prototype and collect as much feedback as possible
 * Describe how you would change the prototype based on the feedback (you don't have to make a new version of the prototype!)
+=======
+<<<<<<< HEAD
+*[Your answer here...]*
+=======
+* Identify a group of potential users (fall back: ask your friends and family)
+* Have them use the prototype and collect as much feedback as possible
+* Describe how you would change the prototype based on the feedback (you don't have to make a new version of the prototype!)
+>>>>>>> fc16541dbd664eef066dec179cc003b76e6b6e61
+>>>>>>> fbbf1230fb749ebe2d3169941af888d35e546abe
 
 ## Questions to Answer
 
+<<<<<<< HEAD
+=======
+<<<<<<< HEAD
+*[Your answer here...]*
+
+### What were the main points of feedback you received (share a summary)? 
+
+*[Your answer here...]*
+
+### What changes would make to your idea/project based on the feedback?
+
+*[Your answer here...]*
+
+### What parts of the Human Centered Design process were new to you?
+
+*[Your answer here...]*
+
+### What parts of the Human Centered Design process seemed most useful to you?
+
+*[Your answer here...]*
+=======
+>>>>>>> fbbf1230fb749ebe2d3169941af888d35e546abe
 1. How did you select your test users? 
    When we choose to work on this solution for HCD challenge we were inspired by some family members who are refugee kids attending school in Erbil, Iraq
    so we tested our prototype with them
@@ -44,4 +76,9 @@
              sometimes during the ideation, we may come up with simple and doable solutions.
    Feedback: capture the user's feedback and modify the solution based on this feedback will generate the most effective solution that makes the users happy!.
    
+<<<<<<< HEAD
   
+=======
+  
+>>>>>>> fc16541dbd664eef066dec179cc003b76e6b6e61
+>>>>>>> fbbf1230fb749ebe2d3169941af888d35e546abe
