@@ -29,4 +29,4 @@ The questions should be educational ones and simple, and since it's from differe
 
 ### What challenges do you expect to encounter? 
 
-*[find enough matirals and questions to add, and it may not look apealing to the children or the users]*
+*[Find enough materials and questions to add, and it may not look appealing to the children or the users]*
