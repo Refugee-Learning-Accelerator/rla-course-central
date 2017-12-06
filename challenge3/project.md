@@ -3,7 +3,9 @@ Challenge 3 Final Project
 
 Description
 
-[ Demonstrate how your AR experience works. Videos, screenshots or images are encouraged. ]
+[ The app 
+
+Demonstrate how your AR experience works. Videos, screenshots or images are encouraged. ]
 
 
 Questions
