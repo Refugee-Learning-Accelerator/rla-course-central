@@ -3,7 +3,9 @@
 ## Description
 
 We followd the example of Vuforia to create a sample project that detects alhpbet letters (A & B separately).
-Upon detecting letter A, an object starting with "A" appers (Apple). [See demo video for A](https://gitlab.refugeelearning.site/rla/Discovery/team-template/blob/master/challenge3/AR-demo-A.mov)
+
+Upon detecting letter A, an object starting with "A" appers (Apple). [See demo video for A](https://gitlab.refugeelearning.site/rla/Discovery/team-template/blob/master/challenge3/AR-demo-A.mov).
+
 When detecting letter B, an object starting with "B" (banana) appers on top. [See demo video for B](https://gitlab.refugeelearning.site/rla/Discovery/team-template/blob/master/challenge3/AR-demo-B%202.mov)
 
 We used printed the letters on an easy to afford A4 paper to use as triggering imageTarget.
