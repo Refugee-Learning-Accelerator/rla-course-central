@@ -29,7 +29,7 @@ Unity with Vuforia.
 
 ### What aspect of the AR experience do you like best? 
 
-*[Your answer here...]*
+It was our first try. Creating our first AR project was an exciting experience.
 
 ### What would you different in the future? 
 
@@ -38,4 +38,4 @@ Unity with Vuforia.
 
 ### Please also add a link to your code!
 
-*[Your answer here...]*
+To be uploaded later.
