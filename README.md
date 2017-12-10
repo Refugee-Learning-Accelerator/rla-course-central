@@ -1,7 +1,7 @@
 # Futuristic-School 
    {
   
-  members = "Yaser Alamin", "Abdullah Alamin" ;
+  members = "Yaser Alamin @YaserAlamin", "Abdullah Alamin @abdu" ;
   
   Goal = " build an educational website/app to help refugee students who don't have an access to school"
   
