@@ -25,7 +25,8 @@ The questions should be educational ones and simple, and since it's from differe
 
 ### What activity does the AR experience facilitate that would not otherwise be possible? 
 
-*[aaaa]*
+*[Use the AR for search for object, when we udate the app will make the questions apear after scan an object and the question
+  will be related to the obect scaned ]*
 
 ### What challenges do you expect to encounter? 
 
