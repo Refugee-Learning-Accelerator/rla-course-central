@@ -26,7 +26,7 @@ Unity and Android Studio. We used AR Vuforia and a sample video playback project
 
 ### What aspect of the AR experience do you like best?
 
-It's quite simple to implement with Vuforia. You just need to adapt to the environment and workflow.  
+It's quite simple to implement with Vuforia. You just need to adapt to the environment and workflow. The AR gives quite an immersive experience. It's very fascinating to see things being altered and augmented. We really started seeing how these kind of experiences could make lessons more enjoyable and more relatable. 
 
 ### What would you different in the future?
 
@@ -35,6 +35,7 @@ We did face a few problems
 * In the future, the AR and the Android app would be in one application on the users phone.
 * We would also have wanted to add a place where he could see the video again in his inventory. We don't want the user to go every time into AR mode to see the video
 * Do more than one video for the same concept in order to show the bite-sized learning approach. That way when the user comes another day and scans again he gets another lesson.
+* To show you the recordings of the different phrases in the app. You can see the recordings [here](https://gitlab.refugeelearning.site/rla/BeirutByByte/team-template/tree/master/challenge3/Project/Audio%20files%20Each%20line)
 
 
 
@@ -43,3 +44,7 @@ Due to huge packages and the very limited internet connection we could not uploa
 https://gitlab.refugeelearning.site/rla/BeirutByByte/BBBARUnity
 
 This was the very early version of the AR App. We later on had to add a lot of extra libraries and code. The App then became over half a GB and uploading proved to be quite a hassle.
+
+You could see the raw videos
+* ***Register Files:*** These are in the [register  folder](https://gitlab.refugeelearning.site/rla/BeirutByByte/team-template/tree/master/challenge3/Project/Register%20Video). It includes the script, the srt, the video, and the celtx file
+* ***Demo Files***: These are in the [Demo Video folder](https://gitlab.refugeelearning.site/rla/BeirutByByte/team-template/tree/master/challenge3/Project/Demo%20Videos). Due to the size, this folder only includes links to files on YouTube or on google drive.
