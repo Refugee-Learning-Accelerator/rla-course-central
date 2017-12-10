@@ -2,7 +2,6 @@
 
 ## Description
 
-Question 1
 We were planning to build our project described in the first deliverable last week using Unity and linking it to an Android phone (through an app), however, due to unfortunate events that happened with us during this week, the group could not work on the project.
 
 We are very disappointed not to be able to work on this project, even though we prepared a thoroughly thought of concept sketch and were ready to apply them. We’ve completed all the past challenges as well.
