@@ -11,6 +11,8 @@ We had a few changes from the previous idea
 The user would walk into a store and see a sticker/ wallpaper that tells him to scan.
 He scans it with his phone on the dedicated app and it would initiate a video of a register conversation
 
+You can check the demo for the app here:
+https://youtu.be/es7qx6XzaIo
 ## Questions
 
 ### How did you build it? (Platform and technology)
@@ -26,16 +28,17 @@ Unity and Android Studio. We used AR Vuforia and a sample video playback project
 
 ### What aspect of the AR experience do you like best?
 
-It's quite simple to implement with Vuforia. You just need to adapt to the environment and workflow. The AR gives quite an immersive experience. It's very fascinating to see things being altered and augmented. We really started seeing how these kind of experiences could make lessons more enjoyable and more relatable. 
+It's quite simple to implement with Vuforia. You just need to adapt to the environment and workflow. The AR gives quite an immersive experience. It's very fascinating to see things being altered and augmented. We really started seeing how these kind of experiences could make lessons more enjoyable and more relatable.
 
 ### What would you different in the future?
 
-We did face a few problems
-* Due to a few compilation errors, we were not able to build the Unity project or export it into Android studio.
-* In the future, the AR and the Android app would be in one application on the users phone.
-* We would also have wanted to add a place where he could see the video again in his inventory. We don't want the user to go every time into AR mode to see the video
+We did face a few problems and there were a few things we wished we had the chance to finish or in the very least integrate into the
+* Due to a few compilation errors, we were not able to build the Unity project or export it into Android studio. In the future, the AR and the Android app would be in one application on the users phone.
+* We would also have wanted to add a place where he could see the video again in his inventory. We don't want the user to go every time into AR mode to see the video.
 * Do more than one video for the same concept in order to show the bite-sized learning approach. That way when the user comes another day and scans again he gets another lesson.
-* To show you the recordings of the different phrases in the app. You can see the recordings [here](https://gitlab.refugeelearning.site/rla/BeirutByByte/team-template/tree/master/challenge3/Project/Audio%20files%20Each%20line)
+* To show you the recordings of the different phrases in the app. You can see the recordings [here](https://gitlab.refugeelearning.site/rla/BeirutByByte/team-template/tree/master/challenge3/Project/Audio%20files%20Each%20line).
+* An instruction page that would dictate how the user would use the app and how it works.
+* To show a proper demo with an actual Bluetooth beacon and an actual register.
 
 
 
