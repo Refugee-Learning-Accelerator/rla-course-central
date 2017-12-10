@@ -38,4 +38,4 @@ It was our first try. Creating our first AR project was an exciting experience.
 
 ### Please also add a link to your code!
 
-Source code was too big to be uploaded as a single compressed file. So we uploaded it to an external server [here](http://gulatech.com/AR-demo.zip)
+Source code was too big to be uploaded as a single compressed file. So we uploaded it to an external server and can be downloaded from [here](http://gulatech.com/AR-demo.zip)
