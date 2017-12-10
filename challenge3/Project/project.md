@@ -8,11 +8,24 @@ We had a few changes from the previous idea
 * These phrases can be translated in the app and replayed each alone
 * Focused on a bite-sized learning approach. On every new return, he would get a new lesson every time
 
-The user would walk into a store and see a sticker/ wallpaper that tells him to scan.
-He scans it with his phone on the dedicated app and it would initiate a video of a register conversation
+How the scenario would go
+1. User turns on his Bluetooth
+2. User gets a Notification on his phone that there is a learning opportunity
+3. User opens the App and the AR experience begins
+4. User looks for the targeted symbol and scans it
+5. User watches a video of a related dialogue
+6. Video ends and the app goes to a transcript to the dialogue that just happened
+7. User clicks on each line and hears the line again and gets the Arabic translation for it
+8. User can then switch to AR camera and find more symbols
 
 You can check the demo for the app here:
 https://youtu.be/es7qx6XzaIo
+*Please make sure to turn on English subtitles for a more pleasant viewing*
+
+or 
+
+directly download it from the repository in the [Demo Video folder](https://gitlab.refugeelearning.site/rla/BeirutByByte/team-template/tree/master/challenge3/Project/Demo%20Videos)
+
 ## Questions
 
 ### How did you build it? (Platform and technology)
@@ -50,4 +63,4 @@ This was the very early version of the AR App. We later on had to add a lot of e
 
 You could see the raw videos
 * ***Register Files:*** These are in the [register  folder](https://gitlab.refugeelearning.site/rla/BeirutByByte/team-template/tree/master/challenge3/Project/Register%20Video). It includes the script, the srt, the video, and the celtx file
-* ***Demo Files***: These are in the [Demo Video folder](https://gitlab.refugeelearning.site/rla/BeirutByByte/team-template/tree/master/challenge3/Project/Demo%20Videos). Due to the size, this folder only includes links to files on YouTube or on google drive.
+* ***Demo Files***: These are in the [Demo Video folder](https://gitlab.refugeelearning.site/rla/BeirutByByte/team-template/tree/master/challenge3/Project/Demo%20Videos). Due to the size, this folder only includes links to files on YouTube or on google drive. It also includes the final Demo video along with its srt file.
