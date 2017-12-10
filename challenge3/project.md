@@ -2,7 +2,8 @@
 
 ## Description
 
-*[ https://gitlab.refugeelearning.site/rla/Virtual-Teacher/team-template/blob/master/challenge3/Prototype%20Test1.mp4 .  https://gitlab.refugeelearning.site/rla/Virtual-Teacher/team-template/blob/master/photos/1.jpg . https://gitlab.refugeelearning.site/rla/Virtual-Teacher/team-template/blob/master/photos/2.png . https://gitlab.refugeelearning.site/rla/Virtual-Teacher/team-template/blob/master/photos/3.jpg . https://gitlab.refugeelearning.site/rla/Virtual-Teacher/team-template/blob/master/photos/4.jpg ]*
+*[ Video https://gitlab.refugeelearning.site/rla/Virtual-Teacher/team-template/blob/master/challenge3/Prototype%20Test1.mp4 
+.  https://gitlab.refugeelearning.site/rla/Virtual-Teacher/team-template/blob/master/photos/1.jpg . https://gitlab.refugeelearning.site/rla/Virtual-Teacher/team-template/blob/master/photos/2.png . https://gitlab.refugeelearning.site/rla/Virtual-Teacher/team-template/blob/master/photos/3.jpg . https://gitlab.refugeelearning.site/rla/Virtual-Teacher/team-template/blob/master/photos/4.jpg ]*
 
 ## Questions
 
