@@ -6,7 +6,7 @@ The User will open the app it will open the camera, then an AR cartoon Character
 when the user put the camera on an object it will be recognized and the name of the object will appear in a speech bubble, the character will 
 pronounce the name of the object as well, the user can change the character from a characters list
 
-![AR](AR.jpg)
+![AR](Image-1.jpg)
 
 ## Questions
 
