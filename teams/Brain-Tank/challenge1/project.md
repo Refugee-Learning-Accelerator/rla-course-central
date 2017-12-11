@@ -8,7 +8,7 @@
 *Our Chatbot aims to tackle problems with learning disabilities among students at refugee camps. With education, people expect chatbots to be used by students for facilitate the learning. However, students are not expected to notice their own abnormalities in their learning progress. Therefore, the primary users of our chatbot shall be parents and/or teachers. When users notice abnormal behavior from their students, they can use the chatbot to communicate their observation. The chatbots job is to detect the problem by matching the users’ observation, and symptoms from learning disabilities that are stored (or pulled from) specific databases. The Chatbot is certainly not a doctor’s substitute, which does not give it the right to inform the users of the possible disabilities from which the students are facing. This is a critical issue because a faulty diagnosis by the chatbot could trigger anxiety among users, or even lead to the wrong action plan with the student that could damage their learning progress significantly. Therefore, the chatbot contacts the centers or NGO’s that deal with the possible learning disabilities detected, and let the users know how to deal with the students until the respective centers contact the user for a professional opinion. For demonstration, kindly refer to the Video attached.*
 =======
 *Our Chatbot aims to tackle problems with learning disabilities among students at refugee camps. With education, people expect chatbots to be used by students for facilitate the learning. However, students are not expected to notice their own abnormalities in their learning progress. Therefore, the primary users of our chatbot shall be parents and/or teachers. When users notice abnormal behavior from their students, they can use the chatbot to communicate their observation. The chatbots job is to detect the problem by matching the usersâ€™ observation, and symptoms from learning disabilities that are stored (or pulled from) specific databases. The Chatbot is certainly not a doctorâ€™s substitute, which does not give it the right to inform the users of the possible disabilities from which the students are facing. This is a critical issue because a faulty diagnosis by the chatbot could trigger anxiety among users, or even lead to the wrong action plan with the student that could damage their learning progress significantly. Therefore, the chatbot contacts the centers or NGOâ€™s that deal with the possible learning disabilities detected, and let the users know how to deal with the students until the respective centers contact the user for a professional opinion. For demonstration, kindly refer to the Video attached.*
->>>>>>> c44ebf4e834d2dbe4d0667fdb501bf135f1c4132
+>>>>>>> 40e8c344110ed033247a7b14bbb0df93ea321090
 
 ## Questions
 
@@ -26,7 +26,7 @@
 ### What challenges did you face?
 
 *Chatfuel is very powerful tool for Chatbot beginners and even for people who have little to know background in programming. The fact that our team has good experience in coding, we found Chatfuel to be a bit limited when it comes to programming freedom. Without storing variables, conditional statements, and some flexibility to connect the user interface with other programs (Unity3D, MATLAB, Visual Studioâ€¦), we found it a bit challenging to cope with the interface that Chatfuel provided. However, it is worth noting that Chatfuel is very easy to use, given that our task is a proof of concept. But we doubt that we can use this platform if our Chatbot becomes an official interface that connects vulnerable communities and centers for learning disabilities.*
->>>>>>> c44ebf4e834d2dbe4d0667fdb501bf135f1c4132
+>>>>>>> 40e8c344110ed033247a7b14bbb0df93ea321090
 
 ### What aspect of the chatbot do you like best? 
 
@@ -38,7 +38,7 @@
 *To begin with, we would definitely use a more advanced platform to include more options for users. The main difference, however, would be interviewing several organizations in Jordan that work closely with refugees. This is a crucial step to make sure that the databases of chatbot’s AI are as comprehensive as possible. After consulting professional centers and organizations, we would spend some quality time with refugees (possibly a month or two) to understand their colloquial patterns which would make the input easier for the AI response. After that, we would have wandered through the streets of the camp, allowing random people to use it, so we can collect and fix the flaws in the AI.*
 =======
 *To begin with, we would definitely use a more advanced platform to include more options for users. The main difference, however, would be interviewing several organizations in Jordan that work closely with refugees. This is a crucial step to make sure that the databases of chatbotâ€™s AI are as comprehensive as possible. After consulting professional centers and organizations, we would spend some quality time with refugees (possibly a month or two) to understand their colloquial patterns which would make the input easier for the AI response. After that, we would have wandered through the streets of the camp, allowing random people to use it, so we can collect and fix the flaws in the AI.*
->>>>>>> c44ebf4e834d2dbe4d0667fdb501bf135f1c4132
+>>>>>>> 40e8c344110ed033247a7b14bbb0df93ea321090
 
 ### Are there any parts of your code you'd like to highlight?
 
