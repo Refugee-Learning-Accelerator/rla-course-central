@@ -7,7 +7,7 @@ As we have previously described in our concept, we originaly thought of a flexib
 The idea was to create a card game which helps young refugees name objects in three languages. The choice of the objects depends on the context in which they live. The cards contain a QR code that can be scanned with the Sawerli android app we created. Once scanned, a 3D model of an object and its name in English, Arabic and french appear on the screen. An audio file containing the pronounciation of these words automatically plays as well.
 The cards are categorized by type and difficulty level. The kids would collect them to get achievements and reach higher levels.
 
-[Images]
+### Images
 
 *  ![Sawerli Card Front](https://gitlab.refugeelearning.site/rla/The-Alternative/team-template/blob/master/challenge3/Card_Front.jpg)    : Showing off the front of our card.
 
@@ -18,14 +18,14 @@ The cards are categorized by type and difficulty level. The kids would collect t
 *  ![Sawerli App Screenshots](https://gitlab.refugeelearning.site/rla/The-Alternative/team-template/blob/master/challenge3/Sawerli_Screenshots.jpg)    : Screenshots.
 
 
-[Videos]
+### Videos
 
-*  ![Sawerli Card](https://gitlab.refugeelearning.site/rla/The-Alternative/team-template/blob/master/challenge3/CardFF.mp4)    : Showing off our card.
+*  [Sawerli Card](https://gitlab.refugeelearning.site/rla/The-Alternative/team-template/blob/master/challenge3/CardFF.mp4)    : Showing off our card.
 
-*  ![Sawerli Card](https://gitlab.refugeelearning.site/rla/The-Alternative/team-template/blob/master/challenge3/App_Test.mp4)    : Showing off our app with the card.
+*  [Sawerli App interaction with the card](https://gitlab.refugeelearning.site/rla/The-Alternative/team-template/blob/master/challenge3/App_Test.mov)    : Showing off our app with the card.
 
 
-[App]
+### App
 
 *  ![Sawerli App](https://gitlab.refugeelearning.site/rla/The-Alternative/team-template/blob/master/challenge3/Sawerli-test.apk)    : Our app.
 
