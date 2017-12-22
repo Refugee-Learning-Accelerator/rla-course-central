@@ -1,0 +1,104 @@
+1
+00:00:00,489 --> 00:00:02,699
+Hello my name is Emad  El Yehya
+
+2
+00:00:02,700 --> 00:00:04,710
+and i'm from the BeirutByByte team and
+
+3
+00:00:05,200 --> 00:00:10,710
+I will be demoing the project that we did for the third challenge of MIT's refugee learning accelerator
+
+4
+00:00:11,530 --> 00:00:17,279
+Initially we had to plan to film a person using this as he approaches the Bluetooth beacon as well as his interactions with the phone
+
+5
+00:00:17,529 --> 00:00:23,669
+But due to some technical difficulties were not able to put the AR into Android so we will demo the different components individually
+
+6
+00:00:24,550 --> 00:00:30,990
+I'll start by turning on Bluetooth. I'm near the beacon so the notification should pop up pretty soon and there we are
+
+7
+00:00:32,410 --> 00:00:36,719
+Alright, so there's obviously an instructions page for when the app is run for the first time
+
+8
+00:00:36,719 --> 00:00:38,719
+But I didn't show it for brevity's sake
+
+9
+00:00:39,250 --> 00:00:44,160
+So what the user should do is he usually directed towards this symbol
+
+10
+00:00:44,160 --> 00:00:48,539
+And then the AR would begin since this part is not incorporated
+
+11
+00:00:48,540 --> 00:00:54,840
+We've hard coded the app to just run directly to the next stage and we'll demo now the AR part
+
+12
+00:01:29,640 --> 00:01:36,680
+After the symbol has been identified and the video has been played, the camera exits and shows the learner the conversation he has just heard
+
+13
+00:01:37,060 --> 00:01:38,910
+He can click on any sentence
+
+14
+00:01:38,910 --> 00:01:43,109
+And then the sentence would be spoken out loud to him and he can
+
+15
+00:01:43,540 --> 00:01:47,849
+Hear that as many times as he wants and there's obviously an Arabic translation there as well
+
+16
+00:01:48,580 --> 00:01:51,149
+Sadly Google does not allow internal recording
+
+17
+00:01:51,250 --> 00:01:57,059
+So there's no way for us to show you the voice however the voice is exactly the same as the voice that has appeared
+
+18
+00:01:58,330 --> 00:02:00,280
+during the
+
+19
+00:02:00,280 --> 00:02:01,840
+video itself
+
+20
+00:02:01,840 --> 00:02:04,140
+Now when the when the learner is done
+
+21
+00:02:04,140 --> 00:02:09,959
+He simply presses continue, and it goes back to the recording stage where he can look for other symbols
+
+22
+00:02:10,979 --> 00:02:14,159
+Note that previewing the same symbol on the same day
+
+23
+00:02:14,160 --> 00:02:16,199
+We show him the same segment as he had seen before
+
+24
+00:02:16,420 --> 00:02:22,589
+This is because we believe that bite-sized lessons are best for casual learning as well as the fact that this will help the learner
+
+25
+00:02:22,930 --> 00:02:29,370
+review the conversation after having gotten everything translated for him, which further enforces his understanding of the
+
+26
+00:02:30,160 --> 00:02:32,160
+Concepts we're trying to get across
+
