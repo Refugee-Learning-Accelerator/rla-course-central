@@ -12,42 +12,48 @@
     <script src="https://cdnjs.cloudflare.com/ajax/libs/marked/0.3.7/marked.min.js"></script>
     <script src="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.7/js/bootstrap.min.js" integrity="sha384-Tc5IQib027qvyjSMfHjOMaLkfuWVxZxUPnCJA7l2mCWNIpG9mGCD8wGNIcPD7Txa" crossorigin="anonymous"></script>
 
-    <!-- INDEX PAGE -->
-    <link href="./assets/css/challenges.css" rel="stylesheet">
-    <script src="./assets/js/challenges.js"></script>
-    <!-- INDEX PAGE -->
+    <script type="text/javascript">
+      INJECTED_SCRIPT_HERE
+    </script>
+
+    <link href="/assets/css/portfolio.css" rel="stylesheet">
+    <script src="/assets/js/portfolio.js"></script>
 
   </head>
   <body>
-    <div id="navbar"></div>
+    <nav id="mainNav" class="navbar navbar-default navbar-fixed-top affix-top" style="background-color: white">
+      <div class="container-fluid">
+        <div class="navbar-header">
+          <button type="button" class="navbar-toggle collapsed" data-toggle="collapse" data-target="#bs-example-navbar-collapse-1">
+            <span class="sr-only">Toggle navigation</span> Menu <i class="fa fa-bars"></i>
+          </button>
+          <a class="navbar-brand page-scroll" href="/index.html"><img alt="Media Lab" src="/assets/img/logo.png" height="30px" width="30px"></a>
+          <a class="navbar-brand" href="/index.html">Refugee Learning Accelerator</a>
+        </div>
+        <div class="collapse navbar-collapse" id="bs-example-navbar-collapse-1">
+          <ul class="nav navbar-nav navbar-right">
+            <li><a id="header-link" class="active class1">GitLab Project</a></li>
+          </ul>
+        </div>
+      </div>
+    </nav>
 
-    <!-- CHALLENGES PAGE -->
 	  <header>
 	    <div class="header-content">
         <div class="header-content-inner">
-          <h1 id="home-heading">Challenges</h1>
+          <h1 id="home-heading"></h1>
         </div>
       </div>
     </header>
     <div class="main-content">
       <div class="col-lg-8 col-lg-push-2">
-        <ul class="nav nav-tabs" role="tablist">
-          <li class="nav-item">
-            <a class="nav-link active" data-toggle="tab" data-chal="challenge1" role="tab">Challenge 1</a>
-          </li>
-          <li class="nav-item">
-            <a class="nav-link" data-toggle="tab" data-chal="challenge2" role="tab">Challenge 2</a>
-          </li>
-          <li class="nav-item">
-            <a class="nav-link" data-toggle="tab" data-chal="challenge3" role="tab">Challenge 3</a>
-          </li>
+        <ul id="submissions-list" class="nav nav-tabs" role="tablist">
         </ul>
         <div class="challenge-data">
-          <h3>Click a tab to view challenge materials...</h3>
+          <h3>Click a tab to view...</h3>
         </div>
       </div>
     </div>
-    <!-- CHALLENGES PAGE -->
 
   </body>
 </html>

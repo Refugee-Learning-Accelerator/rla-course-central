@@ -3,9 +3,7 @@ image: alpine:latest
 pages:
   stage: deploy
   script:
-  - cp participants.json web/assets/json
-  - cp -R teams web/
-  - cd web/scripts; python generate-photo-links.py; cd ../..
+  - bash web/meta/ci-script.sh
   - cp -R web public
   artifacts:
     paths:
